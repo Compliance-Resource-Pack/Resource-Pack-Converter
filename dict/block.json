@@ -1,0 +1,6338 @@
+[
+  {
+    "1_17": "acacia_door_bottom.png",
+    "1_16_4": "acacia_door_bottom.png",
+    "1_16_1": "acacia_door_bottom.png",
+    "1_15_2": "acacia_door_bottom.png",
+    "1_14_4": "acacia_door_bottom.png",
+    "1_13_2": "acacia_door_bottom.png"
+  },
+  {
+    "1_17": "acacia_door_top.png",
+    "1_16_4": "acacia_door_top.png",
+    "1_16_1": "acacia_door_top.png",
+    "1_15_2": "acacia_door_top.png",
+    "1_14_4": "acacia_door_top.png",
+    "1_13_2": "acacia_door_top.png"
+  },
+  {
+    "1_17": "acacia_leaves.png",
+    "1_16_4": "acacia_leaves.png",
+    "1_16_1": "acacia_leaves.png",
+    "1_15_2": "acacia_leaves.png",
+    "1_14_4": "acacia_leaves.png",
+    "1_13_2": "acacia_leaves.png"
+  },
+  {
+    "1_17": "acacia_log.png",
+    "1_16_4": "acacia_log.png",
+    "1_16_1": "acacia_log.png",
+    "1_15_2": "acacia_log.png",
+    "1_14_4": "acacia_log.png",
+    "1_13_2": "acacia_log.png"
+  },
+  {
+    "1_17": "acacia_log_top.png",
+    "1_16_4": "acacia_log_top.png",
+    "1_16_1": "acacia_log_top.png",
+    "1_15_2": "acacia_log_top.png",
+    "1_14_4": "acacia_log_top.png",
+    "1_13_2": "acacia_log_top.png"
+  },
+  {
+    "1_17": "acacia_planks.png",
+    "1_16_4": "acacia_planks.png",
+    "1_16_1": "acacia_planks.png",
+    "1_15_2": "acacia_planks.png",
+    "1_14_4": "acacia_planks.png",
+    "1_13_2": "acacia_planks.png"
+  },
+  {
+    "1_17": "acacia_sapling.png",
+    "1_16_4": "acacia_sapling.png",
+    "1_16_1": "acacia_sapling.png",
+    "1_15_2": "acacia_sapling.png",
+    "1_14_4": "acacia_sapling.png",
+    "1_13_2": "acacia_sapling.png"
+  },
+  {
+    "1_17": "acacia_trapdoor.png",
+    "1_16_4": "acacia_trapdoor.png",
+    "1_16_1": "acacia_trapdoor.png",
+    "1_15_2": "acacia_trapdoor.png",
+    "1_14_4": "acacia_trapdoor.png",
+    "1_13_2": "acacia_trapdoor.png"
+  },
+  {
+    "1_17": "activator_rail.png",
+    "1_16_4": "activator_rail.png",
+    "1_16_1": "activator_rail.png",
+    "1_15_2": "activator_rail.png",
+    "1_14_4": "activator_rail.png",
+    "1_13_2": "activator_rail.png"
+  },
+  {
+    "1_17": "activator_rail_on.png",
+    "1_16_4": "activator_rail_on.png",
+    "1_16_1": "activator_rail_on.png",
+    "1_15_2": "activator_rail_on.png",
+    "1_14_4": "activator_rail_on.png",
+    "1_13_2": "activator_rail_on.png"
+  },
+  {
+    "1_17": "allium.png",
+    "1_16_4": "allium.png",
+    "1_16_1": "allium.png",
+    "1_15_2": "allium.png",
+    "1_14_4": "allium.png",
+    "1_13_2": "allium.png"
+  },
+  {
+    "1_17": "amethyst_block.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "amethyst_cluster.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "ancient_debris_side.png",
+    "1_16_4": "ancient_debris_side.png",
+    "1_16_1": "ancient_debris_side.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "ancient_debris_top.png",
+    "1_16_4": "ancient_debris_top.png",
+    "1_16_1": "ancient_debris_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "andesite.png",
+    "1_16_4": "andesite.png",
+    "1_16_1": "andesite.png",
+    "1_15_2": "andesite.png",
+    "1_14_4": "andesite.png",
+    "1_13_2": "andesite.png"
+  },
+  {
+    "1_17": "anvil.png",
+    "1_16_4": "anvil.png",
+    "1_16_1": "anvil.png",
+    "1_15_2": "anvil.png",
+    "1_14_4": "anvil.png",
+    "1_13_2": "anvil.png"
+  },
+  {
+    "1_17": "anvil_top.png",
+    "1_16_4": "anvil_top.png",
+    "1_16_1": "anvil_top.png",
+    "1_15_2": "anvil_top.png",
+    "1_14_4": "anvil_top.png",
+    "1_13_2": "anvil_top.png"
+  },
+  {
+    "1_17": "attached_melon_stem.png",
+    "1_16_4": "attached_melon_stem.png",
+    "1_16_1": "attached_melon_stem.png",
+    "1_15_2": "attached_melon_stem.png",
+    "1_14_4": "attached_melon_stem.png",
+    "1_13_2": "attached_melon_stem.png"
+  },
+  {
+    "1_17": "attached_pumpkin_stem.png",
+    "1_16_4": "attached_pumpkin_stem.png",
+    "1_16_1": "attached_pumpkin_stem.png",
+    "1_15_2": "attached_pumpkin_stem.png",
+    "1_14_4": "attached_pumpkin_stem.png",
+    "1_13_2": "attached_pumpkin_stem.png"
+  },
+  {
+    "1_17": "azure_bluet.png",
+    "1_16_4": "azure_bluet.png",
+    "1_16_1": "azure_bluet.png",
+    "1_15_2": "azure_bluet.png",
+    "1_14_4": "azure_bluet.png",
+    "1_13_2": "azure_bluet.png"
+  },
+  {
+    "1_17": "bamboo_large_leaves.png",
+    "1_16_4": "bamboo_large_leaves.png",
+    "1_16_1": "bamboo_large_leaves.png",
+    "1_15_2": "bamboo_large_leaves.png",
+    "1_14_4": "bamboo_large_leaves.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "bamboo_singleleaf.png",
+    "1_16_4": "bamboo_singleleaf.png",
+    "1_16_1": "bamboo_singleleaf.png",
+    "1_15_2": "bamboo_singleleaf.png",
+    "1_14_4": "bamboo_singleleaf.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "bamboo_small_leaves.png",
+    "1_16_4": "bamboo_small_leaves.png",
+    "1_16_1": "bamboo_small_leaves.png",
+    "1_15_2": "bamboo_small_leaves.png",
+    "1_14_4": "bamboo_small_leaves.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "bamboo_stage0.png",
+    "1_16_4": "bamboo_stage0.png",
+    "1_16_1": "bamboo_stage0.png",
+    "1_15_2": "bamboo_stage0.png",
+    "1_14_4": "bamboo_stage0.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "bamboo_stalk.png",
+    "1_16_4": "bamboo_stalk.png",
+    "1_16_1": "bamboo_stalk.png",
+    "1_15_2": "bamboo_stalk.png",
+    "1_14_4": "bamboo_stalk.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "barrel_bottom.png",
+    "1_16_4": "barrel_bottom.png",
+    "1_16_1": "barrel_bottom.png",
+    "1_15_2": "barrel_bottom.png",
+    "1_14_4": "barrel_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "barrel_side.png",
+    "1_16_4": "barrel_side.png",
+    "1_16_1": "barrel_side.png",
+    "1_15_2": "barrel_side.png",
+    "1_14_4": "barrel_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "barrel_top.png",
+    "1_16_4": "barrel_top.png",
+    "1_16_1": "barrel_top.png",
+    "1_15_2": "barrel_top.png",
+    "1_14_4": "barrel_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "barrel_top_open.png",
+    "1_16_4": "barrel_top_open.png",
+    "1_16_1": "barrel_top_open.png",
+    "1_15_2": "barrel_top_open.png",
+    "1_14_4": "barrel_top_open.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "basalt_side.png",
+    "1_16_4": "basalt_side.png",
+    "1_16_1": "basalt_side.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "basalt_top.png",
+    "1_16_4": "basalt_top.png",
+    "1_16_1": "basalt_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "beacon.png",
+    "1_16_4": "beacon.png",
+    "1_16_1": "beacon.png",
+    "1_15_2": "beacon.png",
+    "1_14_4": "beacon.png",
+    "1_13_2": "beacon.png"
+  },
+  {
+    "1_17": "bedrock.png",
+    "1_16_4": "bedrock.png",
+    "1_16_1": "bedrock.png",
+    "1_15_2": "bedrock.png",
+    "1_14_4": "bedrock.png",
+    "1_13_2": "bedrock.png"
+  },
+  {
+    "1_17": "beehive_end.png",
+    "1_16_4": "beehive_end.png",
+    "1_16_1": "beehive_end.png",
+    "1_15_2": "beehive_end.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "beehive_front.png",
+    "1_16_4": "beehive_front.png",
+    "1_16_1": "beehive_front.png",
+    "1_15_2": "beehive_front.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "beehive_front_honey.png",
+    "1_16_4": "beehive_front_honey.png",
+    "1_16_1": "beehive_front_honey.png",
+    "1_15_2": "beehive_front_honey.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "beehive_side.png",
+    "1_16_4": "beehive_side.png",
+    "1_16_1": "beehive_side.png",
+    "1_15_2": "beehive_side.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "beetroots_stage0.png",
+    "1_16_4": "beetroots_stage0.png",
+    "1_16_1": "beetroots_stage0.png",
+    "1_15_2": "beetroots_stage0.png",
+    "1_14_4": "beetroots_stage0.png",
+    "1_13_2": "beetroots_stage0.png"
+  },
+  {
+    "1_17": "beetroots_stage1.png",
+    "1_16_4": "beetroots_stage1.png",
+    "1_16_1": "beetroots_stage1.png",
+    "1_15_2": "beetroots_stage1.png",
+    "1_14_4": "beetroots_stage1.png",
+    "1_13_2": "beetroots_stage1.png"
+  },
+  {
+    "1_17": "beetroots_stage2.png",
+    "1_16_4": "beetroots_stage2.png",
+    "1_16_1": "beetroots_stage2.png",
+    "1_15_2": "beetroots_stage2.png",
+    "1_14_4": "beetroots_stage2.png",
+    "1_13_2": "beetroots_stage2.png"
+  },
+  {
+    "1_17": "beetroots_stage3.png",
+    "1_16_4": "beetroots_stage3.png",
+    "1_16_1": "beetroots_stage3.png",
+    "1_15_2": "beetroots_stage3.png",
+    "1_14_4": "beetroots_stage3.png",
+    "1_13_2": "beetroots_stage3.png"
+  },
+  {
+    "1_17": "bee_nest_bottom.png",
+    "1_16_4": "bee_nest_bottom.png",
+    "1_16_1": "bee_nest_bottom.png",
+    "1_15_2": "bee_nest_bottom.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "bee_nest_front.png",
+    "1_16_4": "bee_nest_front.png",
+    "1_16_1": "bee_nest_front.png",
+    "1_15_2": "bee_nest_front.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "bee_nest_front_honey.png",
+    "1_16_4": "bee_nest_front_honey.png",
+    "1_16_1": "bee_nest_front_honey.png",
+    "1_15_2": "bee_nest_front_honey.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "bee_nest_side.png",
+    "1_16_4": "bee_nest_side.png",
+    "1_16_1": "bee_nest_side.png",
+    "1_15_2": "bee_nest_side.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "bee_nest_top.png",
+    "1_16_4": "bee_nest_top.png",
+    "1_16_1": "bee_nest_top.png",
+    "1_15_2": "bee_nest_top.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "bell_bottom.png",
+    "1_16_4": "bell_bottom.png",
+    "1_16_1": "bell_bottom.png",
+    "1_15_2": "bell_bottom.png",
+    "1_14_4": "bell_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "bell_side.png",
+    "1_16_4": "bell_side.png",
+    "1_16_1": "bell_side.png",
+    "1_15_2": "bell_side.png",
+    "1_14_4": "bell_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "bell_top.png",
+    "1_16_4": "bell_top.png",
+    "1_16_1": "bell_top.png",
+    "1_15_2": "bell_top.png",
+    "1_14_4": "bell_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "birch_door_bottom.png",
+    "1_16_4": "birch_door_bottom.png",
+    "1_16_1": "birch_door_bottom.png",
+    "1_15_2": "birch_door_bottom.png",
+    "1_14_4": "birch_door_bottom.png",
+    "1_13_2": "birch_door_bottom.png"
+  },
+  {
+    "1_17": "birch_door_top.png",
+    "1_16_4": "birch_door_top.png",
+    "1_16_1": "birch_door_top.png",
+    "1_15_2": "birch_door_top.png",
+    "1_14_4": "birch_door_top.png",
+    "1_13_2": "birch_door_top.png"
+  },
+  {
+    "1_17": "birch_leaves.png",
+    "1_16_4": "birch_leaves.png",
+    "1_16_1": "birch_leaves.png",
+    "1_15_2": "birch_leaves.png",
+    "1_14_4": "birch_leaves.png",
+    "1_13_2": "birch_leaves.png"
+  },
+  {
+    "1_17": "birch_log.png",
+    "1_16_4": "birch_log.png",
+    "1_16_1": "birch_log.png",
+    "1_15_2": "birch_log.png",
+    "1_14_4": "birch_log.png",
+    "1_13_2": "birch_log.png"
+  },
+  {
+    "1_17": "birch_log_top.png",
+    "1_16_4": "birch_log_top.png",
+    "1_16_1": "birch_log_top.png",
+    "1_15_2": "birch_log_top.png",
+    "1_14_4": "birch_log_top.png",
+    "1_13_2": "birch_log_top.png"
+  },
+  {
+    "1_17": "birch_planks.png",
+    "1_16_4": "birch_planks.png",
+    "1_16_1": "birch_planks.png",
+    "1_15_2": "birch_planks.png",
+    "1_14_4": "birch_planks.png",
+    "1_13_2": "birch_planks.png"
+  },
+  {
+    "1_17": "birch_sapling.png",
+    "1_16_4": "birch_sapling.png",
+    "1_16_1": "birch_sapling.png",
+    "1_15_2": "birch_sapling.png",
+    "1_14_4": "birch_sapling.png",
+    "1_13_2": "birch_sapling.png"
+  },
+  {
+    "1_17": "birch_trapdoor.png",
+    "1_16_4": "birch_trapdoor.png",
+    "1_16_1": "birch_trapdoor.png",
+    "1_15_2": "birch_trapdoor.png",
+    "1_14_4": "birch_trapdoor.png",
+    "1_13_2": "birch_trapdoor.png"
+  },
+  {
+    "1_17": "blackstone.png",
+    "1_16_4": "blackstone.png",
+    "1_16_1": "blackstone.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "blackstone_top.png",
+    "1_16_4": "blackstone_top.png",
+    "1_16_1": "blackstone_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "black_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "black_concrete.png",
+    "1_16_4": "black_concrete.png",
+    "1_16_1": "black_concrete.png",
+    "1_15_2": "black_concrete.png",
+    "1_14_4": "black_concrete.png",
+    "1_13_2": "black_concrete.png"
+  },
+  {
+    "1_17": "black_concrete_powder.png",
+    "1_16_4": "black_concrete_powder.png",
+    "1_16_1": "black_concrete_powder.png",
+    "1_15_2": "black_concrete_powder.png",
+    "1_14_4": "black_concrete_powder.png",
+    "1_13_2": "black_concrete_powder.png"
+  },
+  {
+    "1_17": "black_glazed_terracotta.png",
+    "1_16_4": "black_glazed_terracotta.png",
+    "1_16_1": "black_glazed_terracotta.png",
+    "1_15_2": "black_glazed_terracotta.png",
+    "1_14_4": "black_glazed_terracotta.png",
+    "1_13_2": "black_glazed_terracotta.png"
+  },
+  {
+    "1_17": "black_shulker_box.png",
+    "1_16_4": "black_shulker_box.png",
+    "1_16_1": "black_shulker_box.png",
+    "1_15_2": "black_shulker_box.png",
+    "1_14_4": "black_shulker_box.png",
+    "1_13_2": "black_shulker_box.png"
+  },
+  {
+    "1_17": "black_stained_glass.png",
+    "1_16_4": "black_stained_glass.png",
+    "1_16_1": "black_stained_glass.png",
+    "1_15_2": "black_stained_glass.png",
+    "1_14_4": "black_stained_glass.png",
+    "1_13_2": "black_stained_glass.png"
+  },
+  {
+    "1_17": "black_stained_glass_pane_top.png",
+    "1_16_4": "black_stained_glass_pane_top.png",
+    "1_16_1": "black_stained_glass_pane_top.png",
+    "1_15_2": "black_stained_glass_pane_top.png",
+    "1_14_4": "black_stained_glass_pane_top.png",
+    "1_13_2": "black_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "black_terracotta.png",
+    "1_16_4": "black_terracotta.png",
+    "1_16_1": "black_terracotta.png",
+    "1_15_2": "black_terracotta.png",
+    "1_14_4": "black_terracotta.png",
+    "1_13_2": "black_terracotta.png"
+  },
+  {
+    "1_17": "black_wool.png",
+    "1_16_4": "black_wool.png",
+    "1_16_1": "black_wool.png",
+    "1_15_2": "black_wool.png",
+    "1_14_4": "black_wool.png",
+    "1_13_2": "black_wool.png"
+  },
+  {
+    "1_17": "blast_furnace_front.png",
+    "1_16_4": "blast_furnace_front.png",
+    "1_16_1": "blast_furnace_front.png",
+    "1_15_2": "blast_furnace_front.png",
+    "1_14_4": "blast_furnace_front.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "blast_furnace_front_on.png",
+    "1_16_4": "blast_furnace_front_on.png",
+    "1_16_1": "blast_furnace_front_on.png",
+    "1_15_2": "blast_furnace_front_on.png",
+    "1_14_4": "blast_furnace_front_on.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "blast_furnace_front_on.png.mcmeta",
+    "1_16_4": "blast_furnace_front_on.png.mcmeta",
+    "1_16_1": "blast_furnace_front_on.png.mcmeta",
+    "1_15_2": "blast_furnace_front_on.png.mcmeta",
+    "1_14_4": "blast_furnace_front_on.png.mcmeta",
+    "1_13_2": null
+  },
+  {
+    "1_17": "blast_furnace_side.png",
+    "1_16_4": "blast_furnace_side.png",
+    "1_16_1": "blast_furnace_side.png",
+    "1_15_2": "blast_furnace_side.png",
+    "1_14_4": "blast_furnace_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "blast_furnace_top.png",
+    "1_16_4": "blast_furnace_top.png",
+    "1_16_1": "blast_furnace_top.png",
+    "1_15_2": "blast_furnace_top.png",
+    "1_14_4": "blast_furnace_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "blue_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "blue_concrete.png",
+    "1_16_4": "blue_concrete.png",
+    "1_16_1": "blue_concrete.png",
+    "1_15_2": "blue_concrete.png",
+    "1_14_4": "blue_concrete.png",
+    "1_13_2": "blue_concrete.png"
+  },
+  {
+    "1_17": "blue_concrete_powder.png",
+    "1_16_4": "blue_concrete_powder.png",
+    "1_16_1": "blue_concrete_powder.png",
+    "1_15_2": "blue_concrete_powder.png",
+    "1_14_4": "blue_concrete_powder.png",
+    "1_13_2": "blue_concrete_powder.png"
+  },
+  {
+    "1_17": "blue_glazed_terracotta.png",
+    "1_16_4": "blue_glazed_terracotta.png",
+    "1_16_1": "blue_glazed_terracotta.png",
+    "1_15_2": "blue_glazed_terracotta.png",
+    "1_14_4": "blue_glazed_terracotta.png",
+    "1_13_2": "blue_glazed_terracotta.png"
+  },
+  {
+    "1_17": "blue_ice.png",
+    "1_16_4": "blue_ice.png",
+    "1_16_1": "blue_ice.png",
+    "1_15_2": "blue_ice.png",
+    "1_14_4": "blue_ice.png",
+    "1_13_2": "blue_ice.png"
+  },
+  {
+    "1_17": "blue_orchid.png",
+    "1_16_4": "blue_orchid.png",
+    "1_16_1": "blue_orchid.png",
+    "1_15_2": "blue_orchid.png",
+    "1_14_4": "blue_orchid.png",
+    "1_13_2": "blue_orchid.png"
+  },
+  {
+    "1_17": "blue_shulker_box.png",
+    "1_16_4": "blue_shulker_box.png",
+    "1_16_1": "blue_shulker_box.png",
+    "1_15_2": "blue_shulker_box.png",
+    "1_14_4": "blue_shulker_box.png",
+    "1_13_2": "blue_shulker_box.png"
+  },
+  {
+    "1_17": "blue_stained_glass.png",
+    "1_16_4": "blue_stained_glass.png",
+    "1_16_1": "blue_stained_glass.png",
+    "1_15_2": "blue_stained_glass.png",
+    "1_14_4": "blue_stained_glass.png",
+    "1_13_2": "blue_stained_glass.png"
+  },
+  {
+    "1_17": "blue_stained_glass_pane_top.png",
+    "1_16_4": "blue_stained_glass_pane_top.png",
+    "1_16_1": "blue_stained_glass_pane_top.png",
+    "1_15_2": "blue_stained_glass_pane_top.png",
+    "1_14_4": "blue_stained_glass_pane_top.png",
+    "1_13_2": "blue_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "blue_terracotta.png",
+    "1_16_4": "blue_terracotta.png",
+    "1_16_1": "blue_terracotta.png",
+    "1_15_2": "blue_terracotta.png",
+    "1_14_4": "blue_terracotta.png",
+    "1_13_2": "blue_terracotta.png"
+  },
+  {
+    "1_17": "blue_wool.png",
+    "1_16_4": "blue_wool.png",
+    "1_16_1": "blue_wool.png",
+    "1_15_2": "blue_wool.png",
+    "1_14_4": "blue_wool.png",
+    "1_13_2": "blue_wool.png"
+  },
+  {
+    "1_17": "bone_block_side.png",
+    "1_16_4": "bone_block_side.png",
+    "1_16_1": "bone_block_side.png",
+    "1_15_2": "bone_block_side.png",
+    "1_14_4": "bone_block_side.png",
+    "1_13_2": "bone_block_side.png"
+  },
+  {
+    "1_17": "bone_block_top.png",
+    "1_16_4": "bone_block_top.png",
+    "1_16_1": "bone_block_top.png",
+    "1_15_2": "bone_block_top.png",
+    "1_14_4": "bone_block_top.png",
+    "1_13_2": "bone_block_top.png"
+  },
+  {
+    "1_17": "bookshelf.png",
+    "1_16_4": "bookshelf.png",
+    "1_16_1": "bookshelf.png",
+    "1_15_2": "bookshelf.png",
+    "1_14_4": "bookshelf.png",
+    "1_13_2": "bookshelf.png"
+  },
+  {
+    "1_17": "brain_coral.png",
+    "1_16_4": "brain_coral.png",
+    "1_16_1": "brain_coral.png",
+    "1_15_2": "brain_coral.png",
+    "1_14_4": "brain_coral.png",
+    "1_13_2": "brain_coral.png"
+  },
+  {
+    "1_17": "brain_coral_block.png",
+    "1_16_4": "brain_coral_block.png",
+    "1_16_1": "brain_coral_block.png",
+    "1_15_2": "brain_coral_block.png",
+    "1_14_4": "brain_coral_block.png",
+    "1_13_2": "brain_coral_block.png"
+  },
+  {
+    "1_17": "brain_coral_fan.png",
+    "1_16_4": "brain_coral_fan.png",
+    "1_16_1": "brain_coral_fan.png",
+    "1_15_2": "brain_coral_fan.png",
+    "1_14_4": "brain_coral_fan.png",
+    "1_13_2": "brain_coral_fan.png"
+  },
+  {
+    "1_17": "brewing_stand.png",
+    "1_16_4": "brewing_stand.png",
+    "1_16_1": "brewing_stand.png",
+    "1_15_2": "brewing_stand.png",
+    "1_14_4": "brewing_stand.png",
+    "1_13_2": "brewing_stand.png"
+  },
+  {
+    "1_17": "brewing_stand_base.png",
+    "1_16_4": "brewing_stand_base.png",
+    "1_16_1": "brewing_stand_base.png",
+    "1_15_2": "brewing_stand_base.png",
+    "1_14_4": "brewing_stand_base.png",
+    "1_13_2": "brewing_stand_base.png"
+  },
+  {
+    "1_17": "bricks.png",
+    "1_16_4": "bricks.png",
+    "1_16_1": "bricks.png",
+    "1_15_2": "bricks.png",
+    "1_14_4": "bricks.png",
+    "1_13_2": "bricks.png"
+  },
+  {
+    "1_17": "brown_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "brown_concrete.png",
+    "1_16_4": "brown_concrete.png",
+    "1_16_1": "brown_concrete.png",
+    "1_15_2": "brown_concrete.png",
+    "1_14_4": "brown_concrete.png",
+    "1_13_2": "brown_concrete.png"
+  },
+  {
+    "1_17": "brown_concrete_powder.png",
+    "1_16_4": "brown_concrete_powder.png",
+    "1_16_1": "brown_concrete_powder.png",
+    "1_15_2": "brown_concrete_powder.png",
+    "1_14_4": "brown_concrete_powder.png",
+    "1_13_2": "brown_concrete_powder.png"
+  },
+  {
+    "1_17": "brown_glazed_terracotta.png",
+    "1_16_4": "brown_glazed_terracotta.png",
+    "1_16_1": "brown_glazed_terracotta.png",
+    "1_15_2": "brown_glazed_terracotta.png",
+    "1_14_4": "brown_glazed_terracotta.png",
+    "1_13_2": "brown_glazed_terracotta.png"
+  },
+  {
+    "1_17": "brown_mushroom.png",
+    "1_16_4": "brown_mushroom.png",
+    "1_16_1": "brown_mushroom.png",
+    "1_15_2": "brown_mushroom.png",
+    "1_14_4": "brown_mushroom.png",
+    "1_13_2": "brown_mushroom.png"
+  },
+  {
+    "1_17": "brown_mushroom_block.png",
+    "1_16_4": "brown_mushroom_block.png",
+    "1_16_1": "brown_mushroom_block.png",
+    "1_15_2": "brown_mushroom_block.png",
+    "1_14_4": "brown_mushroom_block.png",
+    "1_13_2": "brown_mushroom_block.png"
+  },
+  {
+    "1_17": "brown_shulker_box.png",
+    "1_16_4": "brown_shulker_box.png",
+    "1_16_1": "brown_shulker_box.png",
+    "1_15_2": "brown_shulker_box.png",
+    "1_14_4": "brown_shulker_box.png",
+    "1_13_2": "brown_shulker_box.png"
+  },
+  {
+    "1_17": "brown_stained_glass.png",
+    "1_16_4": "brown_stained_glass.png",
+    "1_16_1": "brown_stained_glass.png",
+    "1_15_2": "brown_stained_glass.png",
+    "1_14_4": "brown_stained_glass.png",
+    "1_13_2": "brown_stained_glass.png"
+  },
+  {
+    "1_17": "brown_stained_glass_pane_top.png",
+    "1_16_4": "brown_stained_glass_pane_top.png",
+    "1_16_1": "brown_stained_glass_pane_top.png",
+    "1_15_2": "brown_stained_glass_pane_top.png",
+    "1_14_4": "brown_stained_glass_pane_top.png",
+    "1_13_2": "brown_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "brown_terracotta.png",
+    "1_16_4": "brown_terracotta.png",
+    "1_16_1": "brown_terracotta.png",
+    "1_15_2": "brown_terracotta.png",
+    "1_14_4": "brown_terracotta.png",
+    "1_13_2": "brown_terracotta.png"
+  },
+  {
+    "1_17": "brown_wool.png",
+    "1_16_4": "brown_wool.png",
+    "1_16_1": "brown_wool.png",
+    "1_15_2": "brown_wool.png",
+    "1_14_4": "brown_wool.png",
+    "1_13_2": "brown_wool.png"
+  },
+  {
+    "1_17": "bubble_coral.png",
+    "1_16_4": "bubble_coral.png",
+    "1_16_1": "bubble_coral.png",
+    "1_15_2": "bubble_coral.png",
+    "1_14_4": "bubble_coral.png",
+    "1_13_2": "bubble_coral.png"
+  },
+  {
+    "1_17": "bubble_coral_block.png",
+    "1_16_4": "bubble_coral_block.png",
+    "1_16_1": "bubble_coral_block.png",
+    "1_15_2": "bubble_coral_block.png",
+    "1_14_4": "bubble_coral_block.png",
+    "1_13_2": "bubble_coral_block.png"
+  },
+  {
+    "1_17": "bubble_coral_fan.png",
+    "1_16_4": "bubble_coral_fan.png",
+    "1_16_1": "bubble_coral_fan.png",
+    "1_15_2": "bubble_coral_fan.png",
+    "1_14_4": "bubble_coral_fan.png",
+    "1_13_2": "bubble_coral_fan.png"
+  },
+  {
+    "1_17": "budding_amethyst.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "cactus_bottom.png",
+    "1_16_4": "cactus_bottom.png",
+    "1_16_1": "cactus_bottom.png",
+    "1_15_2": "cactus_bottom.png",
+    "1_14_4": "cactus_bottom.png",
+    "1_13_2": "cactus_bottom.png"
+  },
+  {
+    "1_17": "cactus_side.png",
+    "1_16_4": "cactus_side.png",
+    "1_16_1": "cactus_side.png",
+    "1_15_2": "cactus_side.png",
+    "1_14_4": "cactus_side.png",
+    "1_13_2": "cactus_side.png"
+  },
+  {
+    "1_17": "cactus_top.png",
+    "1_16_4": "cactus_top.png",
+    "1_16_1": "cactus_top.png",
+    "1_15_2": "cactus_top.png",
+    "1_14_4": "cactus_top.png",
+    "1_13_2": "cactus_top.png"
+  },
+  {
+    "1_17": "cake_bottom.png",
+    "1_16_4": "cake_bottom.png",
+    "1_16_1": "cake_bottom.png",
+    "1_15_2": "cake_bottom.png",
+    "1_14_4": "cake_bottom.png",
+    "1_13_2": "cake_bottom.png"
+  },
+  {
+    "1_17": "cake_inner.png",
+    "1_16_4": "cake_inner.png",
+    "1_16_1": "cake_inner.png",
+    "1_15_2": "cake_inner.png",
+    "1_14_4": "cake_inner.png",
+    "1_13_2": "cake_inner.png"
+  },
+  {
+    "1_17": "cake_side.png",
+    "1_16_4": "cake_side.png",
+    "1_16_1": "cake_side.png",
+    "1_15_2": "cake_side.png",
+    "1_14_4": "cake_side.png",
+    "1_13_2": "cake_side.png"
+  },
+  {
+    "1_17": "cake_top.png",
+    "1_16_4": "cake_top.png",
+    "1_16_1": "cake_top.png",
+    "1_15_2": "cake_top.png",
+    "1_14_4": "cake_top.png",
+    "1_13_2": "cake_top.png"
+  },
+  {
+    "1_17": "calcite.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "calibrated_sculk_sensor_side.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "calibrated_sculk_sensor_top.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "campfire_fire.png",
+    "1_16_4": "campfire_fire.png",
+    "1_16_1": "campfire_fire.png",
+    "1_15_2": "campfire_fire.png",
+    "1_14_4": "campfire_fire.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "campfire_fire.png.mcmeta",
+    "1_16_4": "campfire_fire.png.mcmeta",
+    "1_16_1": "campfire_fire.png.mcmeta",
+    "1_15_2": "campfire_fire.png.mcmeta",
+    "1_14_4": "campfire_fire.png.mcmeta",
+    "1_13_2": null
+  },
+  {
+    "1_17": "campfire_log.png",
+    "1_16_4": "campfire_log.png",
+    "1_16_1": "campfire_log.png",
+    "1_15_2": "campfire_log.png",
+    "1_14_4": "campfire_log.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "campfire_log_lit.png",
+    "1_16_4": "campfire_log_lit.png",
+    "1_16_1": "campfire_log_lit.png",
+    "1_15_2": "campfire_log_lit.png",
+    "1_14_4": "campfire_log_lit.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "campfire_log_lit.png.mcmeta",
+    "1_16_4": "campfire_log_lit.png.mcmeta",
+    "1_16_1": "campfire_log_lit.png.mcmeta",
+    "1_15_2": "campfire_log_lit.png.mcmeta",
+    "1_14_4": "campfire_log_lit.png.mcmeta",
+    "1_13_2": null
+  },
+  {
+    "1_17": "candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "carrots_stage0.png",
+    "1_16_4": "carrots_stage0.png",
+    "1_16_1": "carrots_stage0.png",
+    "1_15_2": "carrots_stage0.png",
+    "1_14_4": "carrots_stage0.png",
+    "1_13_2": "carrots_stage0.png"
+  },
+  {
+    "1_17": "carrots_stage1.png",
+    "1_16_4": "carrots_stage1.png",
+    "1_16_1": "carrots_stage1.png",
+    "1_15_2": "carrots_stage1.png",
+    "1_14_4": "carrots_stage1.png",
+    "1_13_2": "carrots_stage1.png"
+  },
+  {
+    "1_17": "carrots_stage2.png",
+    "1_16_4": "carrots_stage2.png",
+    "1_16_1": "carrots_stage2.png",
+    "1_15_2": "carrots_stage2.png",
+    "1_14_4": "carrots_stage2.png",
+    "1_13_2": "carrots_stage2.png"
+  },
+  {
+    "1_17": "carrots_stage3.png",
+    "1_16_4": "carrots_stage3.png",
+    "1_16_1": "carrots_stage3.png",
+    "1_15_2": "carrots_stage3.png",
+    "1_14_4": "carrots_stage3.png",
+    "1_13_2": "carrots_stage3.png"
+  },
+  {
+    "1_17": "cartography_table_side1.png",
+    "1_16_4": "cartography_table_side1.png",
+    "1_16_1": "cartography_table_side1.png",
+    "1_15_2": "cartography_table_side1.png",
+    "1_14_4": "cartography_table_side1.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "cartography_table_side2.png",
+    "1_16_4": "cartography_table_side2.png",
+    "1_16_1": "cartography_table_side2.png",
+    "1_15_2": "cartography_table_side2.png",
+    "1_14_4": "cartography_table_side2.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "cartography_table_side3.png",
+    "1_16_4": "cartography_table_side3.png",
+    "1_16_1": "cartography_table_side3.png",
+    "1_15_2": "cartography_table_side3.png",
+    "1_14_4": "cartography_table_side3.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "cartography_table_top.png",
+    "1_16_4": "cartography_table_top.png",
+    "1_16_1": "cartography_table_top.png",
+    "1_15_2": "cartography_table_top.png",
+    "1_14_4": "cartography_table_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "carved_pumpkin.png",
+    "1_16_4": "carved_pumpkin.png",
+    "1_16_1": "carved_pumpkin.png",
+    "1_15_2": "carved_pumpkin.png",
+    "1_14_4": "carved_pumpkin.png",
+    "1_13_2": "carved_pumpkin.png"
+  },
+  {
+    "1_17": "cauldron_bottom.png",
+    "1_16_4": "cauldron_bottom.png",
+    "1_16_1": "cauldron_bottom.png",
+    "1_15_2": "cauldron_bottom.png",
+    "1_14_4": "cauldron_bottom.png",
+    "1_13_2": "cauldron_bottom.png"
+  },
+  {
+    "1_17": "cauldron_inner.png",
+    "1_16_4": "cauldron_inner.png",
+    "1_16_1": "cauldron_inner.png",
+    "1_15_2": "cauldron_inner.png",
+    "1_14_4": "cauldron_inner.png",
+    "1_13_2": "cauldron_inner.png"
+  },
+  {
+    "1_17": "cauldron_side.png",
+    "1_16_4": "cauldron_side.png",
+    "1_16_1": "cauldron_side.png",
+    "1_15_2": "cauldron_side.png",
+    "1_14_4": "cauldron_side.png",
+    "1_13_2": "cauldron_side.png"
+  },
+  {
+    "1_17": "cauldron_top.png",
+    "1_16_4": "cauldron_top.png",
+    "1_16_1": "cauldron_top.png",
+    "1_15_2": "cauldron_top.png",
+    "1_14_4": "cauldron_top.png",
+    "1_13_2": "cauldron_top.png"
+  },
+  {
+    "1_17": "chain.png",
+    "1_16_4": "chain.png",
+    "1_16_1": "chain.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "chain_command_block_back.png",
+    "1_16_4": "chain_command_block_back.png",
+    "1_16_1": "chain_command_block_back.png",
+    "1_15_2": "chain_command_block_back.png",
+    "1_14_4": "chain_command_block_back.png",
+    "1_13_2": "chain_command_block_back.png"
+  },
+  {
+    "1_17": "chain_command_block_back.png.mcmeta",
+    "1_16_4": "chain_command_block_back.png.mcmeta",
+    "1_16_1": "chain_command_block_back.png.mcmeta",
+    "1_15_2": "chain_command_block_back.png.mcmeta",
+    "1_14_4": "chain_command_block_back.png.mcmeta",
+    "1_13_2": "chain_command_block_back.png.mcmeta"
+  },
+  {
+    "1_17": "chain_command_block_conditional.png",
+    "1_16_4": "chain_command_block_conditional.png",
+    "1_16_1": "chain_command_block_conditional.png",
+    "1_15_2": "chain_command_block_conditional.png",
+    "1_14_4": "chain_command_block_conditional.png",
+    "1_13_2": "chain_command_block_conditional.png"
+  },
+  {
+    "1_17": "chain_command_block_conditional.png.mcmeta",
+    "1_16_4": "chain_command_block_conditional.png.mcmeta",
+    "1_16_1": "chain_command_block_conditional.png.mcmeta",
+    "1_15_2": "chain_command_block_conditional.png.mcmeta",
+    "1_14_4": "chain_command_block_conditional.png.mcmeta",
+    "1_13_2": "chain_command_block_conditional.png.mcmeta"
+  },
+  {
+    "1_17": "chain_command_block_front.png",
+    "1_16_4": "chain_command_block_front.png",
+    "1_16_1": "chain_command_block_front.png",
+    "1_15_2": "chain_command_block_front.png",
+    "1_14_4": "chain_command_block_front.png",
+    "1_13_2": "chain_command_block_front.png"
+  },
+  {
+    "1_17": "chain_command_block_front.png.mcmeta",
+    "1_16_4": "chain_command_block_front.png.mcmeta",
+    "1_16_1": "chain_command_block_front.png.mcmeta",
+    "1_15_2": "chain_command_block_front.png.mcmeta",
+    "1_14_4": "chain_command_block_front.png.mcmeta",
+    "1_13_2": "chain_command_block_front.png.mcmeta"
+  },
+  {
+    "1_17": "chain_command_block_side.png",
+    "1_16_4": "chain_command_block_side.png",
+    "1_16_1": "chain_command_block_side.png",
+    "1_15_2": "chain_command_block_side.png",
+    "1_14_4": "chain_command_block_side.png",
+    "1_13_2": "chain_command_block_side.png"
+  },
+  {
+    "1_17": "chain_command_block_side.png.mcmeta",
+    "1_16_4": "chain_command_block_side.png.mcmeta",
+    "1_16_1": "chain_command_block_side.png.mcmeta",
+    "1_15_2": "chain_command_block_side.png.mcmeta",
+    "1_14_4": "chain_command_block_side.png.mcmeta",
+    "1_13_2": "chain_command_block_side.png.mcmeta"
+  },
+  {
+    "1_17": "chipped_anvil_top.png",
+    "1_16_4": "chipped_anvil_top.png",
+    "1_16_1": "chipped_anvil_top.png",
+    "1_15_2": "chipped_anvil_top.png",
+    "1_14_4": "chipped_anvil_top.png",
+    "1_13_2": "chipped_anvil_top.png"
+  },
+  {
+    "1_17": "chiseled_nether_bricks.png",
+    "1_16_4": "chiseled_nether_bricks.png",
+    "1_16_1": "chiseled_nether_bricks.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "chiseled_polished_blackstone.png",
+    "1_16_4": "chiseled_polished_blackstone.png",
+    "1_16_1": "chiseled_polished_blackstone.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "chiseled_quartz_block.png",
+    "1_16_4": "chiseled_quartz_block.png",
+    "1_16_1": "chiseled_quartz_block.png",
+    "1_15_2": "chiseled_quartz_block.png",
+    "1_14_4": "chiseled_quartz_block.png",
+    "1_13_2": "chiseled_quartz_block.png"
+  },
+  {
+    "1_17": "chiseled_quartz_block_top.png",
+    "1_16_4": "chiseled_quartz_block_top.png",
+    "1_16_1": "chiseled_quartz_block_top.png",
+    "1_15_2": "chiseled_quartz_block_top.png",
+    "1_14_4": "chiseled_quartz_block_top.png",
+    "1_13_2": "chiseled_quartz_block_top.png"
+  },
+  {
+    "1_17": "chiseled_red_sandstone.png",
+    "1_16_4": "chiseled_red_sandstone.png",
+    "1_16_1": "chiseled_red_sandstone.png",
+    "1_15_2": "chiseled_red_sandstone.png",
+    "1_14_4": "chiseled_red_sandstone.png",
+    "1_13_2": "chiseled_red_sandstone.png"
+  },
+  {
+    "1_17": "chiseled_sandstone.png",
+    "1_16_4": "chiseled_sandstone.png",
+    "1_16_1": "chiseled_sandstone.png",
+    "1_15_2": "chiseled_sandstone.png",
+    "1_14_4": "chiseled_sandstone.png",
+    "1_13_2": "chiseled_sandstone.png"
+  },
+  {
+    "1_17": "chiseled_stone_bricks.png",
+    "1_16_4": "chiseled_stone_bricks.png",
+    "1_16_1": "chiseled_stone_bricks.png",
+    "1_15_2": "chiseled_stone_bricks.png",
+    "1_14_4": "chiseled_stone_bricks.png",
+    "1_13_2": "chiseled_stone_bricks.png"
+  },
+  {
+    "1_17": "chorus_flower.png",
+    "1_16_4": "chorus_flower.png",
+    "1_16_1": "chorus_flower.png",
+    "1_15_2": "chorus_flower.png",
+    "1_14_4": "chorus_flower.png",
+    "1_13_2": "chorus_flower.png"
+  },
+  {
+    "1_17": "chorus_flower_dead.png",
+    "1_16_4": "chorus_flower_dead.png",
+    "1_16_1": "chorus_flower_dead.png",
+    "1_15_2": "chorus_flower_dead.png",
+    "1_14_4": "chorus_flower_dead.png",
+    "1_13_2": "chorus_flower_dead.png"
+  },
+  {
+    "1_17": "chorus_plant.png",
+    "1_16_4": "chorus_plant.png",
+    "1_16_1": "chorus_plant.png",
+    "1_15_2": "chorus_plant.png",
+    "1_14_4": "chorus_plant.png",
+    "1_13_2": "chorus_plant.png"
+  },
+  {
+    "1_17": "clay.png",
+    "1_16_4": "clay.png",
+    "1_16_1": "clay.png",
+    "1_15_2": "clay.png",
+    "1_14_4": "clay.png",
+    "1_13_2": "clay.png"
+  },
+  {
+    "1_17": "coal_block.png",
+    "1_16_4": "coal_block.png",
+    "1_16_1": "coal_block.png",
+    "1_15_2": "coal_block.png",
+    "1_14_4": "coal_block.png",
+    "1_13_2": "coal_block.png"
+  },
+  {
+    "1_17": "coal_ore.png",
+    "1_16_4": "coal_ore.png",
+    "1_16_1": "coal_ore.png",
+    "1_15_2": "coal_ore.png",
+    "1_14_4": "coal_ore.png",
+    "1_13_2": "coal_ore.png"
+  },
+  {
+    "1_17": "coarse_dirt.png",
+    "1_16_4": "coarse_dirt.png",
+    "1_16_1": "coarse_dirt.png",
+    "1_15_2": "coarse_dirt.png",
+    "1_14_4": "coarse_dirt.png",
+    "1_13_2": "coarse_dirt.png"
+  },
+  {
+    "1_17": "cobblestone.png",
+    "1_16_4": "cobblestone.png",
+    "1_16_1": "cobblestone.png",
+    "1_15_2": "cobblestone.png",
+    "1_14_4": "cobblestone.png",
+    "1_13_2": "cobblestone.png"
+  },
+  {
+    "1_17": "cobweb.png",
+    "1_16_4": "cobweb.png",
+    "1_16_1": "cobweb.png",
+    "1_15_2": "cobweb.png",
+    "1_14_4": "cobweb.png",
+    "1_13_2": "cobweb.png"
+  },
+  {
+    "1_17": "cocoa_stage0.png",
+    "1_16_4": "cocoa_stage0.png",
+    "1_16_1": "cocoa_stage0.png",
+    "1_15_2": "cocoa_stage0.png",
+    "1_14_4": "cocoa_stage0.png",
+    "1_13_2": "cocoa_stage0.png"
+  },
+  {
+    "1_17": "cocoa_stage1.png",
+    "1_16_4": "cocoa_stage1.png",
+    "1_16_1": "cocoa_stage1.png",
+    "1_15_2": "cocoa_stage1.png",
+    "1_14_4": "cocoa_stage1.png",
+    "1_13_2": "cocoa_stage1.png"
+  },
+  {
+    "1_17": "cocoa_stage2.png",
+    "1_16_4": "cocoa_stage2.png",
+    "1_16_1": "cocoa_stage2.png",
+    "1_15_2": "cocoa_stage2.png",
+    "1_14_4": "cocoa_stage2.png",
+    "1_13_2": "cocoa_stage2.png"
+  },
+  {
+    "1_17": "command_block_back.png",
+    "1_16_4": "command_block_back.png",
+    "1_16_1": "command_block_back.png",
+    "1_15_2": "command_block_back.png",
+    "1_14_4": "command_block_back.png",
+    "1_13_2": "command_block_back.png"
+  },
+  {
+    "1_17": "command_block_back.png.mcmeta",
+    "1_16_4": "command_block_back.png.mcmeta",
+    "1_16_1": "command_block_back.png.mcmeta",
+    "1_15_2": "command_block_back.png.mcmeta",
+    "1_14_4": "command_block_back.png.mcmeta",
+    "1_13_2": "command_block_back.png.mcmeta"
+  },
+  {
+    "1_17": "command_block_conditional.png",
+    "1_16_4": "command_block_conditional.png",
+    "1_16_1": "command_block_conditional.png",
+    "1_15_2": "command_block_conditional.png",
+    "1_14_4": "command_block_conditional.png",
+    "1_13_2": "command_block_conditional.png"
+  },
+  {
+    "1_17": "command_block_conditional.png.mcmeta",
+    "1_16_4": "command_block_conditional.png.mcmeta",
+    "1_16_1": "command_block_conditional.png.mcmeta",
+    "1_15_2": "command_block_conditional.png.mcmeta",
+    "1_14_4": "command_block_conditional.png.mcmeta",
+    "1_13_2": "command_block_conditional.png.mcmeta"
+  },
+  {
+    "1_17": "command_block_front.png",
+    "1_16_4": "command_block_front.png",
+    "1_16_1": "command_block_front.png",
+    "1_15_2": "command_block_front.png",
+    "1_14_4": "command_block_front.png",
+    "1_13_2": "command_block_front.png"
+  },
+  {
+    "1_17": "command_block_front.png.mcmeta",
+    "1_16_4": "command_block_front.png.mcmeta",
+    "1_16_1": "command_block_front.png.mcmeta",
+    "1_15_2": "command_block_front.png.mcmeta",
+    "1_14_4": "command_block_front.png.mcmeta",
+    "1_13_2": "command_block_front.png.mcmeta"
+  },
+  {
+    "1_17": "command_block_side.png",
+    "1_16_4": "command_block_side.png",
+    "1_16_1": "command_block_side.png",
+    "1_15_2": "command_block_side.png",
+    "1_14_4": "command_block_side.png",
+    "1_13_2": "command_block_side.png"
+  },
+  {
+    "1_17": "command_block_side.png.mcmeta",
+    "1_16_4": "command_block_side.png.mcmeta",
+    "1_16_1": "command_block_side.png.mcmeta",
+    "1_15_2": "command_block_side.png.mcmeta",
+    "1_14_4": "command_block_side.png.mcmeta",
+    "1_13_2": "command_block_side.png.mcmeta"
+  },
+  {
+    "1_17": "comparator.png",
+    "1_16_4": "comparator.png",
+    "1_16_1": "comparator.png",
+    "1_15_2": "comparator.png",
+    "1_14_4": "comparator.png",
+    "1_13_2": "comparator.png"
+  },
+  {
+    "1_17": "comparator_on.png",
+    "1_16_4": "comparator_on.png",
+    "1_16_1": "comparator_on.png",
+    "1_15_2": "comparator_on.png",
+    "1_14_4": "comparator_on.png",
+    "1_13_2": "comparator_on.png"
+  },
+  {
+    "1_17": "composter_bottom.png",
+    "1_16_4": "composter_bottom.png",
+    "1_16_1": "composter_bottom.png",
+    "1_15_2": "composter_bottom.png",
+    "1_14_4": "composter_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "composter_compost.png",
+    "1_16_4": "composter_compost.png",
+    "1_16_1": "composter_compost.png",
+    "1_15_2": "composter_compost.png",
+    "1_14_4": "composter_compost.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "composter_ready.png",
+    "1_16_4": "composter_ready.png",
+    "1_16_1": "composter_ready.png",
+    "1_15_2": "composter_ready.png",
+    "1_14_4": "composter_ready.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "composter_side.png",
+    "1_16_4": "composter_side.png",
+    "1_16_1": "composter_side.png",
+    "1_15_2": "composter_side.png",
+    "1_14_4": "composter_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "composter_top.png",
+    "1_16_4": "composter_top.png",
+    "1_16_1": "composter_top.png",
+    "1_15_2": "composter_top.png",
+    "1_14_4": "composter_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "conduit.png",
+    "1_16_4": "conduit.png",
+    "1_16_1": "conduit.png",
+    "1_15_2": "conduit.png",
+    "1_14_4": "conduit.png",
+    "1_13_2": "conduit.png"
+  },
+  {
+    "1_17": "copper_block.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "copper_ore.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "cornflower.png",
+    "1_16_4": "cornflower.png",
+    "1_16_1": "cornflower.png",
+    "1_15_2": "cornflower.png",
+    "1_14_4": "cornflower.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "cracked_nether_bricks.png",
+    "1_16_4": "cracked_nether_bricks.png",
+    "1_16_1": "cracked_nether_bricks.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "cracked_polished_blackstone_bricks.png",
+    "1_16_4": "cracked_polished_blackstone_bricks.png",
+    "1_16_1": "cracked_polished_blackstone_bricks.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "cracked_stone_bricks.png",
+    "1_16_4": "cracked_stone_bricks.png",
+    "1_16_1": "cracked_stone_bricks.png",
+    "1_15_2": "cracked_stone_bricks.png",
+    "1_14_4": "cracked_stone_bricks.png",
+    "1_13_2": "cracked_stone_bricks.png"
+  },
+  {
+    "1_17": "crafting_table_front.png",
+    "1_16_4": "crafting_table_front.png",
+    "1_16_1": "crafting_table_front.png",
+    "1_15_2": "crafting_table_front.png",
+    "1_14_4": "crafting_table_front.png",
+    "1_13_2": "crafting_table_front.png"
+  },
+  {
+    "1_17": "crafting_table_side.png",
+    "1_16_4": "crafting_table_side.png",
+    "1_16_1": "crafting_table_side.png",
+    "1_15_2": "crafting_table_side.png",
+    "1_14_4": "crafting_table_side.png",
+    "1_13_2": "crafting_table_side.png"
+  },
+  {
+    "1_17": "crafting_table_top.png",
+    "1_16_4": "crafting_table_top.png",
+    "1_16_1": "crafting_table_top.png",
+    "1_15_2": "crafting_table_top.png",
+    "1_14_4": "crafting_table_top.png",
+    "1_13_2": "crafting_table_top.png"
+  },
+  {
+    "1_17": "crimson_door_bottom.png",
+    "1_16_4": "crimson_door_bottom.png",
+    "1_16_1": "crimson_door_bottom.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_door_top.png",
+    "1_16_4": "crimson_door_top.png",
+    "1_16_1": "crimson_door_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_fungus.png",
+    "1_16_4": "crimson_fungus.png",
+    "1_16_1": "crimson_fungus.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_nylium.png",
+    "1_16_4": "crimson_nylium.png",
+    "1_16_1": "crimson_nylium.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_nylium_side.png",
+    "1_16_4": "crimson_nylium_side.png",
+    "1_16_1": "crimson_nylium_side.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_planks.png",
+    "1_16_4": "crimson_planks.png",
+    "1_16_1": "crimson_planks.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_roots.png",
+    "1_16_4": "crimson_roots.png",
+    "1_16_1": "crimson_roots.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_roots_pot.png",
+    "1_16_4": "crimson_roots_pot.png",
+    "1_16_1": "crimson_roots_pot.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_stem.png",
+    "1_16_4": "crimson_stem.png",
+    "1_16_1": "crimson_stem.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_stem.png.mcmeta",
+    "1_16_4": "crimson_stem.png.mcmeta",
+    "1_16_1": "crimson_stem.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_stem_top.png",
+    "1_16_4": "crimson_stem_top.png",
+    "1_16_1": "crimson_stem_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crimson_trapdoor.png",
+    "1_16_4": "crimson_trapdoor.png",
+    "1_16_1": "crimson_trapdoor.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "crying_obsidian.png",
+    "1_16_4": "crying_obsidian.png",
+    "1_16_1": "crying_obsidian.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "cut_copper.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "cut_red_sandstone.png",
+    "1_16_4": "cut_red_sandstone.png",
+    "1_16_1": "cut_red_sandstone.png",
+    "1_15_2": "cut_red_sandstone.png",
+    "1_14_4": "cut_red_sandstone.png",
+    "1_13_2": "cut_red_sandstone.png"
+  },
+  {
+    "1_17": "cut_sandstone.png",
+    "1_16_4": "cut_sandstone.png",
+    "1_16_1": "cut_sandstone.png",
+    "1_15_2": "cut_sandstone.png",
+    "1_14_4": "cut_sandstone.png",
+    "1_13_2": "cut_sandstone.png"
+  },
+  {
+    "1_17": "cyan_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "cyan_concrete.png",
+    "1_16_4": "cyan_concrete.png",
+    "1_16_1": "cyan_concrete.png",
+    "1_15_2": "cyan_concrete.png",
+    "1_14_4": "cyan_concrete.png",
+    "1_13_2": "cyan_concrete.png"
+  },
+  {
+    "1_17": "cyan_concrete_powder.png",
+    "1_16_4": "cyan_concrete_powder.png",
+    "1_16_1": "cyan_concrete_powder.png",
+    "1_15_2": "cyan_concrete_powder.png",
+    "1_14_4": "cyan_concrete_powder.png",
+    "1_13_2": "cyan_concrete_powder.png"
+  },
+  {
+    "1_17": "cyan_glazed_terracotta.png",
+    "1_16_4": "cyan_glazed_terracotta.png",
+    "1_16_1": "cyan_glazed_terracotta.png",
+    "1_15_2": "cyan_glazed_terracotta.png",
+    "1_14_4": "cyan_glazed_terracotta.png",
+    "1_13_2": "cyan_glazed_terracotta.png"
+  },
+  {
+    "1_17": "cyan_shulker_box.png",
+    "1_16_4": "cyan_shulker_box.png",
+    "1_16_1": "cyan_shulker_box.png",
+    "1_15_2": "cyan_shulker_box.png",
+    "1_14_4": "cyan_shulker_box.png",
+    "1_13_2": "cyan_shulker_box.png"
+  },
+  {
+    "1_17": "cyan_stained_glass.png",
+    "1_16_4": "cyan_stained_glass.png",
+    "1_16_1": "cyan_stained_glass.png",
+    "1_15_2": "cyan_stained_glass.png",
+    "1_14_4": "cyan_stained_glass.png",
+    "1_13_2": "cyan_stained_glass.png"
+  },
+  {
+    "1_17": "cyan_stained_glass_pane_top.png",
+    "1_16_4": "cyan_stained_glass_pane_top.png",
+    "1_16_1": "cyan_stained_glass_pane_top.png",
+    "1_15_2": "cyan_stained_glass_pane_top.png",
+    "1_14_4": "cyan_stained_glass_pane_top.png",
+    "1_13_2": "cyan_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "cyan_terracotta.png",
+    "1_16_4": "cyan_terracotta.png",
+    "1_16_1": "cyan_terracotta.png",
+    "1_15_2": "cyan_terracotta.png",
+    "1_14_4": "cyan_terracotta.png",
+    "1_13_2": "cyan_terracotta.png"
+  },
+  {
+    "1_17": "cyan_wool.png",
+    "1_16_4": "cyan_wool.png",
+    "1_16_1": "cyan_wool.png",
+    "1_15_2": "cyan_wool.png",
+    "1_14_4": "cyan_wool.png",
+    "1_13_2": "cyan_wool.png"
+  },
+  {
+    "1_17": "damaged_anvil_top.png",
+    "1_16_4": "damaged_anvil_top.png",
+    "1_16_1": "damaged_anvil_top.png",
+    "1_15_2": "damaged_anvil_top.png",
+    "1_14_4": "damaged_anvil_top.png",
+    "1_13_2": "damaged_anvil_top.png"
+  },
+  {
+    "1_17": "dandelion.png",
+    "1_16_4": "dandelion.png",
+    "1_16_1": "dandelion.png",
+    "1_15_2": "dandelion.png",
+    "1_14_4": "dandelion.png",
+    "1_13_2": "dandelion.png"
+  },
+  {
+    "1_17": "dark_oak_door_bottom.png",
+    "1_16_4": "dark_oak_door_bottom.png",
+    "1_16_1": "dark_oak_door_bottom.png",
+    "1_15_2": "dark_oak_door_bottom.png",
+    "1_14_4": "dark_oak_door_bottom.png",
+    "1_13_2": "dark_oak_door_bottom.png"
+  },
+  {
+    "1_17": "dark_oak_door_top.png",
+    "1_16_4": "dark_oak_door_top.png",
+    "1_16_1": "dark_oak_door_top.png",
+    "1_15_2": "dark_oak_door_top.png",
+    "1_14_4": "dark_oak_door_top.png",
+    "1_13_2": "dark_oak_door_top.png"
+  },
+  {
+    "1_17": "dark_oak_leaves.png",
+    "1_16_4": "dark_oak_leaves.png",
+    "1_16_1": "dark_oak_leaves.png",
+    "1_15_2": "dark_oak_leaves.png",
+    "1_14_4": "dark_oak_leaves.png",
+    "1_13_2": "dark_oak_leaves.png"
+  },
+  {
+    "1_17": "dark_oak_log.png",
+    "1_16_4": "dark_oak_log.png",
+    "1_16_1": "dark_oak_log.png",
+    "1_15_2": "dark_oak_log.png",
+    "1_14_4": "dark_oak_log.png",
+    "1_13_2": "dark_oak_log.png"
+  },
+  {
+    "1_17": "dark_oak_log_top.png",
+    "1_16_4": "dark_oak_log_top.png",
+    "1_16_1": "dark_oak_log_top.png",
+    "1_15_2": "dark_oak_log_top.png",
+    "1_14_4": "dark_oak_log_top.png",
+    "1_13_2": "dark_oak_log_top.png"
+  },
+  {
+    "1_17": "dark_oak_planks.png",
+    "1_16_4": "dark_oak_planks.png",
+    "1_16_1": "dark_oak_planks.png",
+    "1_15_2": "dark_oak_planks.png",
+    "1_14_4": "dark_oak_planks.png",
+    "1_13_2": "dark_oak_planks.png"
+  },
+  {
+    "1_17": "dark_oak_sapling.png",
+    "1_16_4": "dark_oak_sapling.png",
+    "1_16_1": "dark_oak_sapling.png",
+    "1_15_2": "dark_oak_sapling.png",
+    "1_14_4": "dark_oak_sapling.png",
+    "1_13_2": "dark_oak_sapling.png"
+  },
+  {
+    "1_17": "dark_oak_trapdoor.png",
+    "1_16_4": "dark_oak_trapdoor.png",
+    "1_16_1": "dark_oak_trapdoor.png",
+    "1_15_2": "dark_oak_trapdoor.png",
+    "1_14_4": "dark_oak_trapdoor.png",
+    "1_13_2": "dark_oak_trapdoor.png"
+  },
+  {
+    "1_17": "dark_prismarine.png",
+    "1_16_4": "dark_prismarine.png",
+    "1_16_1": "dark_prismarine.png",
+    "1_15_2": "dark_prismarine.png",
+    "1_14_4": "dark_prismarine.png",
+    "1_13_2": "dark_prismarine.png"
+  },
+  {
+    "1_17": "daylight_detector_inverted_top.png",
+    "1_16_4": "daylight_detector_inverted_top.png",
+    "1_16_1": "daylight_detector_inverted_top.png",
+    "1_15_2": "daylight_detector_inverted_top.png",
+    "1_14_4": "daylight_detector_inverted_top.png",
+    "1_13_2": "daylight_detector_inverted_top.png"
+  },
+  {
+    "1_17": "daylight_detector_side.png",
+    "1_16_4": "daylight_detector_side.png",
+    "1_16_1": "daylight_detector_side.png",
+    "1_15_2": "daylight_detector_side.png",
+    "1_14_4": "daylight_detector_side.png",
+    "1_13_2": "daylight_detector_side.png"
+  },
+  {
+    "1_17": "daylight_detector_top.png",
+    "1_16_4": "daylight_detector_top.png",
+    "1_16_1": "daylight_detector_top.png",
+    "1_15_2": "daylight_detector_top.png",
+    "1_14_4": "daylight_detector_top.png",
+    "1_13_2": "daylight_detector_top.png"
+  },
+  {
+    "1_17": "dead_brain_coral.png",
+    "1_16_4": "dead_brain_coral.png",
+    "1_16_1": "dead_brain_coral.png",
+    "1_15_2": "dead_brain_coral.png",
+    "1_14_4": "dead_brain_coral.png",
+    "1_13_2": "dead_brain_coral.png"
+  },
+  {
+    "1_17": "dead_brain_coral_block.png",
+    "1_16_4": "dead_brain_coral_block.png",
+    "1_16_1": "dead_brain_coral_block.png",
+    "1_15_2": "dead_brain_coral_block.png",
+    "1_14_4": "dead_brain_coral_block.png",
+    "1_13_2": "dead_brain_coral_block.png"
+  },
+  {
+    "1_17": "dead_brain_coral_fan.png",
+    "1_16_4": "dead_brain_coral_fan.png",
+    "1_16_1": "dead_brain_coral_fan.png",
+    "1_15_2": "dead_brain_coral_fan.png",
+    "1_14_4": "dead_brain_coral_fan.png",
+    "1_13_2": "dead_brain_coral_fan.png"
+  },
+  {
+    "1_17": "dead_bubble_coral.png",
+    "1_16_4": "dead_bubble_coral.png",
+    "1_16_1": "dead_bubble_coral.png",
+    "1_15_2": "dead_bubble_coral.png",
+    "1_14_4": "dead_bubble_coral.png",
+    "1_13_2": "dead_bubble_coral.png"
+  },
+  {
+    "1_17": "dead_bubble_coral_block.png",
+    "1_16_4": "dead_bubble_coral_block.png",
+    "1_16_1": "dead_bubble_coral_block.png",
+    "1_15_2": "dead_bubble_coral_block.png",
+    "1_14_4": "dead_bubble_coral_block.png",
+    "1_13_2": "dead_bubble_coral_block.png"
+  },
+  {
+    "1_17": "dead_bubble_coral_fan.png",
+    "1_16_4": "dead_bubble_coral_fan.png",
+    "1_16_1": "dead_bubble_coral_fan.png",
+    "1_15_2": "dead_bubble_coral_fan.png",
+    "1_14_4": "dead_bubble_coral_fan.png",
+    "1_13_2": "dead_bubble_coral_fan.png"
+  },
+  {
+    "1_17": "dead_bush.png",
+    "1_16_4": "dead_bush.png",
+    "1_16_1": "dead_bush.png",
+    "1_15_2": "dead_bush.png",
+    "1_14_4": "dead_bush.png",
+    "1_13_2": "dead_bush.png"
+  },
+  {
+    "1_17": "dead_fire_coral.png",
+    "1_16_4": "dead_fire_coral.png",
+    "1_16_1": "dead_fire_coral.png",
+    "1_15_2": "dead_fire_coral.png",
+    "1_14_4": "dead_fire_coral.png",
+    "1_13_2": "dead_fire_coral.png"
+  },
+  {
+    "1_17": "dead_fire_coral_block.png",
+    "1_16_4": "dead_fire_coral_block.png",
+    "1_16_1": "dead_fire_coral_block.png",
+    "1_15_2": "dead_fire_coral_block.png",
+    "1_14_4": "dead_fire_coral_block.png",
+    "1_13_2": "dead_fire_coral_block.png"
+  },
+  {
+    "1_17": "dead_fire_coral_fan.png",
+    "1_16_4": "dead_fire_coral_fan.png",
+    "1_16_1": "dead_fire_coral_fan.png",
+    "1_15_2": "dead_fire_coral_fan.png",
+    "1_14_4": "dead_fire_coral_fan.png",
+    "1_13_2": "dead_fire_coral_fan.png"
+  },
+  {
+    "1_17": "dead_horn_coral.png",
+    "1_16_4": "dead_horn_coral.png",
+    "1_16_1": "dead_horn_coral.png",
+    "1_15_2": "dead_horn_coral.png",
+    "1_14_4": "dead_horn_coral.png",
+    "1_13_2": "dead_horn_coral.png"
+  },
+  {
+    "1_17": "dead_horn_coral_block.png",
+    "1_16_4": "dead_horn_coral_block.png",
+    "1_16_1": "dead_horn_coral_block.png",
+    "1_15_2": "dead_horn_coral_block.png",
+    "1_14_4": "dead_horn_coral_block.png",
+    "1_13_2": "dead_horn_coral_block.png"
+  },
+  {
+    "1_17": "dead_horn_coral_fan.png",
+    "1_16_4": "dead_horn_coral_fan.png",
+    "1_16_1": "dead_horn_coral_fan.png",
+    "1_15_2": "dead_horn_coral_fan.png",
+    "1_14_4": "dead_horn_coral_fan.png",
+    "1_13_2": "dead_horn_coral_fan.png"
+  },
+  {
+    "1_17": "dead_tube_coral.png",
+    "1_16_4": "dead_tube_coral.png",
+    "1_16_1": "dead_tube_coral.png",
+    "1_15_2": "dead_tube_coral.png",
+    "1_14_4": "dead_tube_coral.png",
+    "1_13_2": "dead_tube_coral.png"
+  },
+  {
+    "1_17": "dead_tube_coral_block.png",
+    "1_16_4": "dead_tube_coral_block.png",
+    "1_16_1": "dead_tube_coral_block.png",
+    "1_15_2": "dead_tube_coral_block.png",
+    "1_14_4": "dead_tube_coral_block.png",
+    "1_13_2": "dead_tube_coral_block.png"
+  },
+  {
+    "1_17": "dead_tube_coral_fan.png",
+    "1_16_4": "dead_tube_coral_fan.png",
+    "1_16_1": "dead_tube_coral_fan.png",
+    "1_15_2": "dead_tube_coral_fan.png",
+    "1_14_4": "dead_tube_coral_fan.png",
+    "1_13_2": "dead_tube_coral_fan.png"
+  },
+  {
+    "1_17": "debug.png",
+    "1_16_4": "debug.png",
+    "1_16_1": "debug.png",
+    "1_15_2": "debug.png",
+    "1_14_4": "debug.png",
+    "1_13_2": "debug.png"
+  },
+  {
+    "1_17": "debug2.png",
+    "1_16_4": "debug2.png",
+    "1_16_1": "debug2.png",
+    "1_15_2": "debug2.png",
+    "1_14_4": "debug2.png",
+    "1_13_2": "debug2.png"
+  },
+  {
+    "1_17": "destroy_stage_0.png",
+    "1_16_4": "destroy_stage_0.png",
+    "1_16_1": "destroy_stage_0.png",
+    "1_15_2": "destroy_stage_0.png",
+    "1_14_4": "destroy_stage_0.png",
+    "1_13_2": "destroy_stage_0.png"
+  },
+  {
+    "1_17": "destroy_stage_1.png",
+    "1_16_4": "destroy_stage_1.png",
+    "1_16_1": "destroy_stage_1.png",
+    "1_15_2": "destroy_stage_1.png",
+    "1_14_4": "destroy_stage_1.png",
+    "1_13_2": "destroy_stage_1.png"
+  },
+  {
+    "1_17": "destroy_stage_2.png",
+    "1_16_4": "destroy_stage_2.png",
+    "1_16_1": "destroy_stage_2.png",
+    "1_15_2": "destroy_stage_2.png",
+    "1_14_4": "destroy_stage_2.png",
+    "1_13_2": "destroy_stage_2.png"
+  },
+  {
+    "1_17": "destroy_stage_3.png",
+    "1_16_4": "destroy_stage_3.png",
+    "1_16_1": "destroy_stage_3.png",
+    "1_15_2": "destroy_stage_3.png",
+    "1_14_4": "destroy_stage_3.png",
+    "1_13_2": "destroy_stage_3.png"
+  },
+  {
+    "1_17": "destroy_stage_4.png",
+    "1_16_4": "destroy_stage_4.png",
+    "1_16_1": "destroy_stage_4.png",
+    "1_15_2": "destroy_stage_4.png",
+    "1_14_4": "destroy_stage_4.png",
+    "1_13_2": "destroy_stage_4.png"
+  },
+  {
+    "1_17": "destroy_stage_5.png",
+    "1_16_4": "destroy_stage_5.png",
+    "1_16_1": "destroy_stage_5.png",
+    "1_15_2": "destroy_stage_5.png",
+    "1_14_4": "destroy_stage_5.png",
+    "1_13_2": "destroy_stage_5.png"
+  },
+  {
+    "1_17": "destroy_stage_6.png",
+    "1_16_4": "destroy_stage_6.png",
+    "1_16_1": "destroy_stage_6.png",
+    "1_15_2": "destroy_stage_6.png",
+    "1_14_4": "destroy_stage_6.png",
+    "1_13_2": "destroy_stage_6.png"
+  },
+  {
+    "1_17": "destroy_stage_7.png",
+    "1_16_4": "destroy_stage_7.png",
+    "1_16_1": "destroy_stage_7.png",
+    "1_15_2": "destroy_stage_7.png",
+    "1_14_4": "destroy_stage_7.png",
+    "1_13_2": "destroy_stage_7.png"
+  },
+  {
+    "1_17": "destroy_stage_8.png",
+    "1_16_4": "destroy_stage_8.png",
+    "1_16_1": "destroy_stage_8.png",
+    "1_15_2": "destroy_stage_8.png",
+    "1_14_4": "destroy_stage_8.png",
+    "1_13_2": "destroy_stage_8.png"
+  },
+  {
+    "1_17": "destroy_stage_9.png",
+    "1_16_4": "destroy_stage_9.png",
+    "1_16_1": "destroy_stage_9.png",
+    "1_15_2": "destroy_stage_9.png",
+    "1_14_4": "destroy_stage_9.png",
+    "1_13_2": "destroy_stage_9.png"
+  },
+  {
+    "1_17": "detector_rail.png",
+    "1_16_4": "detector_rail.png",
+    "1_16_1": "detector_rail.png",
+    "1_15_2": "detector_rail.png",
+    "1_14_4": "detector_rail.png",
+    "1_13_2": "detector_rail.png"
+  },
+  {
+    "1_17": "detector_rail_on.png",
+    "1_16_4": "detector_rail_on.png",
+    "1_16_1": "detector_rail_on.png",
+    "1_15_2": "detector_rail_on.png",
+    "1_14_4": "detector_rail_on.png",
+    "1_13_2": "detector_rail_on.png"
+  },
+  {
+    "1_17": "diamond_block.png",
+    "1_16_4": "diamond_block.png",
+    "1_16_1": "diamond_block.png",
+    "1_15_2": "diamond_block.png",
+    "1_14_4": "diamond_block.png",
+    "1_13_2": "diamond_block.png"
+  },
+  {
+    "1_17": "diamond_ore.png",
+    "1_16_4": "diamond_ore.png",
+    "1_16_1": "diamond_ore.png",
+    "1_15_2": "diamond_ore.png",
+    "1_14_4": "diamond_ore.png",
+    "1_13_2": "diamond_ore.png"
+  },
+  {
+    "1_17": "diorite.png",
+    "1_16_4": "diorite.png",
+    "1_16_1": "diorite.png",
+    "1_15_2": "diorite.png",
+    "1_14_4": "diorite.png",
+    "1_13_2": "diorite.png"
+  },
+  {
+    "1_17": "dirt.png",
+    "1_16_4": "dirt.png",
+    "1_16_1": "dirt.png",
+    "1_15_2": "dirt.png",
+    "1_14_4": "dirt.png",
+    "1_13_2": "dirt.png"
+  },
+  {
+    "1_17": "dirt_path_side.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "dirt_path_top.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "dispenser_front.png",
+    "1_16_4": "dispenser_front.png",
+    "1_16_1": "dispenser_front.png",
+    "1_15_2": "dispenser_front.png",
+    "1_14_4": "dispenser_front.png",
+    "1_13_2": "dispenser_front.png"
+  },
+  {
+    "1_17": "dispenser_front_vertical.png",
+    "1_16_4": "dispenser_front_vertical.png",
+    "1_16_1": "dispenser_front_vertical.png",
+    "1_15_2": "dispenser_front_vertical.png",
+    "1_14_4": "dispenser_front_vertical.png",
+    "1_13_2": "dispenser_front_vertical.png"
+  },
+  {
+    "1_17": "dragon_egg.png",
+    "1_16_4": "dragon_egg.png",
+    "1_16_1": "dragon_egg.png",
+    "1_15_2": "dragon_egg.png",
+    "1_14_4": "dragon_egg.png",
+    "1_13_2": "dragon_egg.png"
+  },
+  {
+    "1_17": "dried_kelp_bottom.png",
+    "1_16_4": "dried_kelp_bottom.png",
+    "1_16_1": "dried_kelp_bottom.png",
+    "1_15_2": "dried_kelp_bottom.png",
+    "1_14_4": "dried_kelp_bottom.png",
+    "1_13_2": "dried_kelp_bottom.png"
+  },
+  {
+    "1_17": "dried_kelp_side.png",
+    "1_16_4": "dried_kelp_side.png",
+    "1_16_1": "dried_kelp_side.png",
+    "1_15_2": "dried_kelp_side.png",
+    "1_14_4": "dried_kelp_side.png",
+    "1_13_2": "dried_kelp_side.png"
+  },
+  {
+    "1_17": "dried_kelp_top.png",
+    "1_16_4": "dried_kelp_top.png",
+    "1_16_1": "dried_kelp_top.png",
+    "1_15_2": "dried_kelp_top.png",
+    "1_14_4": "dried_kelp_top.png",
+    "1_13_2": "dried_kelp_top.png"
+  },
+  {
+    "1_17": "dripstone_block.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "dropper_front.png",
+    "1_16_4": "dropper_front.png",
+    "1_16_1": "dropper_front.png",
+    "1_15_2": "dropper_front.png",
+    "1_14_4": "dropper_front.png",
+    "1_13_2": "dropper_front.png"
+  },
+  {
+    "1_17": "dropper_front_vertical.png",
+    "1_16_4": "dropper_front_vertical.png",
+    "1_16_1": "dropper_front_vertical.png",
+    "1_15_2": "dropper_front_vertical.png",
+    "1_14_4": "dropper_front_vertical.png",
+    "1_13_2": "dropper_front_vertical.png"
+  },
+  {
+    "1_17": "emerald_block.png",
+    "1_16_4": "emerald_block.png",
+    "1_16_1": "emerald_block.png",
+    "1_15_2": "emerald_block.png",
+    "1_14_4": "emerald_block.png",
+    "1_13_2": "emerald_block.png"
+  },
+  {
+    "1_17": "emerald_ore.png",
+    "1_16_4": "emerald_ore.png",
+    "1_16_1": "emerald_ore.png",
+    "1_15_2": "emerald_ore.png",
+    "1_14_4": "emerald_ore.png",
+    "1_13_2": "emerald_ore.png"
+  },
+  {
+    "1_17": "enchanting_table_bottom.png",
+    "1_16_4": "enchanting_table_bottom.png",
+    "1_16_1": "enchanting_table_bottom.png",
+    "1_15_2": "enchanting_table_bottom.png",
+    "1_14_4": "enchanting_table_bottom.png",
+    "1_13_2": "enchanting_table_bottom.png"
+  },
+  {
+    "1_17": "enchanting_table_side.png",
+    "1_16_4": "enchanting_table_side.png",
+    "1_16_1": "enchanting_table_side.png",
+    "1_15_2": "enchanting_table_side.png",
+    "1_14_4": "enchanting_table_side.png",
+    "1_13_2": "enchanting_table_side.png"
+  },
+  {
+    "1_17": "enchanting_table_top.png",
+    "1_16_4": "enchanting_table_top.png",
+    "1_16_1": "enchanting_table_top.png",
+    "1_15_2": "enchanting_table_top.png",
+    "1_14_4": "enchanting_table_top.png",
+    "1_13_2": "enchanting_table_top.png"
+  },
+  {
+    "1_17": "end_portal_frame_eye.png",
+    "1_16_4": "end_portal_frame_eye.png",
+    "1_16_1": "end_portal_frame_eye.png",
+    "1_15_2": "end_portal_frame_eye.png",
+    "1_14_4": "end_portal_frame_eye.png",
+    "1_13_2": "end_portal_frame_eye.png"
+  },
+  {
+    "1_17": "end_portal_frame_side.png",
+    "1_16_4": "end_portal_frame_side.png",
+    "1_16_1": "end_portal_frame_side.png",
+    "1_15_2": "end_portal_frame_side.png",
+    "1_14_4": "end_portal_frame_side.png",
+    "1_13_2": "end_portal_frame_side.png"
+  },
+  {
+    "1_17": "end_portal_frame_top.png",
+    "1_16_4": "end_portal_frame_top.png",
+    "1_16_1": "end_portal_frame_top.png",
+    "1_15_2": "end_portal_frame_top.png",
+    "1_14_4": "end_portal_frame_top.png",
+    "1_13_2": "end_portal_frame_top.png"
+  },
+  {
+    "1_17": "end_rod.png",
+    "1_16_4": "end_rod.png",
+    "1_16_1": "end_rod.png",
+    "1_15_2": "end_rod.png",
+    "1_14_4": "end_rod.png",
+    "1_13_2": "end_rod.png"
+  },
+  {
+    "1_17": "end_stone.png",
+    "1_16_4": "end_stone.png",
+    "1_16_1": "end_stone.png",
+    "1_15_2": "end_stone.png",
+    "1_14_4": "end_stone.png",
+    "1_13_2": "end_stone.png"
+  },
+  {
+    "1_17": "end_stone_bricks.png",
+    "1_16_4": "end_stone_bricks.png",
+    "1_16_1": "end_stone_bricks.png",
+    "1_15_2": "end_stone_bricks.png",
+    "1_14_4": "end_stone_bricks.png",
+    "1_13_2": "end_stone_bricks.png"
+  },
+  {
+    "1_17": "farmland.png",
+    "1_16_4": "farmland.png",
+    "1_16_1": "farmland.png",
+    "1_15_2": "farmland.png",
+    "1_14_4": "farmland.png",
+    "1_13_2": "farmland.png"
+  },
+  {
+    "1_17": "farmland_moist.png",
+    "1_16_4": "farmland_moist.png",
+    "1_16_1": "farmland_moist.png",
+    "1_15_2": "farmland_moist.png",
+    "1_14_4": "farmland_moist.png",
+    "1_13_2": "farmland_moist.png"
+  },
+  {
+    "1_17": "fern.png",
+    "1_16_4": "fern.png",
+    "1_16_1": "fern.png",
+    "1_15_2": "fern.png",
+    "1_14_4": "fern.png",
+    "1_13_2": "fern.png"
+  },
+  {
+    "1_17": "fire_0.png",
+    "1_16_4": "fire_0.png",
+    "1_16_1": "fire_0.png",
+    "1_15_2": "fire_0.png",
+    "1_14_4": "fire_0.png",
+    "1_13_2": "fire_0.png"
+  },
+  {
+    "1_17": "fire_0.png.mcmeta",
+    "1_16_4": "fire_0.png.mcmeta",
+    "1_16_1": "fire_0.png.mcmeta",
+    "1_15_2": "fire_0.png.mcmeta",
+    "1_14_4": "fire_0.png.mcmeta",
+    "1_13_2": "fire_0.png.mcmeta"
+  },
+  {
+    "1_17": "fire_1.png",
+    "1_16_4": "fire_1.png",
+    "1_16_1": "fire_1.png",
+    "1_15_2": "fire_1.png",
+    "1_14_4": "fire_1.png",
+    "1_13_2": "fire_1.png"
+  },
+  {
+    "1_17": "fire_1.png.mcmeta",
+    "1_16_4": "fire_1.png.mcmeta",
+    "1_16_1": "fire_1.png.mcmeta",
+    "1_15_2": "fire_1.png.mcmeta",
+    "1_14_4": "fire_1.png.mcmeta",
+    "1_13_2": "fire_1.png.mcmeta"
+  },
+  {
+    "1_17": "fire_coral.png",
+    "1_16_4": "fire_coral.png",
+    "1_16_1": "fire_coral.png",
+    "1_15_2": "fire_coral.png",
+    "1_14_4": "fire_coral.png",
+    "1_13_2": "fire_coral.png"
+  },
+  {
+    "1_17": "fire_coral_block.png",
+    "1_16_4": "fire_coral_block.png",
+    "1_16_1": "fire_coral_block.png",
+    "1_15_2": "fire_coral_block.png",
+    "1_14_4": "fire_coral_block.png",
+    "1_13_2": "fire_coral_block.png"
+  },
+  {
+    "1_17": "fire_coral_fan.png",
+    "1_16_4": "fire_coral_fan.png",
+    "1_16_1": "fire_coral_fan.png",
+    "1_15_2": "fire_coral_fan.png",
+    "1_14_4": "fire_coral_fan.png",
+    "1_13_2": "fire_coral_fan.png"
+  },
+  {
+    "1_17": "fletching_table_front.png",
+    "1_16_4": "fletching_table_front.png",
+    "1_16_1": "fletching_table_front.png",
+    "1_15_2": "fletching_table_front.png",
+    "1_14_4": "fletching_table_front.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "fletching_table_side.png",
+    "1_16_4": "fletching_table_side.png",
+    "1_16_1": "fletching_table_side.png",
+    "1_15_2": "fletching_table_side.png",
+    "1_14_4": "fletching_table_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "fletching_table_top.png",
+    "1_16_4": "fletching_table_top.png",
+    "1_16_1": "fletching_table_top.png",
+    "1_15_2": "fletching_table_top.png",
+    "1_14_4": "fletching_table_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "flower_pot.png",
+    "1_16_4": "flower_pot.png",
+    "1_16_1": "flower_pot.png",
+    "1_15_2": "flower_pot.png",
+    "1_14_4": "flower_pot.png",
+    "1_13_2": "flower_pot.png"
+  },
+  {
+    "1_17": "frosted_ice_0.png",
+    "1_16_4": "frosted_ice_0.png",
+    "1_16_1": "frosted_ice_0.png",
+    "1_15_2": "frosted_ice_0.png",
+    "1_14_4": "frosted_ice_0.png",
+    "1_13_2": "frosted_ice_0.png"
+  },
+  {
+    "1_17": "frosted_ice_1.png",
+    "1_16_4": "frosted_ice_1.png",
+    "1_16_1": "frosted_ice_1.png",
+    "1_15_2": "frosted_ice_1.png",
+    "1_14_4": "frosted_ice_1.png",
+    "1_13_2": "frosted_ice_1.png"
+  },
+  {
+    "1_17": "frosted_ice_2.png",
+    "1_16_4": "frosted_ice_2.png",
+    "1_16_1": "frosted_ice_2.png",
+    "1_15_2": "frosted_ice_2.png",
+    "1_14_4": "frosted_ice_2.png",
+    "1_13_2": "frosted_ice_2.png"
+  },
+  {
+    "1_17": "frosted_ice_3.png",
+    "1_16_4": "frosted_ice_3.png",
+    "1_16_1": "frosted_ice_3.png",
+    "1_15_2": "frosted_ice_3.png",
+    "1_14_4": "frosted_ice_3.png",
+    "1_13_2": "frosted_ice_3.png"
+  },
+  {
+    "1_17": "furnace_front.png",
+    "1_16_4": "furnace_front.png",
+    "1_16_1": "furnace_front.png",
+    "1_15_2": "furnace_front.png",
+    "1_14_4": "furnace_front.png",
+    "1_13_2": "furnace_front.png"
+  },
+  {
+    "1_17": "furnace_front_on.png",
+    "1_16_4": "furnace_front_on.png",
+    "1_16_1": "furnace_front_on.png",
+    "1_15_2": "furnace_front_on.png",
+    "1_14_4": "furnace_front_on.png",
+    "1_13_2": "furnace_front_on.png"
+  },
+  {
+    "1_17": "furnace_side.png",
+    "1_16_4": "furnace_side.png",
+    "1_16_1": "furnace_side.png",
+    "1_15_2": "furnace_side.png",
+    "1_14_4": "furnace_side.png",
+    "1_13_2": "furnace_side.png"
+  },
+  {
+    "1_17": "furnace_top.png",
+    "1_16_4": "furnace_top.png",
+    "1_16_1": "furnace_top.png",
+    "1_15_2": "furnace_top.png",
+    "1_14_4": "furnace_top.png",
+    "1_13_2": "furnace_top.png"
+  },
+  {
+    "1_17": "gilded_blackstone.png",
+    "1_16_4": "gilded_blackstone.png",
+    "1_16_1": "gilded_blackstone.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "glass.png",
+    "1_16_4": "glass.png",
+    "1_16_1": "glass.png",
+    "1_15_2": "glass.png",
+    "1_14_4": "glass.png",
+    "1_13_2": "glass.png"
+  },
+  {
+    "1_17": "glass_pane_top.png",
+    "1_16_4": "glass_pane_top.png",
+    "1_16_1": "glass_pane_top.png",
+    "1_15_2": "glass_pane_top.png",
+    "1_14_4": "glass_pane_top.png",
+    "1_13_2": "glass_pane_top.png"
+  },
+  {
+    "1_17": "glowstone.png",
+    "1_16_4": "glowstone.png",
+    "1_16_1": "glowstone.png",
+    "1_15_2": "glowstone.png",
+    "1_14_4": "glowstone.png",
+    "1_13_2": "glowstone.png"
+  },
+  {
+    "1_17": "gold_block.png",
+    "1_16_4": "gold_block.png",
+    "1_16_1": "gold_block.png",
+    "1_15_2": "gold_block.png",
+    "1_14_4": "gold_block.png",
+    "1_13_2": "gold_block.png"
+  },
+  {
+    "1_17": "gold_ore.png",
+    "1_16_4": "gold_ore.png",
+    "1_16_1": "gold_ore.png",
+    "1_15_2": "gold_ore.png",
+    "1_14_4": "gold_ore.png",
+    "1_13_2": "gold_ore.png"
+  },
+  {
+    "1_17": "granite.png",
+    "1_16_4": "granite.png",
+    "1_16_1": "granite.png",
+    "1_15_2": "granite.png",
+    "1_14_4": "granite.png",
+    "1_13_2": "granite.png"
+  },
+  {
+    "1_17": "grass.png",
+    "1_16_4": "grass.png",
+    "1_16_1": "grass.png",
+    "1_15_2": "grass.png",
+    "1_14_4": "grass.png",
+    "1_13_2": "grass.png"
+  },
+  {
+    "1_17": "grass_block_side.png",
+    "1_16_4": "grass_block_side.png",
+    "1_16_1": "grass_block_side.png",
+    "1_15_2": "grass_block_side.png",
+    "1_14_4": "grass_block_side.png",
+    "1_13_2": "grass_block_side.png"
+  },
+  {
+    "1_17": "grass_block_side_overlay.png",
+    "1_16_4": "grass_block_side_overlay.png",
+    "1_16_1": "grass_block_side_overlay.png",
+    "1_15_2": "grass_block_side_overlay.png",
+    "1_14_4": "grass_block_side_overlay.png",
+    "1_13_2": "grass_block_side_overlay.png"
+  },
+  {
+    "1_17": "grass_block_snow.png",
+    "1_16_4": "grass_block_snow.png",
+    "1_16_1": "grass_block_snow.png",
+    "1_15_2": "grass_block_snow.png",
+    "1_14_4": "grass_block_snow.png",
+    "1_13_2": "grass_block_snow.png"
+  },
+  {
+    "1_17": "grass_block_top.png",
+    "1_16_4": "grass_block_top.png",
+    "1_16_1": "grass_block_top.png",
+    "1_15_2": "grass_block_top.png",
+    "1_14_4": "grass_block_top.png",
+    "1_13_2": "grass_block_top.png"
+  },
+  {
+    "1_17": "gravel.png",
+    "1_16_4": "gravel.png",
+    "1_16_1": "gravel.png",
+    "1_15_2": "gravel.png",
+    "1_14_4": "gravel.png",
+    "1_13_2": "gravel.png"
+  },
+  {
+    "1_17": "gray_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "gray_concrete.png",
+    "1_16_4": "gray_concrete.png",
+    "1_16_1": "gray_concrete.png",
+    "1_15_2": "gray_concrete.png",
+    "1_14_4": "gray_concrete.png",
+    "1_13_2": "gray_concrete.png"
+  },
+  {
+    "1_17": "gray_concrete_powder.png",
+    "1_16_4": "gray_concrete_powder.png",
+    "1_16_1": "gray_concrete_powder.png",
+    "1_15_2": "gray_concrete_powder.png",
+    "1_14_4": "gray_concrete_powder.png",
+    "1_13_2": "gray_concrete_powder.png"
+  },
+  {
+    "1_17": "gray_glazed_terracotta.png",
+    "1_16_4": "gray_glazed_terracotta.png",
+    "1_16_1": "gray_glazed_terracotta.png",
+    "1_15_2": "gray_glazed_terracotta.png",
+    "1_14_4": "gray_glazed_terracotta.png",
+    "1_13_2": "gray_glazed_terracotta.png"
+  },
+  {
+    "1_17": "gray_shulker_box.png",
+    "1_16_4": "gray_shulker_box.png",
+    "1_16_1": "gray_shulker_box.png",
+    "1_15_2": "gray_shulker_box.png",
+    "1_14_4": "gray_shulker_box.png",
+    "1_13_2": "gray_shulker_box.png"
+  },
+  {
+    "1_17": "gray_stained_glass.png",
+    "1_16_4": "gray_stained_glass.png",
+    "1_16_1": "gray_stained_glass.png",
+    "1_15_2": "gray_stained_glass.png",
+    "1_14_4": "gray_stained_glass.png",
+    "1_13_2": "gray_stained_glass.png"
+  },
+  {
+    "1_17": "gray_stained_glass_pane_top.png",
+    "1_16_4": "gray_stained_glass_pane_top.png",
+    "1_16_1": "gray_stained_glass_pane_top.png",
+    "1_15_2": "gray_stained_glass_pane_top.png",
+    "1_14_4": "gray_stained_glass_pane_top.png",
+    "1_13_2": "gray_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "gray_terracotta.png",
+    "1_16_4": "gray_terracotta.png",
+    "1_16_1": "gray_terracotta.png",
+    "1_15_2": "gray_terracotta.png",
+    "1_14_4": "gray_terracotta.png",
+    "1_13_2": "gray_terracotta.png"
+  },
+  {
+    "1_17": "gray_wool.png",
+    "1_16_4": "gray_wool.png",
+    "1_16_1": "gray_wool.png",
+    "1_15_2": "gray_wool.png",
+    "1_14_4": "gray_wool.png",
+    "1_13_2": "gray_wool.png"
+  },
+  {
+    "1_17": "green_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "green_concrete.png",
+    "1_16_4": "green_concrete.png",
+    "1_16_1": "green_concrete.png",
+    "1_15_2": "green_concrete.png",
+    "1_14_4": "green_concrete.png",
+    "1_13_2": "green_concrete.png"
+  },
+  {
+    "1_17": "green_concrete_powder.png",
+    "1_16_4": "green_concrete_powder.png",
+    "1_16_1": "green_concrete_powder.png",
+    "1_15_2": "green_concrete_powder.png",
+    "1_14_4": "green_concrete_powder.png",
+    "1_13_2": "green_concrete_powder.png"
+  },
+  {
+    "1_17": "green_glazed_terracotta.png",
+    "1_16_4": "green_glazed_terracotta.png",
+    "1_16_1": "green_glazed_terracotta.png",
+    "1_15_2": "green_glazed_terracotta.png",
+    "1_14_4": "green_glazed_terracotta.png",
+    "1_13_2": "green_glazed_terracotta.png"
+  },
+  {
+    "1_17": "green_shulker_box.png",
+    "1_16_4": "green_shulker_box.png",
+    "1_16_1": "green_shulker_box.png",
+    "1_15_2": "green_shulker_box.png",
+    "1_14_4": "green_shulker_box.png",
+    "1_13_2": "green_shulker_box.png"
+  },
+  {
+    "1_17": "green_stained_glass.png",
+    "1_16_4": "green_stained_glass.png",
+    "1_16_1": "green_stained_glass.png",
+    "1_15_2": "green_stained_glass.png",
+    "1_14_4": "green_stained_glass.png",
+    "1_13_2": "green_stained_glass.png"
+  },
+  {
+    "1_17": "green_stained_glass_pane_top.png",
+    "1_16_4": "green_stained_glass_pane_top.png",
+    "1_16_1": "green_stained_glass_pane_top.png",
+    "1_15_2": "green_stained_glass_pane_top.png",
+    "1_14_4": "green_stained_glass_pane_top.png",
+    "1_13_2": "green_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "green_terracotta.png",
+    "1_16_4": "green_terracotta.png",
+    "1_16_1": "green_terracotta.png",
+    "1_15_2": "green_terracotta.png",
+    "1_14_4": "green_terracotta.png",
+    "1_13_2": "green_terracotta.png"
+  },
+  {
+    "1_17": "green_wool.png",
+    "1_16_4": "green_wool.png",
+    "1_16_1": "green_wool.png",
+    "1_15_2": "green_wool.png",
+    "1_14_4": "green_wool.png",
+    "1_13_2": "green_wool.png"
+  },
+  {
+    "1_17": "grindstone_pivot.png",
+    "1_16_4": "grindstone_pivot.png",
+    "1_16_1": "grindstone_pivot.png",
+    "1_15_2": "grindstone_pivot.png",
+    "1_14_4": "grindstone_pivot.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "grindstone_round.png",
+    "1_16_4": "grindstone_round.png",
+    "1_16_1": "grindstone_round.png",
+    "1_15_2": "grindstone_round.png",
+    "1_14_4": "grindstone_round.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "grindstone_side.png",
+    "1_16_4": "grindstone_side.png",
+    "1_16_1": "grindstone_side.png",
+    "1_15_2": "grindstone_side.png",
+    "1_14_4": "grindstone_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "hay_block_side.png",
+    "1_16_4": "hay_block_side.png",
+    "1_16_1": "hay_block_side.png",
+    "1_15_2": "hay_block_side.png",
+    "1_14_4": "hay_block_side.png",
+    "1_13_2": "hay_block_side.png"
+  },
+  {
+    "1_17": "hay_block_top.png",
+    "1_16_4": "hay_block_top.png",
+    "1_16_1": "hay_block_top.png",
+    "1_15_2": "hay_block_top.png",
+    "1_14_4": "hay_block_top.png",
+    "1_13_2": "hay_block_top.png"
+  },
+  {
+    "1_17": "honeycomb_block.png",
+    "1_16_4": "honeycomb_block.png",
+    "1_16_1": "honeycomb_block.png",
+    "1_15_2": "honeycomb_block.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "honey_block_bottom.png",
+    "1_16_4": "honey_block_bottom.png",
+    "1_16_1": "honey_block_bottom.png",
+    "1_15_2": "honey_block_bottom.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "honey_block_side.png",
+    "1_16_4": "honey_block_side.png",
+    "1_16_1": "honey_block_side.png",
+    "1_15_2": "honey_block_side.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "honey_block_top.png",
+    "1_16_4": "honey_block_top.png",
+    "1_16_1": "honey_block_top.png",
+    "1_15_2": "honey_block_top.png",
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "hopper_inside.png",
+    "1_16_4": "hopper_inside.png",
+    "1_16_1": "hopper_inside.png",
+    "1_15_2": "hopper_inside.png",
+    "1_14_4": "hopper_inside.png",
+    "1_13_2": "hopper_inside.png"
+  },
+  {
+    "1_17": "hopper_outside.png",
+    "1_16_4": "hopper_outside.png",
+    "1_16_1": "hopper_outside.png",
+    "1_15_2": "hopper_outside.png",
+    "1_14_4": "hopper_outside.png",
+    "1_13_2": "hopper_outside.png"
+  },
+  {
+    "1_17": "hopper_top.png",
+    "1_16_4": "hopper_top.png",
+    "1_16_1": "hopper_top.png",
+    "1_15_2": "hopper_top.png",
+    "1_14_4": "hopper_top.png",
+    "1_13_2": "hopper_top.png"
+  },
+  {
+    "1_17": "horn_coral.png",
+    "1_16_4": "horn_coral.png",
+    "1_16_1": "horn_coral.png",
+    "1_15_2": "horn_coral.png",
+    "1_14_4": "horn_coral.png",
+    "1_13_2": "horn_coral.png"
+  },
+  {
+    "1_17": "horn_coral_block.png",
+    "1_16_4": "horn_coral_block.png",
+    "1_16_1": "horn_coral_block.png",
+    "1_15_2": "horn_coral_block.png",
+    "1_14_4": "horn_coral_block.png",
+    "1_13_2": "horn_coral_block.png"
+  },
+  {
+    "1_17": "horn_coral_fan.png",
+    "1_16_4": "horn_coral_fan.png",
+    "1_16_1": "horn_coral_fan.png",
+    "1_15_2": "horn_coral_fan.png",
+    "1_14_4": "horn_coral_fan.png",
+    "1_13_2": "horn_coral_fan.png"
+  },
+  {
+    "1_17": "ice.png",
+    "1_16_4": "ice.png",
+    "1_16_1": "ice.png",
+    "1_15_2": "ice.png",
+    "1_14_4": "ice.png",
+    "1_13_2": "ice.png"
+  },
+  {
+    "1_17": "iron_bars.png",
+    "1_16_4": "iron_bars.png",
+    "1_16_1": "iron_bars.png",
+    "1_15_2": "iron_bars.png",
+    "1_14_4": "iron_bars.png",
+    "1_13_2": "iron_bars.png"
+  },
+  {
+    "1_17": "iron_block.png",
+    "1_16_4": "iron_block.png",
+    "1_16_1": "iron_block.png",
+    "1_15_2": "iron_block.png",
+    "1_14_4": "iron_block.png",
+    "1_13_2": "iron_block.png"
+  },
+  {
+    "1_17": "iron_door_bottom.png",
+    "1_16_4": "iron_door_bottom.png",
+    "1_16_1": "iron_door_bottom.png",
+    "1_15_2": "iron_door_bottom.png",
+    "1_14_4": "iron_door_bottom.png",
+    "1_13_2": "iron_door_bottom.png"
+  },
+  {
+    "1_17": "iron_door_top.png",
+    "1_16_4": "iron_door_top.png",
+    "1_16_1": "iron_door_top.png",
+    "1_15_2": "iron_door_top.png",
+    "1_14_4": "iron_door_top.png",
+    "1_13_2": "iron_door_top.png"
+  },
+  {
+    "1_17": "iron_ore.png",
+    "1_16_4": "iron_ore.png",
+    "1_16_1": "iron_ore.png",
+    "1_15_2": "iron_ore.png",
+    "1_14_4": "iron_ore.png",
+    "1_13_2": "iron_ore.png"
+  },
+  {
+    "1_17": "iron_trapdoor.png",
+    "1_16_4": "iron_trapdoor.png",
+    "1_16_1": "iron_trapdoor.png",
+    "1_15_2": "iron_trapdoor.png",
+    "1_14_4": "iron_trapdoor.png",
+    "1_13_2": "iron_trapdoor.png"
+  },
+  {
+    "1_17": "item_frame.png",
+    "1_16_4": "item_frame.png",
+    "1_16_1": "item_frame.png",
+    "1_15_2": "item_frame.png",
+    "1_14_4": "item_frame.png",
+    "1_13_2": "item_frame.png"
+  },
+  {
+    "1_17": "jack_o_lantern.png",
+    "1_16_4": "jack_o_lantern.png",
+    "1_16_1": "jack_o_lantern.png",
+    "1_15_2": "jack_o_lantern.png",
+    "1_14_4": "jack_o_lantern.png",
+    "1_13_2": "jack_o_lantern.png"
+  },
+  {
+    "1_17": "jigsaw_bottom.png",
+    "1_16_4": "jigsaw_bottom.png",
+    "1_16_1": "jigsaw_bottom.png",
+    "1_15_2": "jigsaw_bottom.png",
+    "1_14_4": "jigsaw_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "jigsaw_lock.png",
+    "1_16_4": "jigsaw_lock.png",
+    "1_16_1": "jigsaw_lock.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "jigsaw_side.png",
+    "1_16_4": "jigsaw_side.png",
+    "1_16_1": "jigsaw_side.png",
+    "1_15_2": "jigsaw_side.png",
+    "1_14_4": "jigsaw_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "jigsaw_top.png",
+    "1_16_4": "jigsaw_top.png",
+    "1_16_1": "jigsaw_top.png",
+    "1_15_2": "jigsaw_top.png",
+    "1_14_4": "jigsaw_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "jukebox_side.png",
+    "1_16_4": "jukebox_side.png",
+    "1_16_1": "jukebox_side.png",
+    "1_15_2": "jukebox_side.png",
+    "1_14_4": "jukebox_side.png",
+    "1_13_2": "jukebox_side.png"
+  },
+  {
+    "1_17": "jukebox_top.png",
+    "1_16_4": "jukebox_top.png",
+    "1_16_1": "jukebox_top.png",
+    "1_15_2": "jukebox_top.png",
+    "1_14_4": "jukebox_top.png",
+    "1_13_2": "jukebox_top.png"
+  },
+  {
+    "1_17": "jungle_door_bottom.png",
+    "1_16_4": "jungle_door_bottom.png",
+    "1_16_1": "jungle_door_bottom.png",
+    "1_15_2": "jungle_door_bottom.png",
+    "1_14_4": "jungle_door_bottom.png",
+    "1_13_2": "jungle_door_bottom.png"
+  },
+  {
+    "1_17": "jungle_door_top.png",
+    "1_16_4": "jungle_door_top.png",
+    "1_16_1": "jungle_door_top.png",
+    "1_15_2": "jungle_door_top.png",
+    "1_14_4": "jungle_door_top.png",
+    "1_13_2": "jungle_door_top.png"
+  },
+  {
+    "1_17": "jungle_leaves.png",
+    "1_16_4": "jungle_leaves.png",
+    "1_16_1": "jungle_leaves.png",
+    "1_15_2": "jungle_leaves.png",
+    "1_14_4": "jungle_leaves.png",
+    "1_13_2": "jungle_leaves.png"
+  },
+  {
+    "1_17": "jungle_log.png",
+    "1_16_4": "jungle_log.png",
+    "1_16_1": "jungle_log.png",
+    "1_15_2": "jungle_log.png",
+    "1_14_4": "jungle_log.png",
+    "1_13_2": "jungle_log.png"
+  },
+  {
+    "1_17": "jungle_log_top.png",
+    "1_16_4": "jungle_log_top.png",
+    "1_16_1": "jungle_log_top.png",
+    "1_15_2": "jungle_log_top.png",
+    "1_14_4": "jungle_log_top.png",
+    "1_13_2": "jungle_log_top.png"
+  },
+  {
+    "1_17": "jungle_planks.png",
+    "1_16_4": "jungle_planks.png",
+    "1_16_1": "jungle_planks.png",
+    "1_15_2": "jungle_planks.png",
+    "1_14_4": "jungle_planks.png",
+    "1_13_2": "jungle_planks.png"
+  },
+  {
+    "1_17": "jungle_sapling.png",
+    "1_16_4": "jungle_sapling.png",
+    "1_16_1": "jungle_sapling.png",
+    "1_15_2": "jungle_sapling.png",
+    "1_14_4": "jungle_sapling.png",
+    "1_13_2": "jungle_sapling.png"
+  },
+  {
+    "1_17": "jungle_trapdoor.png",
+    "1_16_4": "jungle_trapdoor.png",
+    "1_16_1": "jungle_trapdoor.png",
+    "1_15_2": "jungle_trapdoor.png",
+    "1_14_4": "jungle_trapdoor.png",
+    "1_13_2": "jungle_trapdoor.png"
+  },
+  {
+    "1_17": "kelp.png",
+    "1_16_4": "kelp.png",
+    "1_16_1": "kelp.png",
+    "1_15_2": "kelp.png",
+    "1_14_4": "kelp.png",
+    "1_13_2": "kelp.png"
+  },
+  {
+    "1_17": "kelp.png.mcmeta",
+    "1_16_4": "kelp.png.mcmeta",
+    "1_16_1": "kelp.png.mcmeta",
+    "1_15_2": "kelp.png.mcmeta",
+    "1_14_4": "kelp.png.mcmeta",
+    "1_13_2": "kelp.png.mcmeta"
+  },
+  {
+    "1_17": "kelp_plant.png",
+    "1_16_4": "kelp_plant.png",
+    "1_16_1": "kelp_plant.png",
+    "1_15_2": "kelp_plant.png",
+    "1_14_4": "kelp_plant.png",
+    "1_13_2": "kelp_plant.png"
+  },
+  {
+    "1_17": "kelp_plant.png.mcmeta",
+    "1_16_4": "kelp_plant.png.mcmeta",
+    "1_16_1": "kelp_plant.png.mcmeta",
+    "1_15_2": "kelp_plant.png.mcmeta",
+    "1_14_4": "kelp_plant.png.mcmeta",
+    "1_13_2": "kelp_plant.png.mcmeta"
+  },
+  {
+    "1_17": "ladder.png",
+    "1_16_4": "ladder.png",
+    "1_16_1": "ladder.png",
+    "1_15_2": "ladder.png",
+    "1_14_4": "ladder.png",
+    "1_13_2": "ladder.png"
+  },
+  {
+    "1_17": "lantern.png",
+    "1_16_4": "lantern.png",
+    "1_16_1": "lantern.png",
+    "1_15_2": "lantern.png",
+    "1_14_4": "lantern.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "lantern.png.mcmeta",
+    "1_16_4": "lantern.png.mcmeta",
+    "1_16_1": "lantern.png.mcmeta",
+    "1_15_2": "lantern.png.mcmeta",
+    "1_14_4": "lantern.png.mcmeta",
+    "1_13_2": null
+  },
+  {
+    "1_17": "lapis_block.png",
+    "1_16_4": "lapis_block.png",
+    "1_16_1": "lapis_block.png",
+    "1_15_2": "lapis_block.png",
+    "1_14_4": "lapis_block.png",
+    "1_13_2": "lapis_block.png"
+  },
+  {
+    "1_17": "lapis_ore.png",
+    "1_16_4": "lapis_ore.png",
+    "1_16_1": "lapis_ore.png",
+    "1_15_2": "lapis_ore.png",
+    "1_14_4": "lapis_ore.png",
+    "1_13_2": "lapis_ore.png"
+  },
+  {
+    "1_17": "large_amethyst_bud.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "large_fern_bottom.png",
+    "1_16_4": "large_fern_bottom.png",
+    "1_16_1": "large_fern_bottom.png",
+    "1_15_2": "large_fern_bottom.png",
+    "1_14_4": "large_fern_bottom.png",
+    "1_13_2": "large_fern_bottom.png"
+  },
+  {
+    "1_17": "large_fern_top.png",
+    "1_16_4": "large_fern_top.png",
+    "1_16_1": "large_fern_top.png",
+    "1_15_2": "large_fern_top.png",
+    "1_14_4": "large_fern_top.png",
+    "1_13_2": "large_fern_top.png"
+  },
+  {
+    "1_17": "lava_flow.png",
+    "1_16_4": "lava_flow.png",
+    "1_16_1": "lava_flow.png",
+    "1_15_2": "lava_flow.png",
+    "1_14_4": "lava_flow.png",
+    "1_13_2": "lava_flow.png"
+  },
+  {
+    "1_17": "lava_flow.png.mcmeta",
+    "1_16_4": "lava_flow.png.mcmeta",
+    "1_16_1": "lava_flow.png.mcmeta",
+    "1_15_2": "lava_flow.png.mcmeta",
+    "1_14_4": "lava_flow.png.mcmeta",
+    "1_13_2": "lava_flow.png.mcmeta"
+  },
+  {
+    "1_17": "lava_still.png",
+    "1_16_4": "lava_still.png",
+    "1_16_1": "lava_still.png",
+    "1_15_2": "lava_still.png",
+    "1_14_4": "lava_still.png",
+    "1_13_2": "lava_still.png"
+  },
+  {
+    "1_17": "lava_still.png.mcmeta",
+    "1_16_4": "lava_still.png.mcmeta",
+    "1_16_1": "lava_still.png.mcmeta",
+    "1_15_2": "lava_still.png.mcmeta",
+    "1_14_4": "lava_still.png.mcmeta",
+    "1_13_2": "lava_still.png.mcmeta"
+  },
+  {
+    "1_17": "lectern_base.png",
+    "1_16_4": "lectern_base.png",
+    "1_16_1": "lectern_base.png",
+    "1_15_2": "lectern_base.png",
+    "1_14_4": "lectern_base.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "lectern_front.png",
+    "1_16_4": "lectern_front.png",
+    "1_16_1": "lectern_front.png",
+    "1_15_2": "lectern_front.png",
+    "1_14_4": "lectern_front.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "lectern_sides.png",
+    "1_16_4": "lectern_sides.png",
+    "1_16_1": "lectern_sides.png",
+    "1_15_2": "lectern_sides.png",
+    "1_14_4": "lectern_sides.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "lectern_top.png",
+    "1_16_4": "lectern_top.png",
+    "1_16_1": "lectern_top.png",
+    "1_15_2": "lectern_top.png",
+    "1_14_4": "lectern_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "lever.png",
+    "1_16_4": "lever.png",
+    "1_16_1": "lever.png",
+    "1_15_2": "lever.png",
+    "1_14_4": "lever.png",
+    "1_13_2": "lever.png"
+  },
+  {
+    "1_17": "lightly_weathered_copper_block.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "lightly_weathered_cut_copper.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "lightning_rod.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "light_blue_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "light_blue_concrete.png",
+    "1_16_4": "light_blue_concrete.png",
+    "1_16_1": "light_blue_concrete.png",
+    "1_15_2": "light_blue_concrete.png",
+    "1_14_4": "light_blue_concrete.png",
+    "1_13_2": "light_blue_concrete.png"
+  },
+  {
+    "1_17": "light_blue_concrete_powder.png",
+    "1_16_4": "light_blue_concrete_powder.png",
+    "1_16_1": "light_blue_concrete_powder.png",
+    "1_15_2": "light_blue_concrete_powder.png",
+    "1_14_4": "light_blue_concrete_powder.png",
+    "1_13_2": "light_blue_concrete_powder.png"
+  },
+  {
+    "1_17": "light_blue_glazed_terracotta.png",
+    "1_16_4": "light_blue_glazed_terracotta.png",
+    "1_16_1": "light_blue_glazed_terracotta.png",
+    "1_15_2": "light_blue_glazed_terracotta.png",
+    "1_14_4": "light_blue_glazed_terracotta.png",
+    "1_13_2": "light_blue_glazed_terracotta.png"
+  },
+  {
+    "1_17": "light_blue_shulker_box.png",
+    "1_16_4": "light_blue_shulker_box.png",
+    "1_16_1": "light_blue_shulker_box.png",
+    "1_15_2": "light_blue_shulker_box.png",
+    "1_14_4": "light_blue_shulker_box.png",
+    "1_13_2": "light_blue_shulker_box.png"
+  },
+  {
+    "1_17": "light_blue_stained_glass.png",
+    "1_16_4": "light_blue_stained_glass.png",
+    "1_16_1": "light_blue_stained_glass.png",
+    "1_15_2": "light_blue_stained_glass.png",
+    "1_14_4": "light_blue_stained_glass.png",
+    "1_13_2": "light_blue_stained_glass.png"
+  },
+  {
+    "1_17": "light_blue_stained_glass_pane_top.png",
+    "1_16_4": "light_blue_stained_glass_pane_top.png",
+    "1_16_1": "light_blue_stained_glass_pane_top.png",
+    "1_15_2": "light_blue_stained_glass_pane_top.png",
+    "1_14_4": "light_blue_stained_glass_pane_top.png",
+    "1_13_2": "light_blue_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "light_blue_terracotta.png",
+    "1_16_4": "light_blue_terracotta.png",
+    "1_16_1": "light_blue_terracotta.png",
+    "1_15_2": "light_blue_terracotta.png",
+    "1_14_4": "light_blue_terracotta.png",
+    "1_13_2": "light_blue_terracotta.png"
+  },
+  {
+    "1_17": "light_blue_wool.png",
+    "1_16_4": "light_blue_wool.png",
+    "1_16_1": "light_blue_wool.png",
+    "1_15_2": "light_blue_wool.png",
+    "1_14_4": "light_blue_wool.png",
+    "1_13_2": "light_blue_wool.png"
+  },
+  {
+    "1_17": "light_gray_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "light_gray_concrete.png",
+    "1_16_4": "light_gray_concrete.png",
+    "1_16_1": "light_gray_concrete.png",
+    "1_15_2": "light_gray_concrete.png",
+    "1_14_4": "light_gray_concrete.png",
+    "1_13_2": "light_gray_concrete.png"
+  },
+  {
+    "1_17": "light_gray_concrete_powder.png",
+    "1_16_4": "light_gray_concrete_powder.png",
+    "1_16_1": "light_gray_concrete_powder.png",
+    "1_15_2": "light_gray_concrete_powder.png",
+    "1_14_4": "light_gray_concrete_powder.png",
+    "1_13_2": "light_gray_concrete_powder.png"
+  },
+  {
+    "1_17": "light_gray_glazed_terracotta.png",
+    "1_16_4": "light_gray_glazed_terracotta.png",
+    "1_16_1": "light_gray_glazed_terracotta.png",
+    "1_15_2": "light_gray_glazed_terracotta.png",
+    "1_14_4": "light_gray_glazed_terracotta.png",
+    "1_13_2": "light_gray_glazed_terracotta.png"
+  },
+  {
+    "1_17": "light_gray_shulker_box.png",
+    "1_16_4": "light_gray_shulker_box.png",
+    "1_16_1": "light_gray_shulker_box.png",
+    "1_15_2": "light_gray_shulker_box.png",
+    "1_14_4": "light_gray_shulker_box.png",
+    "1_13_2": "light_gray_shulker_box.png"
+  },
+  {
+    "1_17": "light_gray_stained_glass.png",
+    "1_16_4": "light_gray_stained_glass.png",
+    "1_16_1": "light_gray_stained_glass.png",
+    "1_15_2": "light_gray_stained_glass.png",
+    "1_14_4": "light_gray_stained_glass.png",
+    "1_13_2": "light_gray_stained_glass.png"
+  },
+  {
+    "1_17": "light_gray_stained_glass_pane_top.png",
+    "1_16_4": "light_gray_stained_glass_pane_top.png",
+    "1_16_1": "light_gray_stained_glass_pane_top.png",
+    "1_15_2": "light_gray_stained_glass_pane_top.png",
+    "1_14_4": "light_gray_stained_glass_pane_top.png",
+    "1_13_2": "light_gray_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "light_gray_terracotta.png",
+    "1_16_4": "light_gray_terracotta.png",
+    "1_16_1": "light_gray_terracotta.png",
+    "1_15_2": "light_gray_terracotta.png",
+    "1_14_4": "light_gray_terracotta.png",
+    "1_13_2": "light_gray_terracotta.png"
+  },
+  {
+    "1_17": "light_gray_wool.png",
+    "1_16_4": "light_gray_wool.png",
+    "1_16_1": "light_gray_wool.png",
+    "1_15_2": "light_gray_wool.png",
+    "1_14_4": "light_gray_wool.png",
+    "1_13_2": "light_gray_wool.png"
+  },
+  {
+    "1_17": "lilac_bottom.png",
+    "1_16_4": "lilac_bottom.png",
+    "1_16_1": "lilac_bottom.png",
+    "1_15_2": "lilac_bottom.png",
+    "1_14_4": "lilac_bottom.png",
+    "1_13_2": "lilac_bottom.png"
+  },
+  {
+    "1_17": "lilac_top.png",
+    "1_16_4": "lilac_top.png",
+    "1_16_1": "lilac_top.png",
+    "1_15_2": "lilac_top.png",
+    "1_14_4": "lilac_top.png",
+    "1_13_2": "lilac_top.png"
+  },
+  {
+    "1_17": "lily_of_the_valley.png",
+    "1_16_4": "lily_of_the_valley.png",
+    "1_16_1": "lily_of_the_valley.png",
+    "1_15_2": "lily_of_the_valley.png",
+    "1_14_4": "lily_of_the_valley.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "lily_pad.png",
+    "1_16_4": "lily_pad.png",
+    "1_16_1": "lily_pad.png",
+    "1_15_2": "lily_pad.png",
+    "1_14_4": "lily_pad.png",
+    "1_13_2": "lily_pad.png"
+  },
+  {
+    "1_17": "lime_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "lime_concrete.png",
+    "1_16_4": "lime_concrete.png",
+    "1_16_1": "lime_concrete.png",
+    "1_15_2": "lime_concrete.png",
+    "1_14_4": "lime_concrete.png",
+    "1_13_2": "lime_concrete.png"
+  },
+  {
+    "1_17": "lime_concrete_powder.png",
+    "1_16_4": "lime_concrete_powder.png",
+    "1_16_1": "lime_concrete_powder.png",
+    "1_15_2": "lime_concrete_powder.png",
+    "1_14_4": "lime_concrete_powder.png",
+    "1_13_2": "lime_concrete_powder.png"
+  },
+  {
+    "1_17": "lime_glazed_terracotta.png",
+    "1_16_4": "lime_glazed_terracotta.png",
+    "1_16_1": "lime_glazed_terracotta.png",
+    "1_15_2": "lime_glazed_terracotta.png",
+    "1_14_4": "lime_glazed_terracotta.png",
+    "1_13_2": "lime_glazed_terracotta.png"
+  },
+  {
+    "1_17": "lime_shulker_box.png",
+    "1_16_4": "lime_shulker_box.png",
+    "1_16_1": "lime_shulker_box.png",
+    "1_15_2": "lime_shulker_box.png",
+    "1_14_4": "lime_shulker_box.png",
+    "1_13_2": "lime_shulker_box.png"
+  },
+  {
+    "1_17": "lime_stained_glass.png",
+    "1_16_4": "lime_stained_glass.png",
+    "1_16_1": "lime_stained_glass.png",
+    "1_15_2": "lime_stained_glass.png",
+    "1_14_4": "lime_stained_glass.png",
+    "1_13_2": "lime_stained_glass.png"
+  },
+  {
+    "1_17": "lime_stained_glass_pane_top.png",
+    "1_16_4": "lime_stained_glass_pane_top.png",
+    "1_16_1": "lime_stained_glass_pane_top.png",
+    "1_15_2": "lime_stained_glass_pane_top.png",
+    "1_14_4": "lime_stained_glass_pane_top.png",
+    "1_13_2": "lime_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "lime_terracotta.png",
+    "1_16_4": "lime_terracotta.png",
+    "1_16_1": "lime_terracotta.png",
+    "1_15_2": "lime_terracotta.png",
+    "1_14_4": "lime_terracotta.png",
+    "1_13_2": "lime_terracotta.png"
+  },
+  {
+    "1_17": "lime_wool.png",
+    "1_16_4": "lime_wool.png",
+    "1_16_1": "lime_wool.png",
+    "1_15_2": "lime_wool.png",
+    "1_14_4": "lime_wool.png",
+    "1_13_2": "lime_wool.png"
+  },
+  {
+    "1_17": "lodestone_side.png",
+    "1_16_4": "lodestone_side.png",
+    "1_16_1": "lodestone_side.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "lodestone_top.png",
+    "1_16_4": "lodestone_top.png",
+    "1_16_1": "lodestone_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "loom_bottom.png",
+    "1_16_4": "loom_bottom.png",
+    "1_16_1": "loom_bottom.png",
+    "1_15_2": "loom_bottom.png",
+    "1_14_4": "loom_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "loom_front.png",
+    "1_16_4": "loom_front.png",
+    "1_16_1": "loom_front.png",
+    "1_15_2": "loom_front.png",
+    "1_14_4": "loom_front.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "loom_side.png",
+    "1_16_4": "loom_side.png",
+    "1_16_1": "loom_side.png",
+    "1_15_2": "loom_side.png",
+    "1_14_4": "loom_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "loom_top.png",
+    "1_16_4": "loom_top.png",
+    "1_16_1": "loom_top.png",
+    "1_15_2": "loom_top.png",
+    "1_14_4": "loom_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "magenta_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "magenta_concrete.png",
+    "1_16_4": "magenta_concrete.png",
+    "1_16_1": "magenta_concrete.png",
+    "1_15_2": "magenta_concrete.png",
+    "1_14_4": "magenta_concrete.png",
+    "1_13_2": "magenta_concrete.png"
+  },
+  {
+    "1_17": "magenta_concrete_powder.png",
+    "1_16_4": "magenta_concrete_powder.png",
+    "1_16_1": "magenta_concrete_powder.png",
+    "1_15_2": "magenta_concrete_powder.png",
+    "1_14_4": "magenta_concrete_powder.png",
+    "1_13_2": "magenta_concrete_powder.png"
+  },
+  {
+    "1_17": "magenta_glazed_terracotta.png",
+    "1_16_4": "magenta_glazed_terracotta.png",
+    "1_16_1": "magenta_glazed_terracotta.png",
+    "1_15_2": "magenta_glazed_terracotta.png",
+    "1_14_4": "magenta_glazed_terracotta.png",
+    "1_13_2": "magenta_glazed_terracotta.png"
+  },
+  {
+    "1_17": "magenta_shulker_box.png",
+    "1_16_4": "magenta_shulker_box.png",
+    "1_16_1": "magenta_shulker_box.png",
+    "1_15_2": "magenta_shulker_box.png",
+    "1_14_4": "magenta_shulker_box.png",
+    "1_13_2": "magenta_shulker_box.png"
+  },
+  {
+    "1_17": "magenta_stained_glass.png",
+    "1_16_4": "magenta_stained_glass.png",
+    "1_16_1": "magenta_stained_glass.png",
+    "1_15_2": "magenta_stained_glass.png",
+    "1_14_4": "magenta_stained_glass.png",
+    "1_13_2": "magenta_stained_glass.png"
+  },
+  {
+    "1_17": "magenta_stained_glass_pane_top.png",
+    "1_16_4": "magenta_stained_glass_pane_top.png",
+    "1_16_1": "magenta_stained_glass_pane_top.png",
+    "1_15_2": "magenta_stained_glass_pane_top.png",
+    "1_14_4": "magenta_stained_glass_pane_top.png",
+    "1_13_2": "magenta_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "magenta_terracotta.png",
+    "1_16_4": "magenta_terracotta.png",
+    "1_16_1": "magenta_terracotta.png",
+    "1_15_2": "magenta_terracotta.png",
+    "1_14_4": "magenta_terracotta.png",
+    "1_13_2": "magenta_terracotta.png"
+  },
+  {
+    "1_17": "magenta_wool.png",
+    "1_16_4": "magenta_wool.png",
+    "1_16_1": "magenta_wool.png",
+    "1_15_2": "magenta_wool.png",
+    "1_14_4": "magenta_wool.png",
+    "1_13_2": "magenta_wool.png"
+  },
+  {
+    "1_17": "magma.png",
+    "1_16_4": "magma.png",
+    "1_16_1": "magma.png",
+    "1_15_2": "magma.png",
+    "1_14_4": "magma.png",
+    "1_13_2": "magma.png"
+  },
+  {
+    "1_17": "magma.png.mcmeta",
+    "1_16_4": "magma.png.mcmeta",
+    "1_16_1": "magma.png.mcmeta",
+    "1_15_2": "magma.png.mcmeta",
+    "1_14_4": "magma.png.mcmeta",
+    "1_13_2": "magma.png.mcmeta"
+  },
+  {
+    "1_17": "medium_amethyst_bud.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "melon_side.png",
+    "1_16_4": "melon_side.png",
+    "1_16_1": "melon_side.png",
+    "1_15_2": "melon_side.png",
+    "1_14_4": "melon_side.png",
+    "1_13_2": "melon_side.png"
+  },
+  {
+    "1_17": "melon_stem.png",
+    "1_16_4": "melon_stem.png",
+    "1_16_1": "melon_stem.png",
+    "1_15_2": "melon_stem.png",
+    "1_14_4": "melon_stem.png",
+    "1_13_2": "melon_stem.png"
+  },
+  {
+    "1_17": "melon_top.png",
+    "1_16_4": "melon_top.png",
+    "1_16_1": "melon_top.png",
+    "1_15_2": "melon_top.png",
+    "1_14_4": "melon_top.png",
+    "1_13_2": "melon_top.png"
+  },
+  {
+    "1_17": "mossy_cobblestone.png",
+    "1_16_4": "mossy_cobblestone.png",
+    "1_16_1": "mossy_cobblestone.png",
+    "1_15_2": "mossy_cobblestone.png",
+    "1_14_4": "mossy_cobblestone.png",
+    "1_13_2": "mossy_cobblestone.png"
+  },
+  {
+    "1_17": "mossy_stone_bricks.png",
+    "1_16_4": "mossy_stone_bricks.png",
+    "1_16_1": "mossy_stone_bricks.png",
+    "1_15_2": "mossy_stone_bricks.png",
+    "1_14_4": "mossy_stone_bricks.png",
+    "1_13_2": "mossy_stone_bricks.png"
+  },
+  {
+    "1_17": "mushroom_block_inside.png",
+    "1_16_4": "mushroom_block_inside.png",
+    "1_16_1": "mushroom_block_inside.png",
+    "1_15_2": "mushroom_block_inside.png",
+    "1_14_4": "mushroom_block_inside.png",
+    "1_13_2": "mushroom_block_inside.png"
+  },
+  {
+    "1_17": "mushroom_stem.png",
+    "1_16_4": "mushroom_stem.png",
+    "1_16_1": "mushroom_stem.png",
+    "1_15_2": "mushroom_stem.png",
+    "1_14_4": "mushroom_stem.png",
+    "1_13_2": "mushroom_stem.png"
+  },
+  {
+    "1_17": "mycelium_side.png",
+    "1_16_4": "mycelium_side.png",
+    "1_16_1": "mycelium_side.png",
+    "1_15_2": "mycelium_side.png",
+    "1_14_4": "mycelium_side.png",
+    "1_13_2": "mycelium_side.png"
+  },
+  {
+    "1_17": "mycelium_top.png",
+    "1_16_4": "mycelium_top.png",
+    "1_16_1": "mycelium_top.png",
+    "1_15_2": "mycelium_top.png",
+    "1_14_4": "mycelium_top.png",
+    "1_13_2": "mycelium_top.png"
+  },
+  {
+    "1_17": "netherite_block.png",
+    "1_16_4": "netherite_block.png",
+    "1_16_1": "netherite_block.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "netherrack.png",
+    "1_16_4": "netherrack.png",
+    "1_16_1": "netherrack.png",
+    "1_15_2": "netherrack.png",
+    "1_14_4": "netherrack.png",
+    "1_13_2": "netherrack.png"
+  },
+  {
+    "1_17": "nether_bricks.png",
+    "1_16_4": "nether_bricks.png",
+    "1_16_1": "nether_bricks.png",
+    "1_15_2": "nether_bricks.png",
+    "1_14_4": "nether_bricks.png",
+    "1_13_2": "nether_bricks.png"
+  },
+  {
+    "1_17": "nether_gold_ore.png",
+    "1_16_4": "nether_gold_ore.png",
+    "1_16_1": "nether_gold_ore.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "nether_portal.png",
+    "1_16_4": "nether_portal.png",
+    "1_16_1": "nether_portal.png",
+    "1_15_2": "nether_portal.png",
+    "1_14_4": "nether_portal.png",
+    "1_13_2": "nether_portal.png"
+  },
+  {
+    "1_17": "nether_portal.png.mcmeta",
+    "1_16_4": "nether_portal.png.mcmeta",
+    "1_16_1": "nether_portal.png.mcmeta",
+    "1_15_2": "nether_portal.png.mcmeta",
+    "1_14_4": "nether_portal.png.mcmeta",
+    "1_13_2": "nether_portal.png.mcmeta"
+  },
+  {
+    "1_17": "nether_quartz_ore.png",
+    "1_16_4": "nether_quartz_ore.png",
+    "1_16_1": "nether_quartz_ore.png",
+    "1_15_2": "nether_quartz_ore.png",
+    "1_14_4": "nether_quartz_ore.png",
+    "1_13_2": "nether_quartz_ore.png"
+  },
+  {
+    "1_17": "nether_sprouts.png",
+    "1_16_4": "nether_sprouts.png",
+    "1_16_1": "nether_sprouts.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "nether_wart_block.png",
+    "1_16_4": "nether_wart_block.png",
+    "1_16_1": "nether_wart_block.png",
+    "1_15_2": "nether_wart_block.png",
+    "1_14_4": "nether_wart_block.png",
+    "1_13_2": "nether_wart_block.png"
+  },
+  {
+    "1_17": "nether_wart_stage0.png",
+    "1_16_4": "nether_wart_stage0.png",
+    "1_16_1": "nether_wart_stage0.png",
+    "1_15_2": "nether_wart_stage0.png",
+    "1_14_4": "nether_wart_stage0.png",
+    "1_13_2": "nether_wart_stage0.png"
+  },
+  {
+    "1_17": "nether_wart_stage1.png",
+    "1_16_4": "nether_wart_stage1.png",
+    "1_16_1": "nether_wart_stage1.png",
+    "1_15_2": "nether_wart_stage1.png",
+    "1_14_4": "nether_wart_stage1.png",
+    "1_13_2": "nether_wart_stage1.png"
+  },
+  {
+    "1_17": "nether_wart_stage2.png",
+    "1_16_4": "nether_wart_stage2.png",
+    "1_16_1": "nether_wart_stage2.png",
+    "1_15_2": "nether_wart_stage2.png",
+    "1_14_4": "nether_wart_stage2.png",
+    "1_13_2": "nether_wart_stage2.png"
+  },
+  {
+    "1_17": "note_block.png",
+    "1_16_4": "note_block.png",
+    "1_16_1": "note_block.png",
+    "1_15_2": "note_block.png",
+    "1_14_4": "note_block.png",
+    "1_13_2": "note_block.png"
+  },
+  {
+    "1_17": "oak_door_bottom.png",
+    "1_16_4": "oak_door_bottom.png",
+    "1_16_1": "oak_door_bottom.png",
+    "1_15_2": "oak_door_bottom.png",
+    "1_14_4": "oak_door_bottom.png",
+    "1_13_2": "oak_door_bottom.png"
+  },
+  {
+    "1_17": "oak_door_top.png",
+    "1_16_4": "oak_door_top.png",
+    "1_16_1": "oak_door_top.png",
+    "1_15_2": "oak_door_top.png",
+    "1_14_4": "oak_door_top.png",
+    "1_13_2": "oak_door_top.png"
+  },
+  {
+    "1_17": "oak_leaves.png",
+    "1_16_4": "oak_leaves.png",
+    "1_16_1": "oak_leaves.png",
+    "1_15_2": "oak_leaves.png",
+    "1_14_4": "oak_leaves.png",
+    "1_13_2": "oak_leaves.png"
+  },
+  {
+    "1_17": "oak_log.png",
+    "1_16_4": "oak_log.png",
+    "1_16_1": "oak_log.png",
+    "1_15_2": "oak_log.png",
+    "1_14_4": "oak_log.png",
+    "1_13_2": "oak_log.png"
+  },
+  {
+    "1_17": "oak_log_top.png",
+    "1_16_4": "oak_log_top.png",
+    "1_16_1": "oak_log_top.png",
+    "1_15_2": "oak_log_top.png",
+    "1_14_4": "oak_log_top.png",
+    "1_13_2": "oak_log_top.png"
+  },
+  {
+    "1_17": "oak_planks.png",
+    "1_16_4": "oak_planks.png",
+    "1_16_1": "oak_planks.png",
+    "1_15_2": "oak_planks.png",
+    "1_14_4": "oak_planks.png",
+    "1_13_2": "oak_planks.png"
+  },
+  {
+    "1_17": "oak_sapling.png",
+    "1_16_4": "oak_sapling.png",
+    "1_16_1": "oak_sapling.png",
+    "1_15_2": "oak_sapling.png",
+    "1_14_4": "oak_sapling.png",
+    "1_13_2": "oak_sapling.png"
+  },
+  {
+    "1_17": "oak_trapdoor.png",
+    "1_16_4": "oak_trapdoor.png",
+    "1_16_1": "oak_trapdoor.png",
+    "1_15_2": "oak_trapdoor.png",
+    "1_14_4": "oak_trapdoor.png",
+    "1_13_2": "oak_trapdoor.png"
+  },
+  {
+    "1_17": "observer_back.png",
+    "1_16_4": "observer_back.png",
+    "1_16_1": "observer_back.png",
+    "1_15_2": "observer_back.png",
+    "1_14_4": "observer_back.png",
+    "1_13_2": "observer_back.png"
+  },
+  {
+    "1_17": "observer_back_on.png",
+    "1_16_4": "observer_back_on.png",
+    "1_16_1": "observer_back_on.png",
+    "1_15_2": "observer_back_on.png",
+    "1_14_4": "observer_back_on.png",
+    "1_13_2": "observer_back_on.png"
+  },
+  {
+    "1_17": "observer_front.png",
+    "1_16_4": "observer_front.png",
+    "1_16_1": "observer_front.png",
+    "1_15_2": "observer_front.png",
+    "1_14_4": "observer_front.png",
+    "1_13_2": "observer_front.png"
+  },
+  {
+    "1_17": "observer_side.png",
+    "1_16_4": "observer_side.png",
+    "1_16_1": "observer_side.png",
+    "1_15_2": "observer_side.png",
+    "1_14_4": "observer_side.png",
+    "1_13_2": "observer_side.png"
+  },
+  {
+    "1_17": "observer_top.png",
+    "1_16_4": "observer_top.png",
+    "1_16_1": "observer_top.png",
+    "1_15_2": "observer_top.png",
+    "1_14_4": "observer_top.png",
+    "1_13_2": "observer_top.png"
+  },
+  {
+    "1_17": "obsidian.png",
+    "1_16_4": "obsidian.png",
+    "1_16_1": "obsidian.png",
+    "1_15_2": "obsidian.png",
+    "1_14_4": "obsidian.png",
+    "1_13_2": "obsidian.png"
+  },
+  {
+    "1_17": "orange_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "orange_concrete.png",
+    "1_16_4": "orange_concrete.png",
+    "1_16_1": "orange_concrete.png",
+    "1_15_2": "orange_concrete.png",
+    "1_14_4": "orange_concrete.png",
+    "1_13_2": "orange_concrete.png"
+  },
+  {
+    "1_17": "orange_concrete_powder.png",
+    "1_16_4": "orange_concrete_powder.png",
+    "1_16_1": "orange_concrete_powder.png",
+    "1_15_2": "orange_concrete_powder.png",
+    "1_14_4": "orange_concrete_powder.png",
+    "1_13_2": "orange_concrete_powder.png"
+  },
+  {
+    "1_17": "orange_glazed_terracotta.png",
+    "1_16_4": "orange_glazed_terracotta.png",
+    "1_16_1": "orange_glazed_terracotta.png",
+    "1_15_2": "orange_glazed_terracotta.png",
+    "1_14_4": "orange_glazed_terracotta.png",
+    "1_13_2": "orange_glazed_terracotta.png"
+  },
+  {
+    "1_17": "orange_shulker_box.png",
+    "1_16_4": "orange_shulker_box.png",
+    "1_16_1": "orange_shulker_box.png",
+    "1_15_2": "orange_shulker_box.png",
+    "1_14_4": "orange_shulker_box.png",
+    "1_13_2": "orange_shulker_box.png"
+  },
+  {
+    "1_17": "orange_stained_glass.png",
+    "1_16_4": "orange_stained_glass.png",
+    "1_16_1": "orange_stained_glass.png",
+    "1_15_2": "orange_stained_glass.png",
+    "1_14_4": "orange_stained_glass.png",
+    "1_13_2": "orange_stained_glass.png"
+  },
+  {
+    "1_17": "orange_stained_glass_pane_top.png",
+    "1_16_4": "orange_stained_glass_pane_top.png",
+    "1_16_1": "orange_stained_glass_pane_top.png",
+    "1_15_2": "orange_stained_glass_pane_top.png",
+    "1_14_4": "orange_stained_glass_pane_top.png",
+    "1_13_2": "orange_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "orange_terracotta.png",
+    "1_16_4": "orange_terracotta.png",
+    "1_16_1": "orange_terracotta.png",
+    "1_15_2": "orange_terracotta.png",
+    "1_14_4": "orange_terracotta.png",
+    "1_13_2": "orange_terracotta.png"
+  },
+  {
+    "1_17": "orange_tulip.png",
+    "1_16_4": "orange_tulip.png",
+    "1_16_1": "orange_tulip.png",
+    "1_15_2": "orange_tulip.png",
+    "1_14_4": "orange_tulip.png",
+    "1_13_2": "orange_tulip.png"
+  },
+  {
+    "1_17": "orange_wool.png",
+    "1_16_4": "orange_wool.png",
+    "1_16_1": "orange_wool.png",
+    "1_15_2": "orange_wool.png",
+    "1_14_4": "orange_wool.png",
+    "1_13_2": "orange_wool.png"
+  },
+  {
+    "1_17": "oxeye_daisy.png",
+    "1_16_4": "oxeye_daisy.png",
+    "1_16_1": "oxeye_daisy.png",
+    "1_15_2": "oxeye_daisy.png",
+    "1_14_4": "oxeye_daisy.png",
+    "1_13_2": "oxeye_daisy.png"
+  },
+  {
+    "1_17": "packed_ice.png",
+    "1_16_4": "packed_ice.png",
+    "1_16_1": "packed_ice.png",
+    "1_15_2": "packed_ice.png",
+    "1_14_4": "packed_ice.png",
+    "1_13_2": "packed_ice.png"
+  },
+  {
+    "1_17": "peony_bottom.png",
+    "1_16_4": "peony_bottom.png",
+    "1_16_1": "peony_bottom.png",
+    "1_15_2": "peony_bottom.png",
+    "1_14_4": "peony_bottom.png",
+    "1_13_2": "peony_bottom.png"
+  },
+  {
+    "1_17": "peony_top.png",
+    "1_16_4": "peony_top.png",
+    "1_16_1": "peony_top.png",
+    "1_15_2": "peony_top.png",
+    "1_14_4": "peony_top.png",
+    "1_13_2": "peony_top.png"
+  },
+  {
+    "1_17": "pink_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pink_concrete.png",
+    "1_16_4": "pink_concrete.png",
+    "1_16_1": "pink_concrete.png",
+    "1_15_2": "pink_concrete.png",
+    "1_14_4": "pink_concrete.png",
+    "1_13_2": "pink_concrete.png"
+  },
+  {
+    "1_17": "pink_concrete_powder.png",
+    "1_16_4": "pink_concrete_powder.png",
+    "1_16_1": "pink_concrete_powder.png",
+    "1_15_2": "pink_concrete_powder.png",
+    "1_14_4": "pink_concrete_powder.png",
+    "1_13_2": "pink_concrete_powder.png"
+  },
+  {
+    "1_17": "pink_glazed_terracotta.png",
+    "1_16_4": "pink_glazed_terracotta.png",
+    "1_16_1": "pink_glazed_terracotta.png",
+    "1_15_2": "pink_glazed_terracotta.png",
+    "1_14_4": "pink_glazed_terracotta.png",
+    "1_13_2": "pink_glazed_terracotta.png"
+  },
+  {
+    "1_17": "pink_shulker_box.png",
+    "1_16_4": "pink_shulker_box.png",
+    "1_16_1": "pink_shulker_box.png",
+    "1_15_2": "pink_shulker_box.png",
+    "1_14_4": "pink_shulker_box.png",
+    "1_13_2": "pink_shulker_box.png"
+  },
+  {
+    "1_17": "pink_stained_glass.png",
+    "1_16_4": "pink_stained_glass.png",
+    "1_16_1": "pink_stained_glass.png",
+    "1_15_2": "pink_stained_glass.png",
+    "1_14_4": "pink_stained_glass.png",
+    "1_13_2": "pink_stained_glass.png"
+  },
+  {
+    "1_17": "pink_stained_glass_pane_top.png",
+    "1_16_4": "pink_stained_glass_pane_top.png",
+    "1_16_1": "pink_stained_glass_pane_top.png",
+    "1_15_2": "pink_stained_glass_pane_top.png",
+    "1_14_4": "pink_stained_glass_pane_top.png",
+    "1_13_2": "pink_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "pink_terracotta.png",
+    "1_16_4": "pink_terracotta.png",
+    "1_16_1": "pink_terracotta.png",
+    "1_15_2": "pink_terracotta.png",
+    "1_14_4": "pink_terracotta.png",
+    "1_13_2": "pink_terracotta.png"
+  },
+  {
+    "1_17": "pink_tulip.png",
+    "1_16_4": "pink_tulip.png",
+    "1_16_1": "pink_tulip.png",
+    "1_15_2": "pink_tulip.png",
+    "1_14_4": "pink_tulip.png",
+    "1_13_2": "pink_tulip.png"
+  },
+  {
+    "1_17": "pink_wool.png",
+    "1_16_4": "pink_wool.png",
+    "1_16_1": "pink_wool.png",
+    "1_15_2": "pink_wool.png",
+    "1_14_4": "pink_wool.png",
+    "1_13_2": "pink_wool.png"
+  },
+  {
+    "1_17": "piston_bottom.png",
+    "1_16_4": "piston_bottom.png",
+    "1_16_1": "piston_bottom.png",
+    "1_15_2": "piston_bottom.png",
+    "1_14_4": "piston_bottom.png",
+    "1_13_2": "piston_bottom.png"
+  },
+  {
+    "1_17": "piston_inner.png",
+    "1_16_4": "piston_inner.png",
+    "1_16_1": "piston_inner.png",
+    "1_15_2": "piston_inner.png",
+    "1_14_4": "piston_inner.png",
+    "1_13_2": "piston_inner.png"
+  },
+  {
+    "1_17": "piston_side.png",
+    "1_16_4": "piston_side.png",
+    "1_16_1": "piston_side.png",
+    "1_15_2": "piston_side.png",
+    "1_14_4": "piston_side.png",
+    "1_13_2": "piston_side.png"
+  },
+  {
+    "1_17": "piston_top.png",
+    "1_16_4": "piston_top.png",
+    "1_16_1": "piston_top.png",
+    "1_15_2": "piston_top.png",
+    "1_14_4": "piston_top.png",
+    "1_13_2": "piston_top.png"
+  },
+  {
+    "1_17": "piston_top_sticky.png",
+    "1_16_4": "piston_top_sticky.png",
+    "1_16_1": "piston_top_sticky.png",
+    "1_15_2": "piston_top_sticky.png",
+    "1_14_4": "piston_top_sticky.png",
+    "1_13_2": "piston_top_sticky.png"
+  },
+  {
+    "1_17": "podzol_side.png",
+    "1_16_4": "podzol_side.png",
+    "1_16_1": "podzol_side.png",
+    "1_15_2": "podzol_side.png",
+    "1_14_4": "podzol_side.png",
+    "1_13_2": "podzol_side.png"
+  },
+  {
+    "1_17": "podzol_top.png",
+    "1_16_4": "podzol_top.png",
+    "1_16_1": "podzol_top.png",
+    "1_15_2": "podzol_top.png",
+    "1_14_4": "podzol_top.png",
+    "1_13_2": "podzol_top.png"
+  },
+  {
+    "1_17": "pointed_dripstone_down_base.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_down_frustum.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_down_middle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_down_tip.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_down_tip_merge.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_up_base.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_up_frustum.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_up_middle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_up_tip.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "pointed_dripstone_up_tip_merge.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "polished_andesite.png",
+    "1_16_4": "polished_andesite.png",
+    "1_16_1": "polished_andesite.png",
+    "1_15_2": "polished_andesite.png",
+    "1_14_4": "polished_andesite.png",
+    "1_13_2": "polished_andesite.png"
+  },
+  {
+    "1_17": "polished_basalt_side.png",
+    "1_16_4": "polished_basalt_side.png",
+    "1_16_1": "polished_basalt_side.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "polished_basalt_top.png",
+    "1_16_4": "polished_basalt_top.png",
+    "1_16_1": "polished_basalt_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "polished_blackstone.png",
+    "1_16_4": "polished_blackstone.png",
+    "1_16_1": "polished_blackstone.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "polished_blackstone_bricks.png",
+    "1_16_4": "polished_blackstone_bricks.png",
+    "1_16_1": "polished_blackstone_bricks.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "polished_diorite.png",
+    "1_16_4": "polished_diorite.png",
+    "1_16_1": "polished_diorite.png",
+    "1_15_2": "polished_diorite.png",
+    "1_14_4": "polished_diorite.png",
+    "1_13_2": "polished_diorite.png"
+  },
+  {
+    "1_17": "polished_granite.png",
+    "1_16_4": "polished_granite.png",
+    "1_16_1": "polished_granite.png",
+    "1_15_2": "polished_granite.png",
+    "1_14_4": "polished_granite.png",
+    "1_13_2": "polished_granite.png"
+  },
+  {
+    "1_17": "poppy.png",
+    "1_16_4": "poppy.png",
+    "1_16_1": "poppy.png",
+    "1_15_2": "poppy.png",
+    "1_14_4": "poppy.png",
+    "1_13_2": "poppy.png"
+  },
+  {
+    "1_17": "potatoes_stage0.png",
+    "1_16_4": "potatoes_stage0.png",
+    "1_16_1": "potatoes_stage0.png",
+    "1_15_2": "potatoes_stage0.png",
+    "1_14_4": "potatoes_stage0.png",
+    "1_13_2": "potatoes_stage0.png"
+  },
+  {
+    "1_17": "potatoes_stage1.png",
+    "1_16_4": "potatoes_stage1.png",
+    "1_16_1": "potatoes_stage1.png",
+    "1_15_2": "potatoes_stage1.png",
+    "1_14_4": "potatoes_stage1.png",
+    "1_13_2": "potatoes_stage1.png"
+  },
+  {
+    "1_17": "potatoes_stage2.png",
+    "1_16_4": "potatoes_stage2.png",
+    "1_16_1": "potatoes_stage2.png",
+    "1_15_2": "potatoes_stage2.png",
+    "1_14_4": "potatoes_stage2.png",
+    "1_13_2": "potatoes_stage2.png"
+  },
+  {
+    "1_17": "potatoes_stage3.png",
+    "1_16_4": "potatoes_stage3.png",
+    "1_16_1": "potatoes_stage3.png",
+    "1_15_2": "potatoes_stage3.png",
+    "1_14_4": "potatoes_stage3.png",
+    "1_13_2": "potatoes_stage3.png"
+  },
+  {
+    "1_17": "powder_snow.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "powered_rail.png",
+    "1_16_4": "powered_rail.png",
+    "1_16_1": "powered_rail.png",
+    "1_15_2": "powered_rail.png",
+    "1_14_4": "powered_rail.png",
+    "1_13_2": "powered_rail.png"
+  },
+  {
+    "1_17": "powered_rail_on.png",
+    "1_16_4": "powered_rail_on.png",
+    "1_16_1": "powered_rail_on.png",
+    "1_15_2": "powered_rail_on.png",
+    "1_14_4": "powered_rail_on.png",
+    "1_13_2": "powered_rail_on.png"
+  },
+  {
+    "1_17": "prismarine.png",
+    "1_16_4": "prismarine.png",
+    "1_16_1": "prismarine.png",
+    "1_15_2": "prismarine.png",
+    "1_14_4": "prismarine.png",
+    "1_13_2": "prismarine.png"
+  },
+  {
+    "1_17": "prismarine.png.mcmeta",
+    "1_16_4": "prismarine.png.mcmeta",
+    "1_16_1": "prismarine.png.mcmeta",
+    "1_15_2": "prismarine.png.mcmeta",
+    "1_14_4": "prismarine.png.mcmeta",
+    "1_13_2": "prismarine.png.mcmeta"
+  },
+  {
+    "1_17": "prismarine_bricks.png",
+    "1_16_4": "prismarine_bricks.png",
+    "1_16_1": "prismarine_bricks.png",
+    "1_15_2": "prismarine_bricks.png",
+    "1_14_4": "prismarine_bricks.png",
+    "1_13_2": "prismarine_bricks.png"
+  },
+  {
+    "1_17": "pumpkin_side.png",
+    "1_16_4": "pumpkin_side.png",
+    "1_16_1": "pumpkin_side.png",
+    "1_15_2": "pumpkin_side.png",
+    "1_14_4": "pumpkin_side.png",
+    "1_13_2": "pumpkin_side.png"
+  },
+  {
+    "1_17": "pumpkin_stem.png",
+    "1_16_4": "pumpkin_stem.png",
+    "1_16_1": "pumpkin_stem.png",
+    "1_15_2": "pumpkin_stem.png",
+    "1_14_4": "pumpkin_stem.png",
+    "1_13_2": "pumpkin_stem.png"
+  },
+  {
+    "1_17": "pumpkin_top.png",
+    "1_16_4": "pumpkin_top.png",
+    "1_16_1": "pumpkin_top.png",
+    "1_15_2": "pumpkin_top.png",
+    "1_14_4": "pumpkin_top.png",
+    "1_13_2": "pumpkin_top.png"
+  },
+  {
+    "1_17": "purple_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "purple_concrete.png",
+    "1_16_4": "purple_concrete.png",
+    "1_16_1": "purple_concrete.png",
+    "1_15_2": "purple_concrete.png",
+    "1_14_4": "purple_concrete.png",
+    "1_13_2": "purple_concrete.png"
+  },
+  {
+    "1_17": "purple_concrete_powder.png",
+    "1_16_4": "purple_concrete_powder.png",
+    "1_16_1": "purple_concrete_powder.png",
+    "1_15_2": "purple_concrete_powder.png",
+    "1_14_4": "purple_concrete_powder.png",
+    "1_13_2": "purple_concrete_powder.png"
+  },
+  {
+    "1_17": "purple_glazed_terracotta.png",
+    "1_16_4": "purple_glazed_terracotta.png",
+    "1_16_1": "purple_glazed_terracotta.png",
+    "1_15_2": "purple_glazed_terracotta.png",
+    "1_14_4": "purple_glazed_terracotta.png",
+    "1_13_2": "purple_glazed_terracotta.png"
+  },
+  {
+    "1_17": "purple_shulker_box.png",
+    "1_16_4": "purple_shulker_box.png",
+    "1_16_1": "purple_shulker_box.png",
+    "1_15_2": "purple_shulker_box.png",
+    "1_14_4": "purple_shulker_box.png",
+    "1_13_2": "purple_shulker_box.png"
+  },
+  {
+    "1_17": "purple_stained_glass.png",
+    "1_16_4": "purple_stained_glass.png",
+    "1_16_1": "purple_stained_glass.png",
+    "1_15_2": "purple_stained_glass.png",
+    "1_14_4": "purple_stained_glass.png",
+    "1_13_2": "purple_stained_glass.png"
+  },
+  {
+    "1_17": "purple_stained_glass_pane_top.png",
+    "1_16_4": "purple_stained_glass_pane_top.png",
+    "1_16_1": "purple_stained_glass_pane_top.png",
+    "1_15_2": "purple_stained_glass_pane_top.png",
+    "1_14_4": "purple_stained_glass_pane_top.png",
+    "1_13_2": "purple_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "purple_terracotta.png",
+    "1_16_4": "purple_terracotta.png",
+    "1_16_1": "purple_terracotta.png",
+    "1_15_2": "purple_terracotta.png",
+    "1_14_4": "purple_terracotta.png",
+    "1_13_2": "purple_terracotta.png"
+  },
+  {
+    "1_17": "purple_wool.png",
+    "1_16_4": "purple_wool.png",
+    "1_16_1": "purple_wool.png",
+    "1_15_2": "purple_wool.png",
+    "1_14_4": "purple_wool.png",
+    "1_13_2": "purple_wool.png"
+  },
+  {
+    "1_17": "purpur_block.png",
+    "1_16_4": "purpur_block.png",
+    "1_16_1": "purpur_block.png",
+    "1_15_2": "purpur_block.png",
+    "1_14_4": "purpur_block.png",
+    "1_13_2": "purpur_block.png"
+  },
+  {
+    "1_17": "purpur_pillar.png",
+    "1_16_4": "purpur_pillar.png",
+    "1_16_1": "purpur_pillar.png",
+    "1_15_2": "purpur_pillar.png",
+    "1_14_4": "purpur_pillar.png",
+    "1_13_2": "purpur_pillar.png"
+  },
+  {
+    "1_17": "purpur_pillar_top.png",
+    "1_16_4": "purpur_pillar_top.png",
+    "1_16_1": "purpur_pillar_top.png",
+    "1_15_2": "purpur_pillar_top.png",
+    "1_14_4": "purpur_pillar_top.png",
+    "1_13_2": "purpur_pillar_top.png"
+  },
+  {
+    "1_17": "quartz_block_bottom.png",
+    "1_16_4": "quartz_block_bottom.png",
+    "1_16_1": "quartz_block_bottom.png",
+    "1_15_2": "quartz_block_bottom.png",
+    "1_14_4": "quartz_block_bottom.png",
+    "1_13_2": "quartz_block_bottom.png"
+  },
+  {
+    "1_17": "quartz_block_side.png",
+    "1_16_4": "quartz_block_side.png",
+    "1_16_1": "quartz_block_side.png",
+    "1_15_2": "quartz_block_side.png",
+    "1_14_4": "quartz_block_side.png",
+    "1_13_2": "quartz_block_side.png"
+  },
+  {
+    "1_17": "quartz_block_top.png",
+    "1_16_4": "quartz_block_top.png",
+    "1_16_1": "quartz_block_top.png",
+    "1_15_2": "quartz_block_top.png",
+    "1_14_4": "quartz_block_top.png",
+    "1_13_2": "quartz_block_top.png"
+  },
+  {
+    "1_17": "quartz_bricks.png",
+    "1_16_4": "quartz_bricks.png",
+    "1_16_1": "quartz_bricks.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "quartz_pillar.png",
+    "1_16_4": "quartz_pillar.png",
+    "1_16_1": "quartz_pillar.png",
+    "1_15_2": "quartz_pillar.png",
+    "1_14_4": "quartz_pillar.png",
+    "1_13_2": "quartz_pillar.png"
+  },
+  {
+    "1_17": "quartz_pillar_top.png",
+    "1_16_4": "quartz_pillar_top.png",
+    "1_16_1": "quartz_pillar_top.png",
+    "1_15_2": "quartz_pillar_top.png",
+    "1_14_4": "quartz_pillar_top.png",
+    "1_13_2": "quartz_pillar_top.png"
+  },
+  {
+    "1_17": "rail.png",
+    "1_16_4": "rail.png",
+    "1_16_1": "rail.png",
+    "1_15_2": "rail.png",
+    "1_14_4": "rail.png",
+    "1_13_2": "rail.png"
+  },
+  {
+    "1_17": "rail_corner.png",
+    "1_16_4": "rail_corner.png",
+    "1_16_1": "rail_corner.png",
+    "1_15_2": "rail_corner.png",
+    "1_14_4": "rail_corner.png",
+    "1_13_2": "rail_corner.png"
+  },
+  {
+    "1_17": "redstone_block.png",
+    "1_16_4": "redstone_block.png",
+    "1_16_1": "redstone_block.png",
+    "1_15_2": "redstone_block.png",
+    "1_14_4": "redstone_block.png",
+    "1_13_2": "redstone_block.png"
+  },
+  {
+    "1_17": "redstone_dust_dot.png",
+    "1_16_4": "redstone_dust_dot.png",
+    "1_16_1": "redstone_dust_dot.png",
+    "1_15_2": "redstone_dust_dot.png",
+    "1_14_4": "redstone_dust_dot.png",
+    "1_13_2": "redstone_dust_dot.png"
+  },
+  {
+    "1_17": "redstone_dust_line0.png",
+    "1_16_4": "redstone_dust_line0.png",
+    "1_16_1": "redstone_dust_line0.png",
+    "1_15_2": "redstone_dust_line0.png",
+    "1_14_4": "redstone_dust_line0.png",
+    "1_13_2": "redstone_dust_line0.png"
+  },
+  {
+    "1_17": "redstone_dust_line1.png",
+    "1_16_4": "redstone_dust_line1.png",
+    "1_16_1": "redstone_dust_line1.png",
+    "1_15_2": "redstone_dust_line1.png",
+    "1_14_4": "redstone_dust_line1.png",
+    "1_13_2": "redstone_dust_line1.png"
+  },
+  {
+    "1_17": "redstone_dust_overlay.png",
+    "1_16_4": "redstone_dust_overlay.png",
+    "1_16_1": "redstone_dust_overlay.png",
+    "1_15_2": "redstone_dust_overlay.png",
+    "1_14_4": "redstone_dust_overlay.png",
+    "1_13_2": "redstone_dust_overlay.png"
+  },
+  {
+    "1_17": "redstone_lamp.png",
+    "1_16_4": "redstone_lamp.png",
+    "1_16_1": "redstone_lamp.png",
+    "1_15_2": "redstone_lamp.png",
+    "1_14_4": "redstone_lamp.png",
+    "1_13_2": "redstone_lamp.png"
+  },
+  {
+    "1_17": "redstone_lamp_on.png",
+    "1_16_4": "redstone_lamp_on.png",
+    "1_16_1": "redstone_lamp_on.png",
+    "1_15_2": "redstone_lamp_on.png",
+    "1_14_4": "redstone_lamp_on.png",
+    "1_13_2": "redstone_lamp_on.png"
+  },
+  {
+    "1_17": "redstone_ore.png",
+    "1_16_4": "redstone_ore.png",
+    "1_16_1": "redstone_ore.png",
+    "1_15_2": "redstone_ore.png",
+    "1_14_4": "redstone_ore.png",
+    "1_13_2": "redstone_ore.png"
+  },
+  {
+    "1_17": "redstone_torch.png",
+    "1_16_4": "redstone_torch.png",
+    "1_16_1": "redstone_torch.png",
+    "1_15_2": "redstone_torch.png",
+    "1_14_4": "redstone_torch.png",
+    "1_13_2": "redstone_torch.png"
+  },
+  {
+    "1_17": "redstone_torch_off.png",
+    "1_16_4": "redstone_torch_off.png",
+    "1_16_1": "redstone_torch_off.png",
+    "1_15_2": "redstone_torch_off.png",
+    "1_14_4": "redstone_torch_off.png",
+    "1_13_2": "redstone_torch_off.png"
+  },
+  {
+    "1_17": "red_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "red_concrete.png",
+    "1_16_4": "red_concrete.png",
+    "1_16_1": "red_concrete.png",
+    "1_15_2": "red_concrete.png",
+    "1_14_4": "red_concrete.png",
+    "1_13_2": "red_concrete.png"
+  },
+  {
+    "1_17": "red_concrete_powder.png",
+    "1_16_4": "red_concrete_powder.png",
+    "1_16_1": "red_concrete_powder.png",
+    "1_15_2": "red_concrete_powder.png",
+    "1_14_4": "red_concrete_powder.png",
+    "1_13_2": "red_concrete_powder.png"
+  },
+  {
+    "1_17": "red_glazed_terracotta.png",
+    "1_16_4": "red_glazed_terracotta.png",
+    "1_16_1": "red_glazed_terracotta.png",
+    "1_15_2": "red_glazed_terracotta.png",
+    "1_14_4": "red_glazed_terracotta.png",
+    "1_13_2": "red_glazed_terracotta.png"
+  },
+  {
+    "1_17": "red_mushroom.png",
+    "1_16_4": "red_mushroom.png",
+    "1_16_1": "red_mushroom.png",
+    "1_15_2": "red_mushroom.png",
+    "1_14_4": "red_mushroom.png",
+    "1_13_2": "red_mushroom.png"
+  },
+  {
+    "1_17": "red_mushroom_block.png",
+    "1_16_4": "red_mushroom_block.png",
+    "1_16_1": "red_mushroom_block.png",
+    "1_15_2": "red_mushroom_block.png",
+    "1_14_4": "red_mushroom_block.png",
+    "1_13_2": "red_mushroom_block.png"
+  },
+  {
+    "1_17": "red_nether_bricks.png",
+    "1_16_4": "red_nether_bricks.png",
+    "1_16_1": "red_nether_bricks.png",
+    "1_15_2": "red_nether_bricks.png",
+    "1_14_4": "red_nether_bricks.png",
+    "1_13_2": "red_nether_bricks.png"
+  },
+  {
+    "1_17": "red_sand.png",
+    "1_16_4": "red_sand.png",
+    "1_16_1": "red_sand.png",
+    "1_15_2": "red_sand.png",
+    "1_14_4": "red_sand.png",
+    "1_13_2": "red_sand.png"
+  },
+  {
+    "1_17": "red_sandstone.png",
+    "1_16_4": "red_sandstone.png",
+    "1_16_1": "red_sandstone.png",
+    "1_15_2": "red_sandstone.png",
+    "1_14_4": "red_sandstone.png",
+    "1_13_2": "red_sandstone.png"
+  },
+  {
+    "1_17": "red_sandstone_bottom.png",
+    "1_16_4": "red_sandstone_bottom.png",
+    "1_16_1": "red_sandstone_bottom.png",
+    "1_15_2": "red_sandstone_bottom.png",
+    "1_14_4": "red_sandstone_bottom.png",
+    "1_13_2": "red_sandstone_bottom.png"
+  },
+  {
+    "1_17": "red_sandstone_top.png",
+    "1_16_4": "red_sandstone_top.png",
+    "1_16_1": "red_sandstone_top.png",
+    "1_15_2": "red_sandstone_top.png",
+    "1_14_4": "red_sandstone_top.png",
+    "1_13_2": "red_sandstone_top.png"
+  },
+  {
+    "1_17": "red_shulker_box.png",
+    "1_16_4": "red_shulker_box.png",
+    "1_16_1": "red_shulker_box.png",
+    "1_15_2": "red_shulker_box.png",
+    "1_14_4": "red_shulker_box.png",
+    "1_13_2": "red_shulker_box.png"
+  },
+  {
+    "1_17": "red_stained_glass.png",
+    "1_16_4": "red_stained_glass.png",
+    "1_16_1": "red_stained_glass.png",
+    "1_15_2": "red_stained_glass.png",
+    "1_14_4": "red_stained_glass.png",
+    "1_13_2": "red_stained_glass.png"
+  },
+  {
+    "1_17": "red_stained_glass_pane_top.png",
+    "1_16_4": "red_stained_glass_pane_top.png",
+    "1_16_1": "red_stained_glass_pane_top.png",
+    "1_15_2": "red_stained_glass_pane_top.png",
+    "1_14_4": "red_stained_glass_pane_top.png",
+    "1_13_2": "red_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "red_terracotta.png",
+    "1_16_4": "red_terracotta.png",
+    "1_16_1": "red_terracotta.png",
+    "1_15_2": "red_terracotta.png",
+    "1_14_4": "red_terracotta.png",
+    "1_13_2": "red_terracotta.png"
+  },
+  {
+    "1_17": "red_tulip.png",
+    "1_16_4": "red_tulip.png",
+    "1_16_1": "red_tulip.png",
+    "1_15_2": "red_tulip.png",
+    "1_14_4": "red_tulip.png",
+    "1_13_2": "red_tulip.png"
+  },
+  {
+    "1_17": "red_wool.png",
+    "1_16_4": "red_wool.png",
+    "1_16_1": "red_wool.png",
+    "1_15_2": "red_wool.png",
+    "1_14_4": "red_wool.png",
+    "1_13_2": "red_wool.png"
+  },
+  {
+    "1_17": "repeater.png",
+    "1_16_4": "repeater.png",
+    "1_16_1": "repeater.png",
+    "1_15_2": "repeater.png",
+    "1_14_4": "repeater.png",
+    "1_13_2": "repeater.png"
+  },
+  {
+    "1_17": "repeater_on.png",
+    "1_16_4": "repeater_on.png",
+    "1_16_1": "repeater_on.png",
+    "1_15_2": "repeater_on.png",
+    "1_14_4": "repeater_on.png",
+    "1_13_2": "repeater_on.png"
+  },
+  {
+    "1_17": "repeating_command_block_back.png",
+    "1_16_4": "repeating_command_block_back.png",
+    "1_16_1": "repeating_command_block_back.png",
+    "1_15_2": "repeating_command_block_back.png",
+    "1_14_4": "repeating_command_block_back.png",
+    "1_13_2": "repeating_command_block_back.png"
+  },
+  {
+    "1_17": "repeating_command_block_back.png.mcmeta",
+    "1_16_4": "repeating_command_block_back.png.mcmeta",
+    "1_16_1": "repeating_command_block_back.png.mcmeta",
+    "1_15_2": "repeating_command_block_back.png.mcmeta",
+    "1_14_4": "repeating_command_block_back.png.mcmeta",
+    "1_13_2": "repeating_command_block_back.png.mcmeta"
+  },
+  {
+    "1_17": "repeating_command_block_conditional.png",
+    "1_16_4": "repeating_command_block_conditional.png",
+    "1_16_1": "repeating_command_block_conditional.png",
+    "1_15_2": "repeating_command_block_conditional.png",
+    "1_14_4": "repeating_command_block_conditional.png",
+    "1_13_2": "repeating_command_block_conditional.png"
+  },
+  {
+    "1_17": "repeating_command_block_conditional.png.mcmeta",
+    "1_16_4": "repeating_command_block_conditional.png.mcmeta",
+    "1_16_1": "repeating_command_block_conditional.png.mcmeta",
+    "1_15_2": "repeating_command_block_conditional.png.mcmeta",
+    "1_14_4": "repeating_command_block_conditional.png.mcmeta",
+    "1_13_2": "repeating_command_block_conditional.png.mcmeta"
+  },
+  {
+    "1_17": "repeating_command_block_front.png",
+    "1_16_4": "repeating_command_block_front.png",
+    "1_16_1": "repeating_command_block_front.png",
+    "1_15_2": "repeating_command_block_front.png",
+    "1_14_4": "repeating_command_block_front.png",
+    "1_13_2": "repeating_command_block_front.png"
+  },
+  {
+    "1_17": "repeating_command_block_front.png.mcmeta",
+    "1_16_4": "repeating_command_block_front.png.mcmeta",
+    "1_16_1": "repeating_command_block_front.png.mcmeta",
+    "1_15_2": "repeating_command_block_front.png.mcmeta",
+    "1_14_4": "repeating_command_block_front.png.mcmeta",
+    "1_13_2": "repeating_command_block_front.png.mcmeta"
+  },
+  {
+    "1_17": "repeating_command_block_side.png",
+    "1_16_4": "repeating_command_block_side.png",
+    "1_16_1": "repeating_command_block_side.png",
+    "1_15_2": "repeating_command_block_side.png",
+    "1_14_4": "repeating_command_block_side.png",
+    "1_13_2": "repeating_command_block_side.png"
+  },
+  {
+    "1_17": "repeating_command_block_side.png.mcmeta",
+    "1_16_4": "repeating_command_block_side.png.mcmeta",
+    "1_16_1": "repeating_command_block_side.png.mcmeta",
+    "1_15_2": "repeating_command_block_side.png.mcmeta",
+    "1_14_4": "repeating_command_block_side.png.mcmeta",
+    "1_13_2": "repeating_command_block_side.png.mcmeta"
+  },
+  {
+    "1_17": "respawn_anchor_bottom.png",
+    "1_16_4": "respawn_anchor_bottom.png",
+    "1_16_1": "respawn_anchor_bottom.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_side0.png",
+    "1_16_4": "respawn_anchor_side0.png",
+    "1_16_1": "respawn_anchor_side0.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_side1.png",
+    "1_16_4": "respawn_anchor_side1.png",
+    "1_16_1": "respawn_anchor_side1.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_side2.png",
+    "1_16_4": "respawn_anchor_side2.png",
+    "1_16_1": "respawn_anchor_side2.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_side3.png",
+    "1_16_4": "respawn_anchor_side3.png",
+    "1_16_1": "respawn_anchor_side3.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_side4.png",
+    "1_16_4": "respawn_anchor_side4.png",
+    "1_16_1": "respawn_anchor_side4.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_top.png",
+    "1_16_4": "respawn_anchor_top.png",
+    "1_16_1": "respawn_anchor_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_top.png.mcmeta",
+    "1_16_4": "respawn_anchor_top.png.mcmeta",
+    "1_16_1": "respawn_anchor_top.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "respawn_anchor_top_off.png",
+    "1_16_4": "respawn_anchor_top_off.png",
+    "1_16_1": "respawn_anchor_top_off.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "rose_bush_bottom.png",
+    "1_16_4": "rose_bush_bottom.png",
+    "1_16_1": "rose_bush_bottom.png",
+    "1_15_2": "rose_bush_bottom.png",
+    "1_14_4": "rose_bush_bottom.png",
+    "1_13_2": "rose_bush_bottom.png"
+  },
+  {
+    "1_17": "rose_bush_top.png",
+    "1_16_4": "rose_bush_top.png",
+    "1_16_1": "rose_bush_top.png",
+    "1_15_2": "rose_bush_top.png",
+    "1_14_4": "rose_bush_top.png",
+    "1_13_2": "rose_bush_top.png"
+  },
+  {
+    "1_17": "sand.png",
+    "1_16_4": "sand.png",
+    "1_16_1": "sand.png",
+    "1_15_2": "sand.png",
+    "1_14_4": "sand.png",
+    "1_13_2": "sand.png"
+  },
+  {
+    "1_17": "sandstone.png",
+    "1_16_4": "sandstone.png",
+    "1_16_1": "sandstone.png",
+    "1_15_2": "sandstone.png",
+    "1_14_4": "sandstone.png",
+    "1_13_2": "sandstone.png"
+  },
+  {
+    "1_17": "sandstone_bottom.png",
+    "1_16_4": "sandstone_bottom.png",
+    "1_16_1": "sandstone_bottom.png",
+    "1_15_2": "sandstone_bottom.png",
+    "1_14_4": "sandstone_bottom.png",
+    "1_13_2": "sandstone_bottom.png"
+  },
+  {
+    "1_17": "sandstone_top.png",
+    "1_16_4": "sandstone_top.png",
+    "1_16_1": "sandstone_top.png",
+    "1_15_2": "sandstone_top.png",
+    "1_14_4": "sandstone_top.png",
+    "1_13_2": "sandstone_top.png"
+  },
+  {
+    "1_17": "scaffolding_bottom.png",
+    "1_16_4": "scaffolding_bottom.png",
+    "1_16_1": "scaffolding_bottom.png",
+    "1_15_2": "scaffolding_bottom.png",
+    "1_14_4": "scaffolding_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "scaffolding_side.png",
+    "1_16_4": "scaffolding_side.png",
+    "1_16_1": "scaffolding_side.png",
+    "1_15_2": "scaffolding_side.png",
+    "1_14_4": "scaffolding_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "scaffolding_top.png",
+    "1_16_4": "scaffolding_top.png",
+    "1_16_1": "scaffolding_top.png",
+    "1_15_2": "scaffolding_top.png",
+    "1_14_4": "scaffolding_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "sculk_sensor_bottom.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "sculk_sensor_side.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "sculk_sensor_tendril_active.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "sculk_sensor_tendril_active.png.mcmeta",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "sculk_sensor_tendril_inactive.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "sculk_sensor_tendril_inactive.png.mcmeta",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "sculk_sensor_top.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "seagrass.png",
+    "1_16_4": "seagrass.png",
+    "1_16_1": "seagrass.png",
+    "1_15_2": "seagrass.png",
+    "1_14_4": "seagrass.png",
+    "1_13_2": "seagrass.png"
+  },
+  {
+    "1_17": "seagrass.png.mcmeta",
+    "1_16_4": "seagrass.png.mcmeta",
+    "1_16_1": "seagrass.png.mcmeta",
+    "1_15_2": "seagrass.png.mcmeta",
+    "1_14_4": "seagrass.png.mcmeta",
+    "1_13_2": "seagrass.png.mcmeta"
+  },
+  {
+    "1_17": "sea_lantern.png",
+    "1_16_4": "sea_lantern.png",
+    "1_16_1": "sea_lantern.png",
+    "1_15_2": "sea_lantern.png",
+    "1_14_4": "sea_lantern.png",
+    "1_13_2": "sea_lantern.png"
+  },
+  {
+    "1_17": "sea_lantern.png.mcmeta",
+    "1_16_4": "sea_lantern.png.mcmeta",
+    "1_16_1": "sea_lantern.png.mcmeta",
+    "1_15_2": "sea_lantern.png.mcmeta",
+    "1_14_4": "sea_lantern.png.mcmeta",
+    "1_13_2": "sea_lantern.png.mcmeta"
+  },
+  {
+    "1_17": "sea_pickle.png",
+    "1_16_4": "sea_pickle.png",
+    "1_16_1": "sea_pickle.png",
+    "1_15_2": "sea_pickle.png",
+    "1_14_4": "sea_pickle.png",
+    "1_13_2": "sea_pickle.png"
+  },
+  {
+    "1_17": "semi_weathered_copper_block.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "semi_weathered_cut_copper.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "shroomlight.png",
+    "1_16_4": "shroomlight.png",
+    "1_16_1": "shroomlight.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "shulker_box.png",
+    "1_16_4": "shulker_box.png",
+    "1_16_1": "shulker_box.png",
+    "1_15_2": "shulker_box.png",
+    "1_14_4": "shulker_box.png",
+    "1_13_2": "shulker_box.png"
+  },
+  {
+    "1_17": "slime_block.png",
+    "1_16_4": "slime_block.png",
+    "1_16_1": "slime_block.png",
+    "1_15_2": "slime_block.png",
+    "1_14_4": "slime_block.png",
+    "1_13_2": "slime_block.png"
+  },
+  {
+    "1_17": "small_amethyst_bud.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "smithing_table_bottom.png",
+    "1_16_4": "smithing_table_bottom.png",
+    "1_16_1": "smithing_table_bottom.png",
+    "1_15_2": "smithing_table_bottom.png",
+    "1_14_4": "smithing_table_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smithing_table_front.png",
+    "1_16_4": "smithing_table_front.png",
+    "1_16_1": "smithing_table_front.png",
+    "1_15_2": "smithing_table_front.png",
+    "1_14_4": "smithing_table_front.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smithing_table_side.png",
+    "1_16_4": "smithing_table_side.png",
+    "1_16_1": "smithing_table_side.png",
+    "1_15_2": "smithing_table_side.png",
+    "1_14_4": "smithing_table_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smithing_table_top.png",
+    "1_16_4": "smithing_table_top.png",
+    "1_16_1": "smithing_table_top.png",
+    "1_15_2": "smithing_table_top.png",
+    "1_14_4": "smithing_table_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smoker_bottom.png",
+    "1_16_4": "smoker_bottom.png",
+    "1_16_1": "smoker_bottom.png",
+    "1_15_2": "smoker_bottom.png",
+    "1_14_4": "smoker_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smoker_front.png",
+    "1_16_4": "smoker_front.png",
+    "1_16_1": "smoker_front.png",
+    "1_15_2": "smoker_front.png",
+    "1_14_4": "smoker_front.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smoker_front_on.png",
+    "1_16_4": "smoker_front_on.png",
+    "1_16_1": "smoker_front_on.png",
+    "1_15_2": "smoker_front_on.png",
+    "1_14_4": "smoker_front_on.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smoker_front_on.png.mcmeta",
+    "1_16_4": "smoker_front_on.png.mcmeta",
+    "1_16_1": "smoker_front_on.png.mcmeta",
+    "1_15_2": "smoker_front_on.png.mcmeta",
+    "1_14_4": "smoker_front_on.png.mcmeta",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smoker_side.png",
+    "1_16_4": "smoker_side.png",
+    "1_16_1": "smoker_side.png",
+    "1_15_2": "smoker_side.png",
+    "1_14_4": "smoker_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smoker_top.png",
+    "1_16_4": "smoker_top.png",
+    "1_16_1": "smoker_top.png",
+    "1_15_2": "smoker_top.png",
+    "1_14_4": "smoker_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smooth_stone.png",
+    "1_16_4": "smooth_stone.png",
+    "1_16_1": "smooth_stone.png",
+    "1_15_2": "smooth_stone.png",
+    "1_14_4": "smooth_stone.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "smooth_stone_slab_side.png",
+    "1_16_4": "smooth_stone_slab_side.png",
+    "1_16_1": "smooth_stone_slab_side.png",
+    "1_15_2": "smooth_stone_slab_side.png",
+    "1_14_4": "smooth_stone_slab_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "snow.png",
+    "1_16_4": "snow.png",
+    "1_16_1": "snow.png",
+    "1_15_2": "snow.png",
+    "1_14_4": "snow.png",
+    "1_13_2": "snow.png"
+  },
+  {
+    "1_17": "soul_campfire_fire.png",
+    "1_16_4": "soul_campfire_fire.png",
+    "1_16_1": "soul_campfire_fire.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_campfire_fire.png.mcmeta",
+    "1_16_4": "soul_campfire_fire.png.mcmeta",
+    "1_16_1": "soul_campfire_fire.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_campfire_log_lit.png",
+    "1_16_4": "soul_campfire_log_lit.png",
+    "1_16_1": "soul_campfire_log_lit.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_campfire_log_lit.png.mcmeta",
+    "1_16_4": "soul_campfire_log_lit.png.mcmeta",
+    "1_16_1": "soul_campfire_log_lit.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_fire_0.png",
+    "1_16_4": "soul_fire_0.png",
+    "1_16_1": "soul_fire_0.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_fire_0.png.mcmeta",
+    "1_16_4": "soul_fire_0.png.mcmeta",
+    "1_16_1": "soul_fire_0.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_fire_1.png",
+    "1_16_4": "soul_fire_1.png",
+    "1_16_1": "soul_fire_1.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_fire_1.png.mcmeta",
+    "1_16_4": "soul_fire_1.png.mcmeta",
+    "1_16_1": "soul_fire_1.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_lantern.png",
+    "1_16_4": "soul_lantern.png",
+    "1_16_1": "soul_lantern.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_lantern.png.mcmeta",
+    "1_16_4": "soul_lantern.png.mcmeta",
+    "1_16_1": "soul_lantern.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_sand.png",
+    "1_16_4": "soul_sand.png",
+    "1_16_1": "soul_sand.png",
+    "1_15_2": "soul_sand.png",
+    "1_14_4": "soul_sand.png",
+    "1_13_2": "soul_sand.png"
+  },
+  {
+    "1_17": "soul_soil.png",
+    "1_16_4": "soul_soil.png",
+    "1_16_1": "soul_soil.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "soul_torch.png",
+    "1_16_4": "soul_torch.png",
+    "1_16_1": "soul_torch.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "spawner.png",
+    "1_16_4": "spawner.png",
+    "1_16_1": "spawner.png",
+    "1_15_2": "spawner.png",
+    "1_14_4": "spawner.png",
+    "1_13_2": "spawner.png"
+  },
+  {
+    "1_17": "sponge.png",
+    "1_16_4": "sponge.png",
+    "1_16_1": "sponge.png",
+    "1_15_2": "sponge.png",
+    "1_14_4": "sponge.png",
+    "1_13_2": "sponge.png"
+  },
+  {
+    "1_17": "spruce_door_bottom.png",
+    "1_16_4": "spruce_door_bottom.png",
+    "1_16_1": "spruce_door_bottom.png",
+    "1_15_2": "spruce_door_bottom.png",
+    "1_14_4": "spruce_door_bottom.png",
+    "1_13_2": "spruce_door_bottom.png"
+  },
+  {
+    "1_17": "spruce_door_top.png",
+    "1_16_4": "spruce_door_top.png",
+    "1_16_1": "spruce_door_top.png",
+    "1_15_2": "spruce_door_top.png",
+    "1_14_4": "spruce_door_top.png",
+    "1_13_2": "spruce_door_top.png"
+  },
+  {
+    "1_17": "spruce_leaves.png",
+    "1_16_4": "spruce_leaves.png",
+    "1_16_1": "spruce_leaves.png",
+    "1_15_2": "spruce_leaves.png",
+    "1_14_4": "spruce_leaves.png",
+    "1_13_2": "spruce_leaves.png"
+  },
+  {
+    "1_17": "spruce_log.png",
+    "1_16_4": "spruce_log.png",
+    "1_16_1": "spruce_log.png",
+    "1_15_2": "spruce_log.png",
+    "1_14_4": "spruce_log.png",
+    "1_13_2": "spruce_log.png"
+  },
+  {
+    "1_17": "spruce_log_top.png",
+    "1_16_4": "spruce_log_top.png",
+    "1_16_1": "spruce_log_top.png",
+    "1_15_2": "spruce_log_top.png",
+    "1_14_4": "spruce_log_top.png",
+    "1_13_2": "spruce_log_top.png"
+  },
+  {
+    "1_17": "spruce_planks.png",
+    "1_16_4": "spruce_planks.png",
+    "1_16_1": "spruce_planks.png",
+    "1_15_2": "spruce_planks.png",
+    "1_14_4": "spruce_planks.png",
+    "1_13_2": "spruce_planks.png"
+  },
+  {
+    "1_17": "spruce_sapling.png",
+    "1_16_4": "spruce_sapling.png",
+    "1_16_1": "spruce_sapling.png",
+    "1_15_2": "spruce_sapling.png",
+    "1_14_4": "spruce_sapling.png",
+    "1_13_2": "spruce_sapling.png"
+  },
+  {
+    "1_17": "spruce_trapdoor.png",
+    "1_16_4": "spruce_trapdoor.png",
+    "1_16_1": "spruce_trapdoor.png",
+    "1_15_2": "spruce_trapdoor.png",
+    "1_14_4": "spruce_trapdoor.png",
+    "1_13_2": "spruce_trapdoor.png"
+  },
+  {
+    "1_17": "stone.png",
+    "1_16_4": "stone.png",
+    "1_16_1": "stone.png",
+    "1_15_2": "stone.png",
+    "1_14_4": "stone.png",
+    "1_13_2": "stone.png"
+  },
+  {
+    "1_17": "stonecutter_bottom.png",
+    "1_16_4": "stonecutter_bottom.png",
+    "1_16_1": "stonecutter_bottom.png",
+    "1_15_2": "stonecutter_bottom.png",
+    "1_14_4": "stonecutter_bottom.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "stonecutter_saw.png",
+    "1_16_4": "stonecutter_saw.png",
+    "1_16_1": "stonecutter_saw.png",
+    "1_15_2": "stonecutter_saw.png",
+    "1_14_4": "stonecutter_saw.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "stonecutter_saw.png.mcmeta",
+    "1_16_4": "stonecutter_saw.png.mcmeta",
+    "1_16_1": "stonecutter_saw.png.mcmeta",
+    "1_15_2": "stonecutter_saw.png.mcmeta",
+    "1_14_4": "stonecutter_saw.png.mcmeta",
+    "1_13_2": null
+  },
+  {
+    "1_17": "stonecutter_side.png",
+    "1_16_4": "stonecutter_side.png",
+    "1_16_1": "stonecutter_side.png",
+    "1_15_2": "stonecutter_side.png",
+    "1_14_4": "stonecutter_side.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "stonecutter_top.png",
+    "1_16_4": "stonecutter_top.png",
+    "1_16_1": "stonecutter_top.png",
+    "1_15_2": "stonecutter_top.png",
+    "1_14_4": "stonecutter_top.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "stone_bricks.png",
+    "1_16_4": "stone_bricks.png",
+    "1_16_1": "stone_bricks.png",
+    "1_15_2": "stone_bricks.png",
+    "1_14_4": "stone_bricks.png",
+    "1_13_2": "stone_bricks.png"
+  },
+  {
+    "1_17": "stripped_acacia_log.png",
+    "1_16_4": "stripped_acacia_log.png",
+    "1_16_1": "stripped_acacia_log.png",
+    "1_15_2": "stripped_acacia_log.png",
+    "1_14_4": "stripped_acacia_log.png",
+    "1_13_2": "stripped_acacia_log.png"
+  },
+  {
+    "1_17": "stripped_acacia_log_top.png",
+    "1_16_4": "stripped_acacia_log_top.png",
+    "1_16_1": "stripped_acacia_log_top.png",
+    "1_15_2": "stripped_acacia_log_top.png",
+    "1_14_4": "stripped_acacia_log_top.png",
+    "1_13_2": "stripped_acacia_log_top.png"
+  },
+  {
+    "1_17": "stripped_birch_log.png",
+    "1_16_4": "stripped_birch_log.png",
+    "1_16_1": "stripped_birch_log.png",
+    "1_15_2": "stripped_birch_log.png",
+    "1_14_4": "stripped_birch_log.png",
+    "1_13_2": "stripped_birch_log.png"
+  },
+  {
+    "1_17": "stripped_birch_log_top.png",
+    "1_16_4": "stripped_birch_log_top.png",
+    "1_16_1": "stripped_birch_log_top.png",
+    "1_15_2": "stripped_birch_log_top.png",
+    "1_14_4": "stripped_birch_log_top.png",
+    "1_13_2": "stripped_birch_log_top.png"
+  },
+  {
+    "1_17": "stripped_crimson_stem.png",
+    "1_16_4": "stripped_crimson_stem.png",
+    "1_16_1": "stripped_crimson_stem.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "stripped_crimson_stem_top.png",
+    "1_16_4": "stripped_crimson_stem_top.png",
+    "1_16_1": "stripped_crimson_stem_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "stripped_dark_oak_log.png",
+    "1_16_4": "stripped_dark_oak_log.png",
+    "1_16_1": "stripped_dark_oak_log.png",
+    "1_15_2": "stripped_dark_oak_log.png",
+    "1_14_4": "stripped_dark_oak_log.png",
+    "1_13_2": "stripped_dark_oak_log.png"
+  },
+  {
+    "1_17": "stripped_dark_oak_log_top.png",
+    "1_16_4": "stripped_dark_oak_log_top.png",
+    "1_16_1": "stripped_dark_oak_log_top.png",
+    "1_15_2": "stripped_dark_oak_log_top.png",
+    "1_14_4": "stripped_dark_oak_log_top.png",
+    "1_13_2": "stripped_dark_oak_log_top.png"
+  },
+  {
+    "1_17": "stripped_jungle_log.png",
+    "1_16_4": "stripped_jungle_log.png",
+    "1_16_1": "stripped_jungle_log.png",
+    "1_15_2": "stripped_jungle_log.png",
+    "1_14_4": "stripped_jungle_log.png",
+    "1_13_2": "stripped_jungle_log.png"
+  },
+  {
+    "1_17": "stripped_jungle_log_top.png",
+    "1_16_4": "stripped_jungle_log_top.png",
+    "1_16_1": "stripped_jungle_log_top.png",
+    "1_15_2": "stripped_jungle_log_top.png",
+    "1_14_4": "stripped_jungle_log_top.png",
+    "1_13_2": "stripped_jungle_log_top.png"
+  },
+  {
+    "1_17": "stripped_oak_log.png",
+    "1_16_4": "stripped_oak_log.png",
+    "1_16_1": "stripped_oak_log.png",
+    "1_15_2": "stripped_oak_log.png",
+    "1_14_4": "stripped_oak_log.png",
+    "1_13_2": "stripped_oak_log.png"
+  },
+  {
+    "1_17": "stripped_oak_log_top.png",
+    "1_16_4": "stripped_oak_log_top.png",
+    "1_16_1": "stripped_oak_log_top.png",
+    "1_15_2": "stripped_oak_log_top.png",
+    "1_14_4": "stripped_oak_log_top.png",
+    "1_13_2": "stripped_oak_log_top.png"
+  },
+  {
+    "1_17": "stripped_spruce_log.png",
+    "1_16_4": "stripped_spruce_log.png",
+    "1_16_1": "stripped_spruce_log.png",
+    "1_15_2": "stripped_spruce_log.png",
+    "1_14_4": "stripped_spruce_log.png",
+    "1_13_2": "stripped_spruce_log.png"
+  },
+  {
+    "1_17": "stripped_spruce_log_top.png",
+    "1_16_4": "stripped_spruce_log_top.png",
+    "1_16_1": "stripped_spruce_log_top.png",
+    "1_15_2": "stripped_spruce_log_top.png",
+    "1_14_4": "stripped_spruce_log_top.png",
+    "1_13_2": "stripped_spruce_log_top.png"
+  },
+  {
+    "1_17": "stripped_warped_stem.png",
+    "1_16_4": "stripped_warped_stem.png",
+    "1_16_1": "stripped_warped_stem.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "stripped_warped_stem_top.png",
+    "1_16_4": "stripped_warped_stem_top.png",
+    "1_16_1": "stripped_warped_stem_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "structure_block.png",
+    "1_16_4": "structure_block.png",
+    "1_16_1": "structure_block.png",
+    "1_15_2": "structure_block.png",
+    "1_14_4": "structure_block.png",
+    "1_13_2": "structure_block.png"
+  },
+  {
+    "1_17": "structure_block_corner.png",
+    "1_16_4": "structure_block_corner.png",
+    "1_16_1": "structure_block_corner.png",
+    "1_15_2": "structure_block_corner.png",
+    "1_14_4": "structure_block_corner.png",
+    "1_13_2": "structure_block_corner.png"
+  },
+  {
+    "1_17": "structure_block_data.png",
+    "1_16_4": "structure_block_data.png",
+    "1_16_1": "structure_block_data.png",
+    "1_15_2": "structure_block_data.png",
+    "1_14_4": "structure_block_data.png",
+    "1_13_2": "structure_block_data.png"
+  },
+  {
+    "1_17": "structure_block_load.png",
+    "1_16_4": "structure_block_load.png",
+    "1_16_1": "structure_block_load.png",
+    "1_15_2": "structure_block_load.png",
+    "1_14_4": "structure_block_load.png",
+    "1_13_2": "structure_block_load.png"
+  },
+  {
+    "1_17": "structure_block_save.png",
+    "1_16_4": "structure_block_save.png",
+    "1_16_1": "structure_block_save.png",
+    "1_15_2": "structure_block_save.png",
+    "1_14_4": "structure_block_save.png",
+    "1_13_2": "structure_block_save.png"
+  },
+  {
+    "1_17": "sugar_cane.png",
+    "1_16_4": "sugar_cane.png",
+    "1_16_1": "sugar_cane.png",
+    "1_15_2": "sugar_cane.png",
+    "1_14_4": "sugar_cane.png",
+    "1_13_2": "sugar_cane.png"
+  },
+  {
+    "1_17": "sunflower_back.png",
+    "1_16_4": "sunflower_back.png",
+    "1_16_1": "sunflower_back.png",
+    "1_15_2": "sunflower_back.png",
+    "1_14_4": "sunflower_back.png",
+    "1_13_2": "sunflower_back.png"
+  },
+  {
+    "1_17": "sunflower_bottom.png",
+    "1_16_4": "sunflower_bottom.png",
+    "1_16_1": "sunflower_bottom.png",
+    "1_15_2": "sunflower_bottom.png",
+    "1_14_4": "sunflower_bottom.png",
+    "1_13_2": "sunflower_bottom.png"
+  },
+  {
+    "1_17": "sunflower_front.png",
+    "1_16_4": "sunflower_front.png",
+    "1_16_1": "sunflower_front.png",
+    "1_15_2": "sunflower_front.png",
+    "1_14_4": "sunflower_front.png",
+    "1_13_2": "sunflower_front.png"
+  },
+  {
+    "1_17": "sunflower_top.png",
+    "1_16_4": "sunflower_top.png",
+    "1_16_1": "sunflower_top.png",
+    "1_15_2": "sunflower_top.png",
+    "1_14_4": "sunflower_top.png",
+    "1_13_2": "sunflower_top.png"
+  },
+  {
+    "1_17": "sweet_berry_bush_stage0.png",
+    "1_16_4": "sweet_berry_bush_stage0.png",
+    "1_16_1": "sweet_berry_bush_stage0.png",
+    "1_15_2": "sweet_berry_bush_stage0.png",
+    "1_14_4": "sweet_berry_bush_stage0.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "sweet_berry_bush_stage1.png",
+    "1_16_4": "sweet_berry_bush_stage1.png",
+    "1_16_1": "sweet_berry_bush_stage1.png",
+    "1_15_2": "sweet_berry_bush_stage1.png",
+    "1_14_4": "sweet_berry_bush_stage1.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "sweet_berry_bush_stage2.png",
+    "1_16_4": "sweet_berry_bush_stage2.png",
+    "1_16_1": "sweet_berry_bush_stage2.png",
+    "1_15_2": "sweet_berry_bush_stage2.png",
+    "1_14_4": "sweet_berry_bush_stage2.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "sweet_berry_bush_stage3.png",
+    "1_16_4": "sweet_berry_bush_stage3.png",
+    "1_16_1": "sweet_berry_bush_stage3.png",
+    "1_15_2": "sweet_berry_bush_stage3.png",
+    "1_14_4": "sweet_berry_bush_stage3.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "tall_grass_bottom.png",
+    "1_16_4": "tall_grass_bottom.png",
+    "1_16_1": "tall_grass_bottom.png",
+    "1_15_2": "tall_grass_bottom.png",
+    "1_14_4": "tall_grass_bottom.png",
+    "1_13_2": "tall_grass_bottom.png"
+  },
+  {
+    "1_17": "tall_grass_top.png",
+    "1_16_4": "tall_grass_top.png",
+    "1_16_1": "tall_grass_top.png",
+    "1_15_2": "tall_grass_top.png",
+    "1_14_4": "tall_grass_top.png",
+    "1_13_2": "tall_grass_top.png"
+  },
+  {
+    "1_17": "tall_seagrass_bottom.png",
+    "1_16_4": "tall_seagrass_bottom.png",
+    "1_16_1": "tall_seagrass_bottom.png",
+    "1_15_2": "tall_seagrass_bottom.png",
+    "1_14_4": "tall_seagrass_bottom.png",
+    "1_13_2": "tall_seagrass_bottom.png"
+  },
+  {
+    "1_17": "tall_seagrass_bottom.png.mcmeta",
+    "1_16_4": "tall_seagrass_bottom.png.mcmeta",
+    "1_16_1": "tall_seagrass_bottom.png.mcmeta",
+    "1_15_2": "tall_seagrass_bottom.png.mcmeta",
+    "1_14_4": "tall_seagrass_bottom.png.mcmeta",
+    "1_13_2": "tall_seagrass_bottom.png.mcmeta"
+  },
+  {
+    "1_17": "tall_seagrass_top.png",
+    "1_16_4": "tall_seagrass_top.png",
+    "1_16_1": "tall_seagrass_top.png",
+    "1_15_2": "tall_seagrass_top.png",
+    "1_14_4": "tall_seagrass_top.png",
+    "1_13_2": "tall_seagrass_top.png"
+  },
+  {
+    "1_17": "tall_seagrass_top.png.mcmeta",
+    "1_16_4": "tall_seagrass_top.png.mcmeta",
+    "1_16_1": "tall_seagrass_top.png.mcmeta",
+    "1_15_2": "tall_seagrass_top.png.mcmeta",
+    "1_14_4": "tall_seagrass_top.png.mcmeta",
+    "1_13_2": "tall_seagrass_top.png.mcmeta"
+  },
+  {
+    "1_17": "target_side.png",
+    "1_16_4": "target_side.png",
+    "1_16_1": "target_side.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "target_top.png",
+    "1_16_4": "target_top.png",
+    "1_16_1": "target_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "terracotta.png",
+    "1_16_4": "terracotta.png",
+    "1_16_1": "terracotta.png",
+    "1_15_2": "terracotta.png",
+    "1_14_4": "terracotta.png",
+    "1_13_2": "terracotta.png"
+  },
+  {
+    "1_17": "tinted_glass.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "tnt_bottom.png",
+    "1_16_4": "tnt_bottom.png",
+    "1_16_1": "tnt_bottom.png",
+    "1_15_2": "tnt_bottom.png",
+    "1_14_4": "tnt_bottom.png",
+    "1_13_2": "tnt_bottom.png"
+  },
+  {
+    "1_17": "tnt_side.png",
+    "1_16_4": "tnt_side.png",
+    "1_16_1": "tnt_side.png",
+    "1_15_2": "tnt_side.png",
+    "1_14_4": "tnt_side.png",
+    "1_13_2": "tnt_side.png"
+  },
+  {
+    "1_17": "tnt_top.png",
+    "1_16_4": "tnt_top.png",
+    "1_16_1": "tnt_top.png",
+    "1_15_2": "tnt_top.png",
+    "1_14_4": "tnt_top.png",
+    "1_13_2": "tnt_top.png"
+  },
+  {
+    "1_17": "torch.png",
+    "1_16_4": "torch.png",
+    "1_16_1": "torch.png",
+    "1_15_2": "torch.png",
+    "1_14_4": "torch.png",
+    "1_13_2": "torch.png"
+  },
+  {
+    "1_17": "tripwire.png",
+    "1_16_4": "tripwire.png",
+    "1_16_1": "tripwire.png",
+    "1_15_2": "tripwire.png",
+    "1_14_4": "tripwire.png",
+    "1_13_2": "tripwire.png"
+  },
+  {
+    "1_17": "tripwire_hook.png",
+    "1_16_4": "tripwire_hook.png",
+    "1_16_1": "tripwire_hook.png",
+    "1_15_2": "tripwire_hook.png",
+    "1_14_4": "tripwire_hook.png",
+    "1_13_2": "tripwire_hook.png"
+  },
+  {
+    "1_17": "tube_coral.png",
+    "1_16_4": "tube_coral.png",
+    "1_16_1": "tube_coral.png",
+    "1_15_2": "tube_coral.png",
+    "1_14_4": "tube_coral.png",
+    "1_13_2": "tube_coral.png"
+  },
+  {
+    "1_17": "tube_coral_block.png",
+    "1_16_4": "tube_coral_block.png",
+    "1_16_1": "tube_coral_block.png",
+    "1_15_2": "tube_coral_block.png",
+    "1_14_4": "tube_coral_block.png",
+    "1_13_2": "tube_coral_block.png"
+  },
+  {
+    "1_17": "tube_coral_fan.png",
+    "1_16_4": "tube_coral_fan.png",
+    "1_16_1": "tube_coral_fan.png",
+    "1_15_2": "tube_coral_fan.png",
+    "1_14_4": "tube_coral_fan.png",
+    "1_13_2": "tube_coral_fan.png"
+  },
+  {
+    "1_17": "tuff.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "turtle_egg.png",
+    "1_16_4": "turtle_egg.png",
+    "1_16_1": "turtle_egg.png",
+    "1_15_2": "turtle_egg.png",
+    "1_14_4": "turtle_egg.png",
+    "1_13_2": "turtle_egg.png"
+  },
+  {
+    "1_17": "turtle_egg_slightly_cracked.png",
+    "1_16_4": "turtle_egg_slightly_cracked.png",
+    "1_16_1": "turtle_egg_slightly_cracked.png",
+    "1_15_2": "turtle_egg_slightly_cracked.png",
+    "1_14_4": "turtle_egg_slightly_cracked.png",
+    "1_13_2": "turtle_egg_slightly_cracked.png"
+  },
+  {
+    "1_17": "turtle_egg_very_cracked.png",
+    "1_16_4": "turtle_egg_very_cracked.png",
+    "1_16_1": "turtle_egg_very_cracked.png",
+    "1_15_2": "turtle_egg_very_cracked.png",
+    "1_14_4": "turtle_egg_very_cracked.png",
+    "1_13_2": "turtle_egg_very_cracked.png"
+  },
+  {
+    "1_17": "twisting_vines.png",
+    "1_16_4": "twisting_vines.png",
+    "1_16_1": "twisting_vines.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "twisting_vines_plant.png",
+    "1_16_4": "twisting_vines_plant.png",
+    "1_16_1": "twisting_vines_plant.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "vine.png",
+    "1_16_4": "vine.png",
+    "1_16_1": "vine.png",
+    "1_15_2": "vine.png",
+    "1_14_4": "vine.png",
+    "1_13_2": "vine.png"
+  },
+  {
+    "1_17": "warped_door_bottom.png",
+    "1_16_4": "warped_door_bottom.png",
+    "1_16_1": "warped_door_bottom.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_door_top.png",
+    "1_16_4": "warped_door_top.png",
+    "1_16_1": "warped_door_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_fungus.png",
+    "1_16_4": "warped_fungus.png",
+    "1_16_1": "warped_fungus.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_nylium.png",
+    "1_16_4": "warped_nylium.png",
+    "1_16_1": "warped_nylium.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_nylium_side.png",
+    "1_16_4": "warped_nylium_side.png",
+    "1_16_1": "warped_nylium_side.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_planks.png",
+    "1_16_4": "warped_planks.png",
+    "1_16_1": "warped_planks.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_roots.png",
+    "1_16_4": "warped_roots.png",
+    "1_16_1": "warped_roots.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_roots_pot.png",
+    "1_16_4": "warped_roots_pot.png",
+    "1_16_1": "warped_roots_pot.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_stem.png",
+    "1_16_4": "warped_stem.png",
+    "1_16_1": "warped_stem.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_stem.png.mcmeta",
+    "1_16_4": "warped_stem.png.mcmeta",
+    "1_16_1": "warped_stem.png.mcmeta",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_stem_top.png",
+    "1_16_4": "warped_stem_top.png",
+    "1_16_1": "warped_stem_top.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_trapdoor.png",
+    "1_16_4": "warped_trapdoor.png",
+    "1_16_1": "warped_trapdoor.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "warped_wart_block.png",
+    "1_16_4": "warped_wart_block.png",
+    "1_16_1": "warped_wart_block.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "water_flow.png",
+    "1_16_4": "water_flow.png",
+    "1_16_1": "water_flow.png",
+    "1_15_2": "water_flow.png",
+    "1_14_4": "water_flow.png",
+    "1_13_2": "water_flow.png"
+  },
+  {
+    "1_17": "water_flow.png.mcmeta",
+    "1_16_4": "water_flow.png.mcmeta",
+    "1_16_1": "water_flow.png.mcmeta",
+    "1_15_2": "water_flow.png.mcmeta",
+    "1_14_4": "water_flow.png.mcmeta",
+    "1_13_2": "water_flow.png.mcmeta"
+  },
+  {
+    "1_17": "water_overlay.png",
+    "1_16_4": "water_overlay.png",
+    "1_16_1": "water_overlay.png",
+    "1_15_2": "water_overlay.png",
+    "1_14_4": "water_overlay.png",
+    "1_13_2": "water_overlay.png"
+  },
+  {
+    "1_17": "water_still.png",
+    "1_16_4": "water_still.png",
+    "1_16_1": "water_still.png",
+    "1_15_2": "water_still.png",
+    "1_14_4": "water_still.png",
+    "1_13_2": "water_still.png"
+  },
+  {
+    "1_17": "water_still.png.mcmeta",
+    "1_16_4": "water_still.png.mcmeta",
+    "1_16_1": "water_still.png.mcmeta",
+    "1_15_2": "water_still.png.mcmeta",
+    "1_14_4": "water_still.png.mcmeta",
+    "1_13_2": "water_still.png.mcmeta"
+  },
+  {
+    "1_17": "weathered_copper_block.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "weathered_cut_copper.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "weeping_vines.png",
+    "1_16_4": "weeping_vines.png",
+    "1_16_1": "weeping_vines.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "weeping_vines_plant.png",
+    "1_16_4": "weeping_vines_plant.png",
+    "1_16_1": "weeping_vines_plant.png",
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "wet_sponge.png",
+    "1_16_4": "wet_sponge.png",
+    "1_16_1": "wet_sponge.png",
+    "1_15_2": "wet_sponge.png",
+    "1_14_4": "wet_sponge.png",
+    "1_13_2": "wet_sponge.png"
+  },
+  {
+    "1_17": "wheat_stage0.png",
+    "1_16_4": "wheat_stage0.png",
+    "1_16_1": "wheat_stage0.png",
+    "1_15_2": "wheat_stage0.png",
+    "1_14_4": "wheat_stage0.png",
+    "1_13_2": "wheat_stage0.png"
+  },
+  {
+    "1_17": "wheat_stage1.png",
+    "1_16_4": "wheat_stage1.png",
+    "1_16_1": "wheat_stage1.png",
+    "1_15_2": "wheat_stage1.png",
+    "1_14_4": "wheat_stage1.png",
+    "1_13_2": "wheat_stage1.png"
+  },
+  {
+    "1_17": "wheat_stage2.png",
+    "1_16_4": "wheat_stage2.png",
+    "1_16_1": "wheat_stage2.png",
+    "1_15_2": "wheat_stage2.png",
+    "1_14_4": "wheat_stage2.png",
+    "1_13_2": "wheat_stage2.png"
+  },
+  {
+    "1_17": "wheat_stage3.png",
+    "1_16_4": "wheat_stage3.png",
+    "1_16_1": "wheat_stage3.png",
+    "1_15_2": "wheat_stage3.png",
+    "1_14_4": "wheat_stage3.png",
+    "1_13_2": "wheat_stage3.png"
+  },
+  {
+    "1_17": "wheat_stage4.png",
+    "1_16_4": "wheat_stage4.png",
+    "1_16_1": "wheat_stage4.png",
+    "1_15_2": "wheat_stage4.png",
+    "1_14_4": "wheat_stage4.png",
+    "1_13_2": "wheat_stage4.png"
+  },
+  {
+    "1_17": "wheat_stage5.png",
+    "1_16_4": "wheat_stage5.png",
+    "1_16_1": "wheat_stage5.png",
+    "1_15_2": "wheat_stage5.png",
+    "1_14_4": "wheat_stage5.png",
+    "1_13_2": "wheat_stage5.png"
+  },
+  {
+    "1_17": "wheat_stage6.png",
+    "1_16_4": "wheat_stage6.png",
+    "1_16_1": "wheat_stage6.png",
+    "1_15_2": "wheat_stage6.png",
+    "1_14_4": "wheat_stage6.png",
+    "1_13_2": "wheat_stage6.png"
+  },
+  {
+    "1_17": "wheat_stage7.png",
+    "1_16_4": "wheat_stage7.png",
+    "1_16_1": "wheat_stage7.png",
+    "1_15_2": "wheat_stage7.png",
+    "1_14_4": "wheat_stage7.png",
+    "1_13_2": "wheat_stage7.png"
+  },
+  {
+    "1_17": "white_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "white_concrete.png",
+    "1_16_4": "white_concrete.png",
+    "1_16_1": "white_concrete.png",
+    "1_15_2": "white_concrete.png",
+    "1_14_4": "white_concrete.png",
+    "1_13_2": "white_concrete.png"
+  },
+  {
+    "1_17": "white_concrete_powder.png",
+    "1_16_4": "white_concrete_powder.png",
+    "1_16_1": "white_concrete_powder.png",
+    "1_15_2": "white_concrete_powder.png",
+    "1_14_4": "white_concrete_powder.png",
+    "1_13_2": "white_concrete_powder.png"
+  },
+  {
+    "1_17": "white_glazed_terracotta.png",
+    "1_16_4": "white_glazed_terracotta.png",
+    "1_16_1": "white_glazed_terracotta.png",
+    "1_15_2": "white_glazed_terracotta.png",
+    "1_14_4": "white_glazed_terracotta.png",
+    "1_13_2": "white_glazed_terracotta.png"
+  },
+  {
+    "1_17": "white_shulker_box.png",
+    "1_16_4": "white_shulker_box.png",
+    "1_16_1": "white_shulker_box.png",
+    "1_15_2": "white_shulker_box.png",
+    "1_14_4": "white_shulker_box.png",
+    "1_13_2": "white_shulker_box.png"
+  },
+  {
+    "1_17": "white_stained_glass.png",
+    "1_16_4": "white_stained_glass.png",
+    "1_16_1": "white_stained_glass.png",
+    "1_15_2": "white_stained_glass.png",
+    "1_14_4": "white_stained_glass.png",
+    "1_13_2": "white_stained_glass.png"
+  },
+  {
+    "1_17": "white_stained_glass_pane_top.png",
+    "1_16_4": "white_stained_glass_pane_top.png",
+    "1_16_1": "white_stained_glass_pane_top.png",
+    "1_15_2": "white_stained_glass_pane_top.png",
+    "1_14_4": "white_stained_glass_pane_top.png",
+    "1_13_2": "white_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "white_terracotta.png",
+    "1_16_4": "white_terracotta.png",
+    "1_16_1": "white_terracotta.png",
+    "1_15_2": "white_terracotta.png",
+    "1_14_4": "white_terracotta.png",
+    "1_13_2": "white_terracotta.png"
+  },
+  {
+    "1_17": "white_tulip.png",
+    "1_16_4": "white_tulip.png",
+    "1_16_1": "white_tulip.png",
+    "1_15_2": "white_tulip.png",
+    "1_14_4": "white_tulip.png",
+    "1_13_2": "white_tulip.png"
+  },
+  {
+    "1_17": "white_wool.png",
+    "1_16_4": "white_wool.png",
+    "1_16_1": "white_wool.png",
+    "1_15_2": "white_wool.png",
+    "1_14_4": "white_wool.png",
+    "1_13_2": "white_wool.png"
+  },
+  {
+    "1_17": "wither_rose.png",
+    "1_16_4": "wither_rose.png",
+    "1_16_1": "wither_rose.png",
+    "1_15_2": "wither_rose.png",
+    "1_14_4": "wither_rose.png",
+    "1_13_2": null
+  },
+  {
+    "1_17": "yellow_candle.png",
+    "1_16_4": null,
+    "1_16_1": null,
+    "1_15_2": null,
+    "1_14_4": null,
+    "1_13_2": null
+  },
+  {
+    "1_17": "yellow_concrete.png",
+    "1_16_4": "yellow_concrete.png",
+    "1_16_1": "yellow_concrete.png",
+    "1_15_2": "yellow_concrete.png",
+    "1_14_4": "yellow_concrete.png",
+    "1_13_2": "yellow_concrete.png"
+  },
+  {
+    "1_17": "yellow_concrete_powder.png",
+    "1_16_4": "yellow_concrete_powder.png",
+    "1_16_1": "yellow_concrete_powder.png",
+    "1_15_2": "yellow_concrete_powder.png",
+    "1_14_4": "yellow_concrete_powder.png",
+    "1_13_2": "yellow_concrete_powder.png"
+  },
+  {
+    "1_17": "yellow_glazed_terracotta.png",
+    "1_16_4": "yellow_glazed_terracotta.png",
+    "1_16_1": "yellow_glazed_terracotta.png",
+    "1_15_2": "yellow_glazed_terracotta.png",
+    "1_14_4": "yellow_glazed_terracotta.png",
+    "1_13_2": "yellow_glazed_terracotta.png"
+  },
+  {
+    "1_17": "yellow_shulker_box.png",
+    "1_16_4": "yellow_shulker_box.png",
+    "1_16_1": "yellow_shulker_box.png",
+    "1_15_2": "yellow_shulker_box.png",
+    "1_14_4": "yellow_shulker_box.png",
+    "1_13_2": "yellow_shulker_box.png"
+  },
+  {
+    "1_17": "yellow_stained_glass.png",
+    "1_16_4": "yellow_stained_glass.png",
+    "1_16_1": "yellow_stained_glass.png",
+    "1_15_2": "yellow_stained_glass.png",
+    "1_14_4": "yellow_stained_glass.png",
+    "1_13_2": "yellow_stained_glass.png"
+  },
+  {
+    "1_17": "yellow_stained_glass_pane_top.png",
+    "1_16_4": "yellow_stained_glass_pane_top.png",
+    "1_16_1": "yellow_stained_glass_pane_top.png",
+    "1_15_2": "yellow_stained_glass_pane_top.png",
+    "1_14_4": "yellow_stained_glass_pane_top.png",
+    "1_13_2": "yellow_stained_glass_pane_top.png"
+  },
+  {
+    "1_17": "yellow_terracotta.png",
+    "1_16_4": "yellow_terracotta.png",
+    "1_16_1": "yellow_terracotta.png",
+    "1_15_2": "yellow_terracotta.png",
+    "1_14_4": "yellow_terracotta.png",
+    "1_13_2": "yellow_terracotta.png"
+  },
+  {
+    "1_17": "yellow_wool.png",
+    "1_16_4": "yellow_wool.png",
+    "1_16_1": "yellow_wool.png",
+    "1_15_2": "yellow_wool.png",
+    "1_14_4": "yellow_wool.png",
+    "1_13_2": "yellow_wool.png"
+  }
+]
